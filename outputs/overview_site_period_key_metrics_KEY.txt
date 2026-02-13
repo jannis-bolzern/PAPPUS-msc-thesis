@@ -1,0 +1,102 @@
+PAPPUS — overview_site_period_key_metrics.csv
+Column key (network unit = Site (UGS) × Period A/B/C)
+
+General notes
+- Each row is one plant–pollinator interaction network for one site (ugs_id) in one sampling period (A/B/C).
+- “Interacting plants” / “interacting pollinators” refer to taxa that appear in the interaction data (≥1 recorded interaction).
+- Weighted quantities use the interaction weight w, where w = sum(amount) for each plant–pollinator pair within that site×period.
+- Scores (score_*) are on a 0–1 scale relative to other networks in this dataset (higher = better for “data suitability”).
+  They are built from “robust rescaling” (≈5th–95th percentile scaling with clamping), so 1 means “high compared to others”.
+
+Columns
+
+rank_overall
+  Rank (1 = best) based on score_overall_noBG (descending).
+
+network_id
+  Convenience ID built as “{period}_{ugs_id}” (e.g., B_33).
+
+period
+  Sampling period (A, B, or C).
+
+ugs_id
+  Site ID (100×100 m site).
+
+ugs_type
+  Urban greenspace type (e.g., Allotment, Garden, Park, Real estate, Ruderal).
+
+site_name
+  Human-readable site name from the UGS metadata table.
+
+plants_recorded
+  Number of plant taxa recorded in the vegetation survey for that site×period (includes plants never visited).
+
+P_plants
+  Number of plant taxa that occur in the interaction network (plants with ≥1 recorded pollinator interaction).
+
+plants_interaction_share
+  Ratio of interacting plants to recorded plants: P_plants / plants_recorded.
+  Higher means a larger fraction of the local flora was actually observed in interactions.
+
+N_interactions
+  Total interaction count (sum of all edge weights w) in the site×period network.
+
+A_pollinators
+  Number of pollinator taxa in the interaction network (species/morphospecies/group labels depending on ID resolution).
+
+L_links
+  Number of unique realized plant–pollinator links (unique plant×pollinator pairs with w > 0).
+
+singleton_rate
+  Fraction of links with exactly one recorded interaction (w == 1) among all links.
+  Lower is usually better (fewer one-off links; less sparse/noisy).
+
+share_interactions_species_id
+  Share of interaction counts contributed by pollinators identified to species level.
+  (sum of amount for species-ID interactions) / (sum of amount for all interactions).
+  Higher means better taxonomic resolution for trait matching.
+
+share_bee_interactions
+  Share of interaction counts contributed by bees (based on family/group flags).
+  Higher means the network is more bee-dominated (relevant because bee trait coverage is strongest).
+
+plant_trait_weighted_cov
+  Weighted plant trait coverage: fraction of interactions that involve plants with trait data available.
+  (sum of plant interaction weights where plant has traits) / (sum of plant interaction weights).
+
+bee_trait_weighted_cov
+  Weighted bee trait coverage: fraction of bee interactions that involve bee taxa with trait data (species or genus fallback).
+  (sum of bee interaction weights where bee has traits) / (sum of bee interaction weights).
+
+score_richness
+  0–1 score summarizing network “size/richness”, computed as the mean of:
+  - s_N from N_interactions
+  - s_P from P_plants
+  - s_A from A_pollinators
+  - s_L from L_links
+  Higher means more interactions and more taxa/links (generally better statistical power).
+
+score_completeness
+  0–1 score summarizing “reliability/completeness”, computed as the mean of:
+  - s_singletons from (1 - singleton_rate)  [rewards fewer singletons]
+  - s_species_id from share_interactions_species_id
+  Higher means fewer one-off links and better species-level identification.
+
+score_trait_coverage
+  0–1 score summarizing trait-data completeness, computed as the mean of:
+  - s_plant_traits_cov from plant_trait_weighted_cov
+  - s_bee_traits_cov from bee_trait_weighted_cov
+  Higher means more of the interaction mass can be used in trait-based analyses.
+
+score_trait_breadth
+  0–1 score summarizing trait “breadth/variability” (representativeness proxy).
+  In your pipeline this is derived from rescaled breadth metrics (e.g., richness/ranges of key plant and bee traits).
+  Higher means the network spans a broader range of trait values/categories (useful for selecting representative networks).
+
+score_overall_noBG
+  Overall 0–1 “data suitability” score used for selection before the Botanical Garden overlap is available.
+  In your current weighting:
+    0.40*score_richness + 0.20*score_completeness + 0.15*score_structure +
+    0.15*score_trait_coverage + 0.10*score_trait_breadth
+  (Exact weights may differ if you changed the script; the key point is: higher = better candidate for analysis/sampling.)
+

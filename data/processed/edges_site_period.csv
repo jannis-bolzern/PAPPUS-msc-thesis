@@ -1,0 +1,3393 @@
+period,ugs_id,plant,pollinator,w
+A,1,Bellis perennis,Anthaxia nitidula,1
+A,1,Borago officinalis,Apis mellifera,12
+A,1,Convallaria majalis,Apis mellifera,1
+A,1,Myosotis alpestris,Apis mellifera,2
+A,1,Myosotis alpestris,Lucilia sp.,1
+A,1,Ranunculus repens,Episyrphus balteatus,1
+A,1,Ranunculus repens,Sphaerophoria scripta,1
+A,1,Rubus fruticosus aggr.,Apis mellifera,3
+A,1,Rubus idaeus,Apis mellifera,20
+A,1,Rubus idaeus,Bombus pascuorum,1
+A,1,Symphytum officinale,Anthophora plumipes,1
+A,1,Symphytum officinale,Anthophora quadrimaculata,1
+A,1,Symphytum officinale,Apis mellifera,16
+A,1,Symphytum officinale,Bombus pratorum,1
+A,1,Symphytum officinale,Bombus terrestris aggr.,2
+A,1,Symphytum officinale,Melecta albifrons,1
+A,1,Vicia sepium,Apis mellifera,1
+A,2,Allium schoenoprasum,Apis mellifera,1
+A,2,Aquilegia vulgaris,Bombus terrestris aggr.,1
+A,2,Borago officinalis,Anthophora plumipes,1
+A,2,Borago officinalis,Apis mellifera,23
+A,2,Borago officinalis,Bombus pratorum,2
+A,2,Borago officinalis,Bombus terrestris aggr.,1
+A,2,Borago officinalis,Episyrphus balteatus,1
+A,2,Borago officinalis,Sphaerophoria scripta,1
+A,2,Fragaria vesca,Meligethes viridescens,1
+A,2,Nigella damascena,Halictus scabiosae,1
+A,2,Ranunculus repens,Lasioglossum villosulum,1
+A,2,Rubus idaeus,Apis mellifera,10
+A,2,Rubus idaeus,Nowickia sp.,1
+A,2,Sanguisorba minor,Sphaerophoria sp.,1
+A,2,Vicia sepium,Andrena lathyri,1
+A,2,Vicia sepium,Apis mellifera,1
+A,3,Bellis perennis,cf. Tachina sp.,1
+A,3,Borago officinalis,Apis mellifera,1
+A,3,Calendula officinalis,Andrena humilis,2
+A,3,Calendula officinalis,Halictus subauratus,1
+A,3,Calendula officinalis,Lasioglossum leucozonium,1
+A,3,Campanula portenschlagiana,Lasioglossum morio,1
+A,3,Leucanthemum vulgare,Halictus scabiosae,1
+A,3,Leucanthemum vulgare,Halictus subauratus,2
+A,3,Leucanthemum vulgare,Syritta pipiens,1
+A,3,Leucanthemum vulgare,pollen beetle,1
+A,3,Myosotis arvensis,Apis mellifera,1
+A,3,Papaver orientale,Osmia bicornis,1
+A,3,Phacelia tanacetifolia,Apis mellifera,17
+A,3,Phacelia tanacetifolia,Eupeodes luniger,1
+A,3,Phacelia tanacetifolia,Lasioglossum morio,1
+A,3,Phacelia tanacetifolia,Lasioglossum politum,1
+A,3,Phedimus hybridus,Apis mellifera,2
+A,3,Rubus idaeus,Apis mellifera,7
+A,3,Thymus longicaulis,Lasioglossum nitidulum,1
+A,4,Centaurea montana,Apis mellifera,4
+A,4,Centaurea montana,Sphaerophoria sp.,1
+A,4,Fragaria vesca,Halictus simplex aggr.,1
+A,4,Myosotis alpestris,Syritta pipiens,1
+A,4,Rhododendron ponticum,Bombus terrestris aggr.,1
+A,4,Rhododendron ponticum,Osmia bicornis,2
+A,4,Rubus idaeus,Apis mellifera,5
+A,4,Sedum palmeri,Lasioglossum glabriusculum,1
+A,4,Taraxacum officinale,Meligethes viridescens,1
+A,4,Vicia sepium,Apis mellifera,1
+A,4,Vicia sepium,Bombus pascuorum,1
+A,5,Allium schoenoprasum,Apis mellifera,2
+A,5,Borago officinalis,Apis mellifera,4
+A,5,Myosotis arvensis,Andrena sp.,1
+A,5,Myosotis arvensis,Anogcodes rufiventris,1
+A,5,Myosotis arvensis,Apis mellifera,6
+A,5,Myosotis arvensis,Lucilia sp.,1
+A,5,Myosotis arvensis,Syritta pipiens,1
+A,5,Myosotis arvensis,wildbee,1
+A,5,Valerianella locusta aggr.,Sphaerophoria scripta,1
+A,6,Fragaria vesca,Lasioglossum glabriusculum,1
+A,6,Thymus longicaulis,Meligethes sp. (noir),1
+A,6,Thymus vulgaris,Eupeodes luniger,1
+A,6,Vicia faba,Eucera nigrescens,1
+A,7,Allium nigrum,Apis mellifera,4
+A,7,Allium schoenoprasum,Apis mellifera,7
+A,7,Allium schoenoprasum,Ceratina cyanea,1
+A,7,Aquilegia vulgaris,Apis mellifera,1
+A,7,Aquilegia vulgaris,Xylocopa violacea,1
+A,7,Armoracia rusticana,Anthrenus verbasci,1
+A,7,Armoracia rusticana,Oxythyrea funesta,1
+A,7,Borago officinalis,Apis mellifera,22
+A,7,Borago officinalis,Pemphredon sp.,1
+A,7,Carum carvi,Andrena minutuloides,1
+A,7,Carum carvi,Apis mellifera,1
+A,7,Carum carvi,Morphospecies 2,1
+A,7,Carum carvi,Pipizella sp.,1
+A,7,Carum carvi,Pipizella viduata,1
+A,7,Dianthus barbatus,Oxythyrea funesta,3
+A,7,Fragaria vesca,Halictus tumulorum,1
+A,7,Myosotis alpestris,Apis mellifera,6
+A,7,Myosotis alpestris,Halictus tumulorum,1
+A,7,Myosotis alpestris,Lucilia sp.,1
+A,7,Myosotis alpestris,Sphaerophoria scripta,1
+A,7,Myosotis alpestris,Sphaerophoria sp.,1
+A,7,Myosotis alpestris,Syritta pipiens,1
+A,7,Rubus fruticosus aggr.,Apis mellifera,13
+A,7,Salvia pratensis,Apis mellifera,1
+A,7,Thymus vulgaris,Apis mellifera,4
+A,7,Valerianella locusta aggr.,Apis mellifera,1
+A,7,Valerianella locusta aggr.,Lasioglossum politum,3
+A,7,Vicia faba,Eucera nigrescens,1
+A,8,Allium schoenoprasum,Apis mellifera,1
+A,8,Aubrieta deltoidea,Cantharis rustica,1
+A,8,Bellis perennis,Sphaerophoria sp.,1
+A,8,Bellis perennis,diptera,1
+A,8,Erysimum odoratum,Hylaeus sp.,1
+A,8,Erysimum odoratum,Osmia brevicornis,1
+A,8,Rubus idaeus,Apis mellifera,1
+A,8,Saponaria ocymoides,Amara familiaris,1
+A,8,Thymus longicaulis,Apis mellifera,10
+A,8,Thymus longicaulis,Lasioglossum politum,1
+A,8,Thymus longicaulis,Merodon equestris,2
+A,9,Pulmonaria officinalis,Osmia cornuta,1
+A,9,Ribes nigrum,Coccinella septempunctata,1
+A,9,Taraxacum officinale,Protaetia cuprea s.l.,1
+A,10,Allium schoenoprasum,Apis mellifera,5
+A,10,Aquilegia vulgaris,Apis mellifera,1
+A,10,Borago officinalis,Apis mellifera,9
+A,10,Fragaria _x ananassa,Lasioglossum pauxillum,1
+A,10,Fragaria vesca,Lasioglossum pauxillum,1
+A,10,Fragaria vesca,Oedemera nobilis,1
+A,10,Myosotis arvensis,Andrena bicolor,1
+A,10,Myosotis arvensis,Apis mellifera,4
+A,10,Myosotis arvensis,Bomylius venosus,1
+A,10,Myosotis arvensis,Eupeodes luniger,1
+A,10,Myosotis arvensis,Propylaea quatuordecimpunctata,1
+A,10,Myosotis arvensis,cf. Lucilia sp.,1
+A,10,Myosotis arvensis,lepidoptera,1
+A,10,Ranunculus repens,Episyrphus balteatus,1
+A,10,Rosa foetida,Apis mellifera,2
+A,10,Rosa foetida,Bombus terrestris aggr.,1
+A,10,Rosa foetida,Cetonia aurata,1
+A,10,Rosa foetida,Oxythyrea funesta,1
+A,10,Rosmarinus officinalis,Apis mellifera,1
+A,10,Symphytum officinale,Anthophora plumipes,1
+A,10,Symphytum officinale,Apis mellifera,2
+A,10,Symphytum officinale,Osmia caerulescens,1
+A,10,Veronica filiformis,Sphaerophoria scripta,1
+A,10,Veronica serpyllifolia,Andrena labiata,1
+A,11,Ajuga reptans,Apis mellifera,1
+A,11,Eruca vesicaria,pollen beetle,3
+A,11,Hyacinthoides hispanica,Apis mellifera,2
+A,11,Hyacinthoides hispanica,Osmia bicornis,1
+A,11,Hyacinthoides hispanica,wildbee,1
+A,11,Rosmarinus officinalis,Apis mellifera,1
+A,11,Valerianella locusta aggr.,Episyrphus balteatus,1
+A,11,Veronica hederifolia,Episyrphus balteatus,1
+A,12,Ajuga reptans,Apis mellifera,2
+A,12,Centaurea montana,Apis mellifera,7
+A,12,Centaurea montana,syrphidae,1
+A,12,Hyacinthoides _x massartiana,Eucera nigrescens,1
+A,12,Muscari botryoides,Osmia bicornis,1
+A,12,Myosotis alpestris,Apis mellifera,1
+A,12,Myosotis alpestris,Osmia bicolor,1
+A,12,Ranunculus repens,diptera,1
+A,12,Sinapis alba,pollen beetle,3
+A,12,Vicia sepium,Eucera nigrescens,1
+A,13,Bellis perennis,Anthrenus angustefasciatus,1
+A,13,Bellis perennis,Halictus tumulorum,1
+A,13,Bellis perennis,Lasioglossum pauxillum,2
+A,13,Bellis perennis,Morphospecies 20,1
+A,13,Bellis perennis,NA,1
+A,13,Geranium pyrenaicum,Apis mellifera,2
+A,13,Geranium pyrenaicum,Chelostoma florisomne,1
+A,13,Geranium pyrenaicum,Halictus tumulorum,1
+A,13,Geranium pyrenaicum,Lasioglossum pauxillum,3
+A,13,Leucanthemum vulgare,Anthrenus angustefasciatus,1
+A,13,Leucanthemum vulgare,Lasioglossum pauxillum,3
+A,13,Leucanthemum vulgare,Lucilia sp.,1
+A,13,Plantago lanceolata,Halictus tumulorum,1
+A,13,Plantago lanceolata,Lasioglossum morio,1
+A,13,Ranunculus acris,Halictus tumulorum,1
+A,13,Ranunculus acris,Lasioglossum pauxillum,1
+A,13,Ranunculus acris,Lasioglossum politum,2
+A,13,Ranunculus acris,Osmia bicornis,1
+A,13,Salvia pratensis,Apis mellifera,1
+A,13,Sorbus aucuparia,Apis mellifera,1
+A,13,Trifolium pratense,Halictus tumulorum,1
+A,13,Veronica chamaedrys,Halictus tumulorum,1
+A,13,Veronica chamaedrys,Lasioglossum pauxillum,1
+A,14,Bellis perennis,Lucilia sp.,1
+A,14,Bellis perennis,diptera,1
+A,14,Hippocrepis emerus,diptera,1
+A,14,Hippocrepis emerus,wildbee,1
+A,14,Lonicera xylosteum,Apis mellifera,3
+A,14,Lonicera xylosteum,Osmia bicornis,2
+A,14,Ranunculus acris,Oxythyrea funesta,1
+A,14,Ranunculus acris,syrphidae,1
+A,14,Ranunculus acris,wildbee,3
+A,14,Ranunculus bulbosus,Melanostoma mellinum,1
+A,14,Ranunculus bulbosus,diptera_Te2,1
+A,14,Ranunculus bulbosus,pollen beetle,1
+A,14,Ranunculus bulbosus,wildbee,1
+A,14,Scandosorbus intermedia,Anthophora plumipes,1
+A,14,Scandosorbus intermedia,Apis mellifera,1
+A,14,Scandosorbus intermedia,Cetonia aurata,1
+A,14,Vicia sepium,Bombus sp.,1
+A,15,Amelanchier ovalis,Andrena fulva,1
+A,15,Euphorbia cyparissias,Morphospecies 22,1
+A,15,Euphorbia cyparissias,parasitic wasp,3
+A,15,Prunus mahaleb,Apis mellifera,1
+A,15,Prunus mahaleb,Bombylius major,1
+A,15,Prunus mahaleb,Episyrphus balteatus,1
+A,15,Prunus spinosa,Anthophora plumipes,1
+A,15,Prunus spinosa,Apis mellifera,3
+A,15,Prunus spinosa,Syrphus vitripennis,1
+A,15,Ranunculus acris,Apis mellifera,1
+A,15,Ranunculus acris,Halictus scabiosae,1
+A,15,Ranunculus acris,Halictus tumulorum,1
+A,15,Ranunculus acris,Melanostoma mellinum,2
+A,15,Ranunculus bulbosus,Osmia caerulescens,1
+A,15,Rosmarinus officinalis,Apis mellifera,9
+A,15,Rosmarinus officinalis,Osmia bicornis,1
+A,15,Rosmarinus officinalis,wildbee,1
+A,15,Syringa vulgaris,Grammoptera ruficornis,1
+A,15,Syringa vulgaris,diptera_Ti1,1
+A,16,Bellis perennis,Halictus tumulorum,1
+A,16,Bellis perennis,Sphaerophoria scripta,1
+A,16,Euonymus europaeus,Anaspis frontalis,1
+A,16,Euonymus europaeus,Anaspis maculata,1
+A,16,Euonymus europaeus,Scathophaga stercoraria,1
+A,16,Ranunculus repens,Episyrphus balteatus,1
+A,16,Ranunculus repens,Halictus tumulorum,1
+A,16,Ranunculus repens,Merodon equestris,1
+A,16,Sorbus aria,Apis mellifera,6
+A,16,Veronica hederifolia,Platycheirus albimanus,1
+A,17,Ajuga reptans,Apis mellifera,1
+A,17,Bellis perennis,Andrena humilis,1
+A,17,Bellis perennis,Apis mellifera,1
+A,17,Bellis perennis,Lasioglossum malachurum,1
+A,17,Bellis perennis,NA,2
+A,17,Bellis perennis,Sphaerophoria sp.,1
+A,17,Bellis perennis,cf. Chromatomyia sp.,1
+A,17,Bellis perennis,diptera,3
+A,17,Bellis perennis,diptera_A4,1
+A,17,Bellis perennis,diptera_A8,1
+A,17,Bellis perennis,diptera_A9,1
+A,17,Bellis perennis,diptera_E3,1
+A,17,Bellis perennis,diptera_E4,1
+A,17,Bellis perennis,diptera_Sci1,1
+A,17,Glechoma hederacea,Apis mellifera,1
+A,17,Ranunculus bulbosus,diptera_Ce2,1
+A,17,Ranunculus repens,?,1
+A,17,Ranunculus repens,Apis mellifera,1
+A,17,Taraxacum officinale,Andrena humilis,2
+A,17,Taraxacum officinale,Apis mellifera,8
+A,17,Taraxacum officinale,Lasioglossum calceatum,2
+A,17,Taraxacum officinale,Meligethes aeneus,2
+A,17,Taraxacum officinale,diptera_Lon1,1
+A,17,Veronica serpyllifolia,Apis mellifera,1
+A,18,Bellis perennis,Eupeodes luniger,1
+A,18,Bellis perennis,Malachius bipustulatus,1
+A,18,Bellis perennis,Scathophaga sp.,1
+A,18,Bellis perennis,diptera,1
+A,18,Ranunculus acris,Lasioglossum pauxillum,1
+A,18,Sorbus aria,Apis mellifera,3
+A,18,Sorbus aria,Bombus terrestris aggr.,1
+A,18,Taraxacum officinale,Apis mellifera,1
+A,18,Taraxacum officinale,Lucilia sp.,1
+A,19,Ajuga reptans,Bomylius major,1
+A,19,Ajuga reptans,Eucera nigrescens,1
+A,19,Ajuga reptans,Rhingia campestris,1
+A,19,Bellis perennis,Andrena viridescens,1
+A,19,Bellis perennis,Apis mellifera,1
+A,19,Bellis perennis,Lasioglossum calceatum,1
+A,19,Bellis perennis,Lasioglossum morio,1
+A,19,Bellis perennis,diptera,1
+A,19,Bellis perennis,diptera_A10,1
+A,19,Cardamine pratensis,Andrena subopaca,1
+A,19,Cardamine pratensis,Cidnopus pilosus,1
+A,19,Chaenomeles speciosa,Apis mellifera,3
+A,19,Crepis biennis,Apis mellifera,1
+A,19,Ranunculus bulbosus,Andrena subopaca,1
+A,19,Ranunculus bulbosus,Chelostoma florisomne,1
+A,19,Ranunculus bulbosus,Lasioglossum pauxillum,1
+A,19,Ranunculus bulbosus,Osmia bicornis,1
+A,19,Ranunculus bulbosus,wildbee,1
+A,19,Staphylea pinnata,Apis mellifera,2
+A,19,Staphylea pinnata,Bombus sp.,1
+A,19,Taraxacum officinale,Apis mellifera,8
+A,19,Taraxacum officinale,Lasioglossum nitidulum,1
+A,19,Taraxacum officinale,Meligethes aeneus,5
+A,19,Vicia sepium,Bombus pascuorum,2
+A,20,Allium nigrum,Apis mellifera,2
+A,20,Allium nigrum,Halictus tumulorum,1
+A,20,Bellis perennis,Anthrenus angustefasciatus,1
+A,20,Bellis perennis,Lasioglossum nitidulum,1
+A,20,Carex pairae,Platycheirus scutatus aggr.,1
+A,20,Euphorbia amygdaloides,Apis mellifera,1
+A,20,Euphorbia amygdaloides,Lasioglossum politum,1
+A,20,Euphorbia amygdaloides,Sphaerophoria scripta,2
+A,20,Geranium macrorrhizum,Apis mellifera,5
+A,20,Geranium macrorrhizum,Lasioglossum morio,1
+A,20,Geranium sanguineum,Apis mellifera,1
+A,20,Glechoma hederacea,Apis mellifera,6
+A,20,Linnaea amabilis,Apis mellifera,6
+A,20,Linnaea amabilis,Lasioglossum nitidulum,1
+A,20,Ranunculus acris,Lasioglossum politum,1
+A,20,Ranunculus acris,wildbee,1
+A,20,Ranunculus repens,Byturus tomentosus,2
+A,20,Ranunculus repens,Lasioglossum morio,1
+A,20,Ranunculus repens,Oedemera virescens,1
+A,20,Trifolium pratense,Apis mellifera,1
+A,20,Trifolium pratense,Halictus tumulorum,1
+A,20,Vicia sepium,Eucera nigrescens,1
+A,21,Ajuga reptans,Anthophora plumipes,2
+A,21,Ajuga reptans,Apis mellifera,1
+A,21,Ajuga reptans,Eucera nigrescens,1
+A,21,Ajuga reptans,Sphaerophoria sp.,1
+A,21,Cerastium fontanum,Panemaria tenebrata,1
+A,21,Crepis biennis,wildbee,1
+A,21,Hippocrepis emerus,Bombus lapidarius,1
+A,21,Knautia arvensis,Apis mellifera,1
+A,21,Prunus padus,Lasioglossum laticeps,1
+A,21,Ranunculus acris,Lasioglossum calceatum,1
+A,21,Ranunculus acris,Lasioglossum malachurum,1
+A,21,Ranunculus acris,Osmia bicornis,2
+A,21,Ranunculus bulbosus,Cidnopus pilosus,1
+A,21,Ranunculus bulbosus,Melanostoma mellinum,2
+A,21,Ranunculus bulbosus,Melanostoma scalare,3
+A,21,Ranunculus bulbosus,Oxythyrea funesta,1
+A,21,Ranunculus bulbosus,syrphidae,1
+A,21,Staphylea pinnata,Anthophora plumipes,1
+A,21,Staphylea pinnata,Bombus terrestris aggr.,1
+A,21,Staphylea pinnata,Lasioglossum morio,1
+A,21,Staphylea pinnata,Rhingia campestris,1
+A,21,Staphylea pinnata,wildbee,2
+A,21,Symphytum grandiflorum,Anthophora plumipes,1
+A,21,Taraxacum officinale,Apis mellifera,1
+A,21,Taraxacum officinale,Oxythyrea funesta,1
+A,21,Veronica chamaedrys,Bomylius major,1
+A,22,Bellis perennis,Apis mellifera,1
+A,22,Bellis perennis,Eupeodes luniger,1
+A,22,Bellis perennis,Lasioglossum pauxillum,4
+A,22,Bellis perennis,NA,1
+A,22,Bellis perennis,Pipizella viduata,1
+A,22,Geranium nodosum,Apis mellifera,1
+A,22,Geranium sanguineum,Apis mellifera,2
+A,22,Geranium sanguineum,Lasioglossum calceatum,1
+A,22,Geranium sanguineum,Merodon equestris,1
+A,22,Ranunculus repens,Eumerus striatus/sogdianus aggr.,1
+A,22,Symphytum officinale,Anthophora plumipes,3
+A,22,Symphytum officinale,Apis mellifera,2
+A,22,Symphytum officinale,Bombus hyponorum,1
+A,22,Trifolium pratense,Eucera nigrescens,1
+A,23,Ajuga reptans,Anthophora plumipes,1
+A,23,Ajuga reptans,Apis mellifera,92
+A,23,Ajuga reptans,Bombus pascuorum,1
+A,23,Ajuga reptans,Bombylius major,1
+A,23,Ajuga reptans,Bomylius major,2
+A,23,Ajuga reptans,Osmia bicornis,9
+A,23,Ajuga reptans,Rhingia campestris,3
+A,23,Allium ursinum,Andrena bicolor cf.,1
+A,23,Allium ursinum,Apis mellifera,1
+A,23,Fragaria vesca,Anthonomus rubi,1
+A,23,Taraxacum officinale,Apis mellifera,16
+A,23,Taraxacum officinale,Pyrrhocoris apterus,1
+A,23,Viburnum lantana,Cetonia aurata,2
+A,23,Viburnum lantana,diptera_E4,1
+A,24,Bellis perennis,Sarcophaga sp.,1
+A,24,Deutzia gracilis,Apis mellifera,1
+A,24,Deutzia gracilis,Bombus pratorum,1
+A,24,Sinapis arvensis,Eupeodes luniger,1
+A,24,Veronica persica,Andrena viridescens,1
+A,26,Allium cristophii,Apis mellifera,5
+A,26,Aquilegia vulgaris,Bombus hyponorum,1
+A,26,Aquilegia vulgaris,Lasioglossum pauxillum,2
+A,26,Dasiphora fruticosa,Apis mellifera,1
+A,26,Dasiphora fruticosa,Halictus subauratus,2
+A,26,Dasiphora fruticosa,pollen beetle,15
+A,26,Geranium platypetalum,Apis mellifera,13
+A,26,Geranium platypetalum,Osmia bicornis,1
+A,26,Geranium rivulare,Apis mellifera,4
+A,26,Geranium rivulare,Lasioglossum nitidulum,2
+A,26,Geranium sanguineum,Apis mellifera,2
+A,26,Geranium sanguineum,Merodon equestris,1
+A,26,Geranium sanguineum,Osmia caerulescens,1
+A,26,Lavandula stoechas,Apis mellifera,6
+A,26,Lavandula stoechas,Bombus pratorum,1
+A,26,Rhododendron ponticum,Apis mellifera,1
+A,26,Rhododendron ponticum,Bombus pratorum,3
+A,26,Rhododendron ponticum,Lasioglossum nitidulum,1
+A,26,Rhododendron ponticum,diptera_A4,1
+A,26,Salvia officinalis,Apis mellifera,6
+A,26,Salvia officinalis,Osmia caerulescens,1
+A,26,Weigela florida,Lasioglossum politum,1
+A,27,Aegopodium podagraria,Dolycoris baccarum,1
+A,27,Aegopodium podagraria,Halictus scabiosae,1
+A,27,Aegopodium podagraria,Oxythyrea funesta,1
+A,27,Aegopodium podagraria,Paragus pecchiolii,1
+A,27,Allium schoenoprasum,Eupeodes luniger,1
+A,27,Centaurea montana,Apis mellifera,4
+A,27,Centaurea montana,Halictus tumulorum,1
+A,27,Centaurea montana,Osmia caerulescens,1
+A,27,Cytisus scoparius,Halictus tumulorum,1
+A,27,Geranium sanguineum,Lasioglossum morio,1
+A,27,Geranium sanguineum,Osmia caerulescens,1
+A,27,Iris _x germanica,Mononychus punctumalbum,1
+A,27,Rosa arvensis,Anthonomus rubi,1
+A,27,Rosa arvensis,Bombus hyponorum,1
+A,27,Rosa arvensis,Episyrphus balteatus,1
+A,27,Rosa arvensis,Morphospecies 17,1
+A,27,Rosa spinosissima,Cetonia aurata,1
+A,27,Rosa spinosissima,Halictus simplex aggr.,1
+A,27,Rosa spinosissima,Oxythyrea funesta,1
+A,27,Rosmarinus officinalis,Apis mellifera,1
+A,27,Rosmarinus officinalis,Eupeodes luniger,1
+A,27,Rubus idaeus,Apis mellifera,14
+A,27,Salvia elegans,Platycheirus scutatus aggr.,1
+A,27,Thymus vulgaris,Apis mellifera,1
+A,27,Thymus vulgaris,Lucilia sp.,1
+A,27,Vicia sepium,Bombus pascuorum,1
+A,28,Bellis perennis,Chaetocnema sp.,1
+A,28,Malus domestica,Lasioglossum morio,1
+A,28,Primula vulgaris,Lasioglossum morio,1
+A,28,Taraxacum officinale,Lasioglossum calceatum,1
+A,28,Taraxacum officinale,Meligethes viridescens,1
+A,29,Ajuga reptans,Osmia caerulescens,1
+A,29,Bellis perennis,Lasioglossum morio,1
+A,29,Hyacinthoides hispanica,Lasioglossum politum,1
+A,29,Iberis sempervirens,Anthrenus angustefasciatus,1
+A,29,Iberis sempervirens,Anthrenus verbasci,1
+A,29,Iberis sempervirens,Lasioglossum morio,1
+A,29,Iberis sempervirens,Pipizella sp.,1
+A,29,Phlox subulata,Apis mellifera,1
+A,29,Sonchus oleraceus,Lasioglossum villosulum,1
+A,29,Veronica chamaedrys,Andrena viridescens,2
+A,30,Deutzia scabra,Apis mellifera,1
+A,30,Deutzia scabra,Bombus pratorum,1
+A,30,Deutzia scabra,diptera,1
+A,30,Geranium platypetalum,Apis mellifera,1
+A,30,Helianthemum nummularium,Apis mellifera,1
+A,30,Helianthemum nummularium,Bombus terrestris aggr.,2
+A,30,Helianthemum nummularium,Episyrphus balteatus,2
+A,30,Helianthemum nummularium,Eupeodes luniger,1
+A,30,Helianthemum nummularium,Lasioglossum morio,1
+A,30,Helianthemum nummularium,diptera_T15,1
+A,30,Rhododendron catawbiense,Bombus hyponorum,2
+A,30,Rhododendron catawbiense,Eristalis tenax,1
+A,30,Rubus idaeus,Apis mellifera,2
+A,30,Salvia officinalis,Apis mellifera,1
+A,31,Ajuga reptans,Apis mellifera,1
+A,31,Ajuga reptans,Eucera nigrescens,1
+A,31,Ajuga reptans,Morphospecies 6,1
+A,31,Ajuga reptans,Osmia bicornis,2
+A,31,Ajuga reptans,wildbee,1
+A,31,Allium ursinum,Byturus tomentosus,1
+A,31,Allium ursinum,Harpocera thoracica,1
+A,31,Fragaria vesca,Platycheirus albimanus,1
+A,31,Lamium galeobdolon,Anthophora plumipes,1
+A,31,Malus sylvestris,Apis mellifera,5
+A,31,Rosmarinus officinalis,Apis mellifera,1
+A,32,Arabis alpina,Apis mellifera,1
+A,32,Arabis alpina,Cetonia aurata,1
+A,32,Arabis alpina,Lasioglossum morio,2
+A,32,Arabis alpina,Lasioglossum nitidulum,3
+A,32,Arabis alpina,Panemaria tenebrata,1
+A,32,Aurinia saxatilis,Lasioglossum morio,1
+A,32,Aurinia saxatilis,diptera,1
+A,32,Buxus sempervirens,Apis mellifera,2
+A,32,Centaurea montana,Apis mellifera,2
+A,32,Cotoneaster divaricatus,Apis mellifera,3
+A,32,Cotoneaster divaricatus,Dolichovespula saxonica,1
+A,32,Hyacinthoides _x massartiana,Lasioglossum calceatum,1
+A,32,Hyacinthoides _x massartiana,Lasioglossum morio,1
+A,32,Prunus laurocerasus,Apis mellifera,1
+A,32,Prunus laurocerasus,Lasioglossum laticeps,2
+A,32,Prunus laurocerasus,wildbee,1
+A,32,Veronica filiformis,diptera,1
+A,32,Viola cornuta,Bombylius major,1
+A,33,Cornus sanguinea,Apis mellifera,1
+A,33,Geranium macrorrhizum,Apis mellifera,1
+A,34,Bellis perennis,Bombylius major,2
+A,34,Bellis perennis,Lucilia sp.,1
+A,34,Bellis perennis,Platycheirus albimanus,1
+A,34,Bellis perennis,Sphaerophoria sp.,1
+A,34,Bellis perennis,lepidoptera,1
+A,34,Glechoma hederacea,Lasioglossum morio,1
+A,34,Malus floribunda,Episyrphus balteatus,1
+A,34,Muscari armeniacum,Apis mellifera,1
+A,34,Taraxacum officinale,Apis mellifera,6
+A,34,Taraxacum officinale,Lasioglossum morio,1
+A,34,Veronica chamaedrys,Andrena viridescens,1
+A,34,Veronica filiformis,Lasioglossum morio,2
+A,34,Waldsteinia ternata,Bombylius major,1
+A,35,Ajuga reptans,Rhingia campestris,1
+A,35,Alchemilla xanthochlora,Pipizella viduata,1
+A,35,Aquilegia vulgaris,Apis mellifera,5
+A,35,Aquilegia vulgaris,Lasioglossum leucozonium,1
+A,35,Aquilegia vulgaris,Lasioglossum pauxillum,1
+A,35,Centaurea jacea,Apis mellifera,3
+A,35,Cerastium tomentosum,Anthrenus verbasci,1
+A,35,Crepis biennis,Apis mellifera,1
+A,35,Fragaria vesca,Paragus pecchiolii,1
+A,35,Geum rivale,Bombus pratorum,2
+A,35,Geum rivale,Lasioglossum nitidulum,1
+A,35,Leucanthemum vulgare,Coenonympha pamphilus,1
+A,35,Leucanthemum vulgare,Lasioglossum pauxillum,1
+A,35,Medicago lupulina,Andrena afzeliella,1
+A,35,Ranunculus repens,Chelostoma florisomne,1
+A,35,Ranunculus repens,Lasioglossum pauxillum,2
+A,35,Ranunculus repens,Osmia bicornis,1
+A,36,Prunus avium,Apis mellifera,5
+A,36,Prunus laurocerasus,Andrena fulva,1
+A,36,Prunus laurocerasus,Andrena haemorrhoa,1
+A,36,Prunus laurocerasus,Apis mellifera,6
+A,36,Prunus laurocerasus,Bombus terrestris,1
+A,36,Prunus laurocerasus,Cetonia aurata,1
+A,36,Ribes nigrum,Lasioglossum calceatum,1
+A,36,Taraxacum officinale,Apis mellifera,1
+A,36,Veronica filiformis,Lasioglossum pauxillum,1
+A,36,Veronica filiformis,Platycheirus albimanus,1
+A,36,Viburnum carlesii,Lasioglossum laticeps,1
+A,37,Ajuga reptans,Osmia bicornis,1
+A,37,Cardamine bulbifera,Apis mellifera,2
+A,37,Cardamine bulbifera,Bomylius major,3
+A,37,Cardamine bulbifera,Osmia bicornis,1
+A,37,Iberis sempervirens,Bomylius major,1
+A,37,Iberis sempervirens,Lasioglossum morio,1
+A,37,Iberis sempervirens,Lasioglossum sp.,1
+A,37,Ranunculus bulbosus,Halictus tumulorum,1
+A,37,Symphytum bulbosum,Anthophora plumipes,2
+A,37,Symphytum bulbosum,Apis mellifera,2
+A,37,Symphytum bulbosum,Osmia bicornis,1
+A,37,Vicia sepium,Eucera nigrescens,1
+A,37,Vicia sepium,Gonepteryx rhamni,1
+A,37,Vicia sepium,Polistes sp.,1
+A,38,Anthyllis vulneraria,Andrena afzeliella,2
+A,38,Anthyllis vulneraria,Bombus terrestris,1
+A,38,Anthyllis vulneraria,Lucilia sp.,1
+A,38,Barbarea vulgaris,Apis mellifera,2
+A,38,Barbarea vulgaris,Halictus tumulorum,1
+A,38,Barbarea vulgaris,Lasioglossum politum,3
+A,38,Bellis perennis,Lasioglossum laticeps,1
+A,38,Bellis perennis,Lucilia sp.,1
+A,38,Capsella bursa-pastoris,wildbee,1
+A,38,Geranium pyrenaicum,Halictus tumulorum,1
+A,38,Geranium pyrenaicum,Lasioglossum morio,2
+A,38,Geranium pyrenaicum,Lasioglossum politum,1
+A,38,Geranium pyrenaicum,Osmia bicornis,1
+A,38,Plantago lanceolata,Halictus subauratus,1
+A,38,Ranunculus acris,Halictus tumulorum,1
+A,38,Ranunculus acris,Lasioglossum pauxillum,1
+A,38,Stellaria media,Lasioglossum morio,1
+A,39,Alliaria petiolata,Apis mellifera,3
+A,39,Alliaria petiolata,Dasytes virens,1
+A,39,Alliaria petiolata,Hylaeus punctatus,1
+A,39,Bellis perennis,diptera_E4,1
+A,39,Bellis perennis,diptera_T6,1
+A,39,Euphorbia characias,Apis mellifera,5
+A,39,Euphorbia characias,Lucilia sp.,2
+A,39,Geranium sylvaticum,Osmia bicornis,1
+A,39,Ilex aquifolium,Apis mellifera,2
+A,39,Lamium galeobdolon,Anthophora plumipes,1
+A,39,Sambucus nigra,Apis mellifera,1
+A,39,Symphytum grandiflorum,Apis mellifera,1
+A,39,Taraxacum officinale,Osmia bicornis,1
+A,39,Vicia sepium,Apis mellifera,2
+A,40,Bellis perennis,Andrena subopaca,1
+A,40,Bellis perennis,Lasioglossum laticeps,1
+A,40,Bellis perennis,Lucilia sp.,1
+A,40,Bellis perennis,cf. Gonia sp.,1
+A,40,Glechoma hederacea,Anthophora plumipes,3
+A,40,Pyrus calleryana,Apis mellifera,1
+A,40,Pyrus calleryana,Lasioglossum laticeps,1
+A,40,Taraxacum officinale,Apis mellifera,1
+A,40,Taraxacum officinale,Bombus sylvestris,1
+A,40,Veronica hederifolia,Platycheirus albimanus,1
+A,40,Veronica persica,Apis mellifera,1
+A,40,Veronica persica,Platycheirus scutatus,1
+A,41,Muscari botryoides,Apis mellifera,1
+A,41,Muscari botryoides,Episyrphus balteatus,1
+A,41,Narcissus pseudonarcissus,Meligethes aeneus,2
+A,41,Narcissus pseudonarcissus,Osmia bicornis,1
+A,41,Prunus laurocerasus,Apis mellifera,11
+A,41,Prunus laurocerasus,Lasioglossum sp.,1
+A,41,Prunus laurocerasus,Osmia bicornis,3
+A,41,Prunus laurocerasus,Osmia cornuta,2
+A,42,Alliaria petiolata,Osmia bicornis,1
+A,42,Bellis perennis,Andrena helvola,1
+A,42,Bellis perennis,Lucilia sp.,2
+A,42,Bellis perennis,NA,2
+A,42,Bellis perennis,diptera_A6,1
+A,42,Caragana arborescens,Apis mellifera,2
+A,42,Ilex aquifolium,Apis mellifera,1
+A,42,Ilex aquifolium,Grammoptera ruficornis,1
+A,42,Ilex aquifolium,Osmia bicornis,1
+A,42,Ilex aquifolium,wildbee,1
+A,42,Ilex canariensis,Apis mellifera,27
+A,42,Ilex canariensis,diptera,1
+A,42,Prunus laurocerasus,Apis mellifera,3
+A,42,Prunus laurocerasus,Osmia cornuta,2
+A,42,Syringa persica,Anthophora plumipes,1
+A,42,Taraxacum officinale,Apis mellifera,1
+A,42,Veronica persica,Platycheirus scutatus aggr.,2
+A,42,Viburnum rugosum,Apis mellifera,1
+A,42,Viburnum rugosum,Osmia bicornis,1
+A,42,Viburnum tinus,Apis mellifera,4
+A,42,Viburnum tinus,Osmia bicornis,2
+A,43,Allium ursinum,Apis mellifera,7
+A,43,Allium ursinum,Bombylius major,1
+A,43,Allium ursinum,Lasioglossum morio,1
+A,43,Allium ursinum,Lasioglossum politum,1
+A,43,Allium ursinum,Osmia bicornis,1
+A,43,Allium ursinum,Platycheirus scutatus,1
+A,43,Allium ursinum,wildbee,1
+A,43,Crepis biennis,Andrena humilis,2
+A,43,Deutzia gracilis,Apis mellifera,3
+A,43,Fragaria vesca,Bombylius major,1
+A,43,Fragaria vesca,Halictus tumulorum,1
+A,43,Fragaria vesca,Lasioglossum pauxillum,1
+A,43,Galium mollugo aggr.,Sphaerophoria scripta,1
+A,43,Hieracium murorum,Halictus tumulorum,1
+A,43,Hieracium murorum,Lasioglossum morio,1
+A,43,Hieracium murorum,Lasioglossum nitidulum,1
+A,43,Hieracium murorum,Platycheirus scutatus aggr.,1
+A,43,Ilex aquifolium,Apis mellifera,1
+A,43,Polygonatum multiflorum,Anthophora plumipes,1
+A,43,Ranunculus acris,Lasioglossum laticeps,1
+A,43,Ranunculus acris,Lasioglossum pauxillum,2
+A,43,Ranunculus acris,Morphospecies 4,1
+A,43,Rhinanthus alectorolophus,Bombus terrestris aggr.,2
+A,43,Rhinanthus alectorolophus,Megachile willughbiella,1
+A,43,Salvia pratensis,Apis mellifera,1
+A,43,Salvia pratensis,Episyrphus balteatus,1
+A,43,Salvia pratensis,Eucera nigrescens,1
+A,43,Salvia pratensis,Lasioglossum laticeps,1
+A,43,Sanguisorba minor,Apis mellifera,1
+A,43,Sanguisorba minor,Lucilia sp.,1
+A,43,Sanguisorba minor,Osmia bicornis,1
+A,44,Alliaria petiolata,Lasioglossum morio,2
+A,44,Alliaria petiolata,Lasioglossum pauxillum,2
+A,44,Cornus sericea,Lasioglossum pauxillum,1
+A,44,Ranunculus acris,Apis mellifera,1
+A,44,Ranunculus acris,Chelostoma florisomne,1
+A,44,Ranunculus acris,Lasioglossum pauxillum,3
+A,44,Ranunculus acris,Malachius bipustulatus,2
+A,44,Ranunculus acris,wildbee,2
+A,44,Ranunculus bulbosus,Malachius bipustulatus,1
+A,44,Ranunculus bulbosus,pollen beetle,1
+A,44,Ranunculus repens,wildbee,1
+A,44,Rumex acetosa,Cantharis rustica,1
+A,44,Trifolium pratense,Cantharis rustica,1
+A,44,Veronica chamaedrys,wildbee,1
+A,45,Bellis perennis,Lucilia sp.,1
+A,45,Cornus sanguinea,Halictus simplex aggr.,1
+A,45,Glechoma hederacea,Apis mellifera,1
+A,45,Glechoma hederacea,Lasioglossum pauxillum,1
+A,45,Knautia arvensis,Apis mellifera,4
+A,45,Knautia arvensis,Merodon equestris,2
+A,45,Knautia arvensis,hymenoptera,1
+A,45,Knautia arvensis,lepidoptera,1
+A,45,Leucanthemum vulgare,Cidnopus pilosus,1
+A,45,Leucanthemum vulgare,Lasioglossum pauxillum,2
+A,45,Leucanthemum vulgare,Lucilia sp.,3
+A,45,Leucanthemum vulgare,NA,1
+A,45,Leucanthemum vulgare,Valgus hemipterus,1
+A,45,Ranunculus acris,Halictus simplex aggr.,1
+A,45,Ranunculus acris,Lasioglossum pauxillum,1
+A,45,Ranunculus repens,Andrena afzeliella,1
+A,45,Ranunculus repens,Andrena subopaca,1
+A,45,Ranunculus repens,Chelostoma florisomne,8
+A,45,Ranunculus repens,Halictus tumulorum,1
+A,45,Ranunculus repens,Lasioglossum pauxillum,7
+A,45,Ranunculus repens,Osmia bicornis,1
+A,45,Rhinanthus alectorolophus,Lucilia sp.,1
+A,45,Symphoricarpos albus,Apis mellifera,4
+A,45,Veronica chamaedrys,Andrena viridescens,3
+A,46,Bellis perennis,diptera,1
+A,46,Ranunculus repens,Lasioglossum pauxillum,1
+A,46,Ranunculus repens,Merodon equestris,1
+A,46,Ranunculus repens,Osmia bicornis,1
+A,46,Trifolium pratense,Lasioglossum lativentre,2
+A,47,Bellis perennis,Andrena minutuloides,1
+A,47,Bellis perennis,Halictus tumulorum,1
+A,47,Crepis biennis,Oxythyrea funesta,2
+A,47,Geranium macrorrhizum,Apis mellifera,9
+A,47,Geranium macrorrhizum,Bombus pratorum,1
+A,47,Medicago lupulina,lepidoptera,1
+A,47,Plantago lanceolata,Melanostoma mellinum,1
+A,47,Ranunculus acris,Chelostoma florisomne,1
+A,47,Ranunculus repens,Episyrphus balteatus,1
+A,47,Ranunculus repens,Eumerus striatus/sogdianus aggr.,1
+A,47,Ranunculus repens,Eupeodes luniger,1
+A,47,Ranunculus repens,Polyommatus icarus,1
+A,47,Ranunculus repens,Sphaerophoria sp.,1
+A,47,Salvia pratensis,Apis mellifera,1
+A,47,Syringa pubescens,Osmia cornuta,1
+A,47,Trifolium pratense,Osmia caerulescens,1
+A,48,Bellis perennis,Lasioglossum pauxillum,1
+A,48,Bellis perennis,Lucilia sp.,1
+A,48,Bellis perennis,Sphaerophoria scripta,1
+A,48,Bellis perennis,diptera,1
+A,48,Bellis perennis,diptera (small),1
+A,48,Galium mollugo aggr.,Lasioglossum calceatum,1
+A,48,Galium mollugo aggr.,Lasioglossum laticeps,1
+A,48,Lotus corniculatus,Megachile willughbiella,1
+A,48,Ranunculus acris,Halictus tumulorum,1
+A,48,Ranunculus acris,Oedemera lurida,1
+A,48,Ranunculus acris,Osmia bicornis,2
+A,48,Ranunculus acris,Polyommatus icarus,1
+A,48,Rhinanthus alectorolophus,Osmia bicornis,1
+A,48,Rhinanthus alectorolophus,Oxythyrea funesta,1
+A,49,Anthyllis vulneraria,Ancistrocerus gazella,1
+A,49,Anthyllis vulneraria,Apis mellifera,1
+A,49,Anthyllis vulneraria,Bombus humilis,1
+A,49,Anthyllis vulneraria,Bombus terrestris aggr.,1
+A,49,Centaurea scabiosa,Apis mellifera,1
+A,49,Euphorbia cyparissias,Andrena minutula,1
+A,49,Euphorbia cyparissias,cf. Eumea sp.,1
+A,49,Euphorbia cyparissias,cf. Tachnia sp.,1
+A,49,Helianthemum nummularium,Halictus tumulorum,1
+A,49,Helianthemum nummularium,Merodon equestris,1
+A,49,Helianthemum nummularium,Oedemera lurida,1
+A,49,Helianthemum nummularium,Sphaerophoria sp.,1
+A,49,Leucanthemum vulgare,NA,1
+A,49,Leucanthemum vulgare,diptera_T7,1
+A,49,Lotus corniculatus,Osmia caerulescens,2
+A,49,Pilosella officinarum,Apis mellifera,1
+A,49,Pilosella officinarum,Mordellistena sp.,2
+A,49,Pilosella officinarum,Oedemera lurida,1
+A,49,Pilosella officinarum,Spialia sertorius,1
+A,49,Pilosella officinarum,diptera_A11,1
+A,49,Salvia pratensis,Apis mellifera,6
+A,49,Vicia sepium,Eucera nigrescens,1
+A,50,Galium mollugo aggr.,Episyrphus balteatus,1
+A,50,Galium mollugo aggr.,Halictus tumulorum,1
+A,50,Galium mollugo aggr.,Paragus haemorrhous,1
+A,50,Leucanthemum vulgare,Andrena afzeliella,1
+A,50,Leucanthemum vulgare,Anthrenus verbasci,1
+A,50,Leucanthemum vulgare,Apis mellifera,1
+A,50,Leucanthemum vulgare,Lasioglossum pauxillum,3
+A,50,Leucanthemum vulgare,Nemotelus sp.,1
+A,50,Leucanthemum vulgare,Oxythyrea funesta,1
+A,50,Leucanthemum vulgare,Polyommatus icarus,1
+A,50,Leucanthemum vulgare,Sphaerophoria sp.,1
+A,50,Lotus corniculatus,Andrena afzeliella,1
+A,50,Lotus corniculatus,Andrena wilkella,1
+A,50,Lotus corniculatus,Apis mellifera,6
+A,50,Lotus corniculatus,Bombus terrestris aggr.,1
+A,50,Lotus corniculatus,Sphaerophoria scripta,1
+A,50,Medicago lupulina,Lasioglossum malachurum,1
+A,50,Medicago lupulina,Lasioglossum politum,1
+A,50,Onobrychis viciifolia,Apis mellifera,11
+A,50,Onobrychis viciifolia,Bombus terrestris aggr.,1
+A,50,Onobrychis viciifolia,Halictus confusus,1
+A,50,Pilosella officinarum,Lasioglossum villosulum,1
+A,50,Ranunculus acris,Sphaerophoria scripta,1
+A,50,Rhinanthus alectorolophus,Bombus terrestris aggr.,2
+A,50,Rhinanthus alectorolophus,Euclidia glyphica,1
+A,50,Rhinanthus alectorolophus,Pipizella sp.,1
+A,50,Salvia pratensis,Apis mellifera,12
+A,50,Salvia pratensis,Bombus pratorum,1
+A,51,Euphorbia cyparissias,Morphospecies 11,1
+A,51,Lotus corniculatus,Andrena afzeliella,1
+A,51,Lotus corniculatus,Bombus sp.,1
+A,51,Lotus corniculatus,Scymnus sp.,1
+A,51,Taraxacum officinale,Apis mellifera,14
+A,51,Taraxacum officinale,Meligethes sp. (noir),1
+A,51,Taraxacum officinale,Pyrrhocoris apterus,1
+A,51,Vicia sepium,Apis mellifera,1
+A,51,Vicia sepium,Eucera nigrescens,2
+A,51,Vicia sepium,bombus queen (foto),1
+A,51,Vicia sepium,wildbee,1
+A,52,Anthyllis vulneraria,Bombus terrestris aggr.,1
+A,52,Centaurea scabiosa,Apis mellifera,1
+A,52,Knautia arvensis,Apis mellifera,1
+A,52,Leucanthemum vulgare,Apis mellifera,1
+A,52,Leucanthemum vulgare,cf. Coneosia sp.,1
+A,52,Onobrychis viciifolia,Apis mellifera,20
+A,52,Onobrychis viciifolia,Bombus hortorum,1
+A,52,Onobrychis viciifolia,Bombus terrestris aggr.,1
+A,52,Onobrychis viciifolia,Episyrphus balteatus,1
+A,52,Onobrychis viciifolia,Eupeodes corollae,1
+A,52,Tragopogon pratensis,Eupeodes corollae,1
+A,52,Trifolium pratense,Bombus hortorum,1
+A,52,Trifolium pratense,Lispocephala sp.,1
+A,53,Anthyllis vulneraria,Bombus terrestris aggr.,1
+A,53,Anthyllis vulneraria,Eucera nigrescens,1
+A,53,Anthyllis vulneraria,Pipizella viduata,1
+A,53,Centaurea jacea,Halictus simplex aggr.,1
+A,53,Dianthus carthusianorum,Paragus tibialis/constrictus,1
+A,53,Galium mollugo aggr.,Lasioglossum pauxillum,1
+A,53,Ranunculus acris,Halictus simplex aggr.,2
+A,53,Ranunculus acris,Lasioglossum morio,1
+A,53,Ranunculus acris,Lasioglossum pauxillum,4
+A,53,Ranunculus acris,Sphaerophoria scripta,2
+A,53,Rhinanthus alectorolophus,Andrena afzeliella,1
+A,53,Rhinanthus alectorolophus,Apis mellifera,1
+A,53,Rhinanthus alectorolophus,Bombus pratorum,1
+A,53,Rhinanthus alectorolophus,Bombus terrestris aggr.,5
+A,53,Rhinanthus alectorolophus,Megachile willughbiella,1
+A,53,Rhinanthus alectorolophus,Oxythyrea funesta,1
+A,53,Rhinanthus alectorolophus,Sphaerophoria sp.,1
+A,53,Salvia pratensis,Halictus scabiosae,1
+A,53,Trifolium pratense,Halictus simplex aggr.,1
+A,53,Trifolium pratense,Halictus tumulorum,1
+A,53,Vicia sepium,Bombus terrestris aggr.,1
+A,53,Vicia sepium,Halictus simplex aggr.,1
+A,54,Anthyllis vulneraria,Brachypterolus pulicarius,2
+A,54,Anthyllis vulneraria,Oedemera lurida,1
+A,54,Lotus corniculatus,Eucera longicornis,1
+A,54,Pilosella bauhini,Oedemera lurida,2
+A,54,Pilosella officinarum,Episyrphus balteatus,1
+A,54,Pilosella officinarum,Lasioglossum morio,1
+A,54,Pilosella officinarum,Miridae sp.,2
+A,54,Pilosella officinarum,Oedemera lurida,2
+A,54,Pilosella officinarum,Pieris rapae,1
+A,54,Pilosella officinarum,coleoptera,1
+A,54,Pilosella officinarum,diptera,1
+A,54,Pilosella officinarum,diptera_A11,2
+A,54,Rhamnus cathartica,Apis mellifera,3
+A,54,Rhamnus cathartica,diptera,1
+A,54,Sorbus aria,Andrena haemorrhoa,1
+A,54,Sorbus aria,Apis mellifera,5
+A,54,Sorbus aria,Osmia bicornis,1
+A,54,Trifolium pratense,Apis mellifera,1
+A,54,Valerianella locusta aggr.,Paragus haemorrhous,1
+A,55,Dianthus carthusianorum,Halictus simplex aggr.,1
+A,55,Euphorbia cyparissias,Morphospecies 3,1
+A,55,Euphorbia cyparissias,Pipizella viduata,1
+A,55,Euphorbia cyparissias,diptera,1
+A,55,Helianthemum nummularium,Apis mellifera,2
+A,55,Hippocrepis comosa,Apis mellifera,7
+A,55,Hippocrepis comosa,diptera,1
+A,55,Onobrychis viciifolia,Andrena afzeliella,1
+A,55,Onobrychis viciifolia,Apis mellifera,3
+A,55,Onobrychis viciifolia,Eristalis tenax,1
+A,55,Pilosella officinarum,Oedemera virescens,1
+A,55,Sanguisorba minor,Oedemera lurida,1
+A,56,Campanula glomerata subsp. glomerata,Apis mellifera,1
+A,56,Campanula glomerata subsp. glomerata,Megachile willughbiella,1
+A,56,Campanula glomerata subsp. glomerata,wildbee,1
+A,56,Centaurea jacea,Apis mellifera,9
+A,56,Centaurea jacea,Halictus scabiosae,1
+A,56,Echium vulgare,Apis mellifera,7
+A,56,Echium vulgare,Hoplitis adunca,3
+A,56,Echium vulgare,Osmia bicornis,2
+A,56,Knautia arvensis,Apis mellifera,8
+A,56,Leucanthemum vulgare,Hylaeus gibbus aggr.,1
+A,56,Onobrychis viciifolia,Bombus lapidarius,2
+A,56,Reseda lutea,Aulacobaris sp.,1
+A,56,Reseda lutea,Hylaeus gibbus aggr.,1
+A,56,Rhinanthus alectorolophus,Bombus hortorum,1
+A,56,Rhinanthus alectorolophus,Bombus terrestris aggr.,3
+A,56,Silene vulgaris,Lasioglossum nitidulum,1
+A,57,Ajuga reptans,Anthophora plumipes,4
+A,57,Ajuga reptans,Lasioglossum laticeps,3
+A,57,Ajuga reptans,Nomada sexfasciata,1
+A,57,Ajuga reptans,Osmia bicornis,8
+A,57,Ajuga reptans,wildbee,1
+A,57,Crataegus monogyna,Cetonia aurata,1
+A,57,Lonicera xylosteum,Osmia bicornis,1
+A,57,Ranunculus acris,Apis mellifera,1
+A,57,Ranunculus acris,Chelostoma florisomne,1
+A,57,Ranunculus acris,Lasioglossum pauxillum,2
+A,57,Ranunculus acris,Melanostoma mellinum,2
+A,57,Ranunculus acris,Osmia bicornis,3
+A,57,Ranunculus acris,Oxythyrea funesta,1
+A,57,Ranunculus acris,Sphaerophoria sp.,1
+A,57,Taraxacum officinale,Apis mellifera,3
+A,57,Veronica chamaedrys,Lasioglossum laticeps,4
+A,57,Veronica chamaedrys,Lasioglossum morio,1
+A,57,Veronica chamaedrys,Melanostoma mellinum,1
+A,57,Veronica chamaedrys,Melanostoma scalare,1
+A,57,Veronica chamaedrys,lepidoptera,1
+A,57,Vicia sepium,Apis mellifera,1
+A,57,Vicia sepium,Bombus hortorum,1
+A,57,Vicia sepium,Bomylius major,1
+A,57,Vicia sepium,Eucera nigrescens,1
+A,57,Vicia sepium,Lasioglossum politum,1
+A,57,Vicia sepium,wildbee,1
+A,58,Armoracia rusticana,Eurydema oleracea,1
+A,58,Medicago lupulina,Apis mellifera,1
+A,58,Ranunculus repens,Lasioglossum pauxillum,2
+A,58,Ranunculus repens,Osmia bicornis,1
+A,58,Ranunculus repens,wildbee,1
+A,58,Ranunculus repens,wildbee female,1
+A,58,Reseda lutea,Hylaeus gibbus aggr.,1
+A,58,Symphytum officinale,Apis mellifera,1
+A,58,Symphytum officinale,Bombus terrestris aggr.,1
+A,58,Trifolium pratense,Andrena wilkella,1
+A,58,Trifolium pratense,Apis mellifera,1
+A,58,Trifolium repens,Eupeodes corollae,1
+A,58,Trifolium repens,Halictus simplex aggr.,1
+A,58,Trifolium repens,Lasioglossum pauxillum,1
+A,58,Vicia sepium,Andrena afzeliella,1
+A,58,Vicia sepium,Apis mellifera,11
+A,58,Vicia sepium,Eucera nigrescens,5
+A,58,Vicia sepium,Sarcophaga sp.,1
+A,59,Helianthemum nummularium,Halictus subauratus,1
+A,59,Helianthemum nummularium,Oedemera lurida,1
+A,59,Hippocrepis comosa,Apis mellifera,2
+A,59,Robinia pseudoacacia,Apis mellifera,2
+A,59,Salvia pratensis,Apis mellifera,3
+A,59,Viburnum opulus,Anthrenus verbasci,1
+A,59,Viburnum opulus,Protaetia cuprea s.l.,1
+A,60,Ranunculus acris,diptera,1
+A,60,Trifolium pratense,Oxythyrea funesta,1
+B,1,Aegopodium podagraria,Apis mellifera,4
+B,1,Aegopodium podagraria,Cheilosia soror,1
+B,1,Aegopodium podagraria,Hylaeus communis,1
+B,1,Aegopodium podagraria,Hylaeus leptocephalus,1
+B,1,Aegopodium podagraria,Hylaeus sp.,1
+B,1,Aegopodium podagraria,Lasioglossum laticeps,1
+B,1,Aegopodium podagraria,Lucilia sp.,3
+B,1,Aegopodium podagraria,Oxythyrea funesta,1
+B,1,Aegopodium podagraria,Valgus hemipterus,1
+B,1,Aegopodium podagraria,pollen beetle,4
+B,1,Alchemilla mollis,cf. Eudasyphora sp.,1
+B,1,Borago officinalis,Bombus terrestris aggr.,1
+B,1,Malva sylvestris,Apis mellifera,1
+B,1,Malva sylvestris,Chelostoma rapunculi,1
+B,1,Rubus fruticosus aggr.,Apis mellifera,2
+B,1,Symphytum officinale,Anthophora plumipes,1
+B,1,Symphytum officinale,Bombus hyponorum,1
+B,1,Symphytum officinale,Bombus pascuorum,1
+B,1,Symphytum officinale,Bombus pratorum,1
+B,1,Taraxacum officinale,Apis mellifera,2
+B,1,Taraxacum officinale,Malachius bipustulatus,1
+B,1,Trifolium repens,Apis mellifera,2
+B,2,Borago officinalis,Apis mellifera,1
+B,2,Cucurbita pepo,pollen beetle,8
+B,2,Lapsana communis,Lasioglossum laticeps,1
+B,2,Lapsana communis,Lasioglossum villosulum,1
+B,2,Lupinus polyphyllus,Bombus terrestris aggr.,1
+B,2,Nigella sativa,Apis mellifera,19
+B,2,Nigella sativa,Eupeodes luniger,3
+B,2,Nigella sativa,Lasioglossum laticeps,4
+B,2,Rubus fruticosus aggr.,Apis mellifera,1
+B,3,Achillea clypeolata,Halictus subauratus,1
+B,3,Achillea clypeolata,Hylaeus nigritus,1
+B,3,Allium schoenoprasum,Hylaeus punctulatissimus,1
+B,3,Calendula officinalis,Merodon equestris,1
+B,3,Calendula officinalis,Oedemera lurida,1
+B,3,Campanula persicifolia,Chelostoma rapunculi,1
+B,3,Campanula portenschlagiana,Apis mellifera,2
+B,3,Campanula portenschlagiana,Hylaeus communis,1
+B,3,Geranium endressii,Apis mellifera,1
+B,3,Geranium endressii,Hoplitis adunca,1
+B,3,Leucanthemum vulgare,Halictus subauratus,1
+B,3,Linaria purpurea,wildbee,1
+B,3,Nigella damascena,Apis mellifera,25
+B,3,Nigella damascena,Bombus pascuorum,1
+B,3,Nigella damascena,Eupeodes corollae,1
+B,3,Nigella damascena,Hoplitis adunca,1
+B,3,Phacelia tanacetifolia,Apis mellifera,4
+B,3,Phacelia tanacetifolia,Bombus terrestris aggr.,3
+B,3,Phacelia tanacetifolia,Lasioglossum laticeps,1
+B,3,Phacelia tanacetifolia,Lasioglossum politum,1
+B,3,Phedimus hybridus,Apis mellifera,3
+B,3,Pilosella aurantiaca,Halictus subauratus,1
+B,3,Plantago lanceolata,Apis mellifera,1
+B,3,Rubus idaeus,Apis mellifera,3
+B,3,Rubus idaeus,Bombus pratorum,1
+B,3,Sinapis alba,Osmia brevicornis,1
+B,3,Valeriana rubra,Hoplitis adunca,1
+B,3,Valeriana rubra,Lasioglossum laticeps,1
+B,4,Centaurea montana,Apis mellifera,1
+B,4,Erigeron annuus,Hylaeus brevicornis,1
+B,4,Fragaria vesca,Eupeodes luniger,1
+B,4,Petroselinum crispum,Apis mellifera,1
+B,4,Petroselinum crispum,Hylaeus sinuatus,1
+B,4,Petroselinum crispum,Hylaeus sp.,1
+B,4,Petroselinum crispum,Lucilia sp.,1
+B,4,"Rosa """"""""Little Mozart""""""""",Apis mellifera,1
+B,4,"Rosa """"""""Little Mozart""""""""",Bombus terrestris aggr.,1
+B,4,Rosa setigera,Apis mellifera,1
+B,4,Rubus idaeus,Bombus pascuorum,1
+B,4,Sedum album,Apis mellifera,1
+B,4,Sedum album,Lasioglossum sp.,1
+B,5,Borago officinalis,Bombus terrestris aggr.,1
+B,5,Eschscholzia californica,Eristalis tenax,1
+B,5,Eschscholzia californica,Eupeodes luniger,1
+B,5,Linaria purpurea,Anthophora quadrimaculata,1
+B,5,Linaria purpurea,Bombus humilis,2
+B,5,Nigella damascena,Anogcodes rufiventris,1
+B,5,Nigella damascena,Apis mellifera,5
+B,5,Nigella damascena,Clanoptilus elegans,1
+B,5,Rosa chinensis,Apis mellifera,1
+B,5,Rubus fruticosus aggr.,Apis mellifera,4
+B,5,Valeriana rubra,Episyrphus balteatus,1
+B,6,Cucurbita pepo,Apis mellifera,1
+B,6,Cucurbita pepo,pollen beetle,11
+B,6,Dianthus gratianopolitanus,Apis mellifera,1
+B,6,Fragaria _x ananassa,pollen beetle,4
+B,6,Petroselinum crispum,Andrena combinata,1
+B,6,Petroselinum crispum,Apis mellifera,5
+B,6,Petroselinum crispum,Lucilia sp.,1
+B,6,Solanum lycopersicum,Eupeodes luniger,1
+B,7,Alchemilla mollis,NA,1
+B,7,Borago officinalis,Apis mellifera,4
+B,7,Borago officinalis,Bombus terrestris aggr.,1
+B,7,Campanula medium,Apis mellifera,2
+B,7,Campanula medium,Hylaeus gibbus aggr.,1
+B,7,Centaurea cyanus,Lasioglossum malachurum,1
+B,7,Coriandrum sativum,Apis mellifera,2
+B,7,Coriandrum sativum,Hylaeus communis,7
+B,7,Coriandrum sativum,Hylaeus hyalinatus,1
+B,7,Coriandrum sativum,Hylaeus pictipes,1
+B,7,Coriandrum sativum,Hylaeus sinuatus,3
+B,7,Coriandrum sativum,Hylaeus sp.,1
+B,7,Coriandrum sativum,Oxybelus trispinosus,1
+B,7,Coriandrum sativum,Pipizella sp.,1
+B,7,Coriandrum sativum,diptera_A4,1
+B,7,Cota tinctoria,Heriades truncorum,1
+B,7,Dianthus barbatus,Oxythyrea funesta,1
+B,7,Geum coccineum,Lasioglossum malachurum,3
+B,7,Malva sylvestris,Apis mellifera,1
+B,7,Matricaria chamomilla,Episyrphus balteatus,1
+B,7,Matricaria chamomilla,Lasioglossum malachurum,4
+B,7,Matricaria chamomilla,Lasioglossum pauxillum,1
+B,7,Matricaria chamomilla,Meligethes aeneus,3
+B,7,Matricaria chamomilla,NA,3
+B,7,Matricaria chamomilla,Oxybelus trispinosus,1
+B,7,Matricaria chamomilla,Pemphredon lethifer,1
+B,7,Matricaria chamomilla,Sphaerophoria scripta,1
+B,7,Matricaria chamomilla,diptera,1
+B,7,Nigella damascena,Apis mellifera,5
+B,7,Rosa Luciae,Meligethes aeneus,3
+B,7,Rosa _x damascena,Anogcodes rufiventris,1
+B,7,Tanacetum parthenium,Lasioglossum malachurum,1
+B,7,Tanacetum parthenium,NA,1
+B,7,Tanacetum parthenium,Nemotelus sp.,1
+B,8,Bellis perennis,Eupeodes corollae,1
+B,8,Bellis perennis,Lasioglossum malachurum,1
+B,8,Bletilla striata,Meligethes aeneus,1
+B,8,Calendula officinalis,Episyrphus balteatus,1
+B,8,Calendula officinalis,Lasioglossum malachurum,1
+B,8,Calendula officinalis,Lasioglossum villosulum,1
+B,8,Calendula officinalis,Oedemera nobilis,1
+B,8,Clematis viticella,Apis mellifera,1
+B,8,Erysimum odoratum,Apis mellifera,1
+B,8,Erysimum odoratum,Episyrphus balteatus,1
+B,8,Erysimum odoratum,Osmia brevicornis,1
+B,8,Euphorbia peplus,Eumerus striatus/sogdianus aggr.,1
+B,8,Lapsana communis,Episyrphus balteatus,1
+B,8,Lapsana communis,Eristalis tenax,1
+B,8,Lapsana communis,Lasioglossum malachurum,1
+B,8,Lapsana communis,Lasioglossum villosulum,1
+B,8,Lapsana communis,Sphaerophoria scripta,1
+B,8,Matricaria chamomilla,Apis mellifera,2
+B,8,Matricaria chamomilla,Hylaeus nigritus,1
+B,8,Matricaria chamomilla,Lasioglossum malachurum,7
+B,8,Matricaria chamomilla,Lasioglossum pauxillum,1
+B,8,Matricaria chamomilla,Lucilia sp.,1
+B,8,Matricaria chamomilla,Osmia brevicornis,1
+B,8,Matricaria chamomilla,Trichodes apiarius,1
+B,8,Matricaria chamomilla,diptera_A4,1
+B,8,Nigella damascena,Apis mellifera,3
+B,8,Nigella damascena,Eupeodes luniger,1
+B,8,Rubus idaeus,Bombus hyponorum,1
+B,8,Symphytum officinale,Bombus pascuorum,1
+B,8,Symphytum officinale,Bombus terrestris aggr.,1
+B,8,Trifolium repens,Apis mellifera,1
+B,9,Antirrhinum majus,Xylocopa violacea,1
+B,9,Astrantia major,Anastrangalia sanguinolenta,1
+B,9,Astrantia major,Apis mellifera,7
+B,9,Astrantia major,Cerceris rybyensis,1
+B,9,Astrantia major,Hylaeus brevicornis,1
+B,9,Astrantia major,Hylaeus communis,1
+B,9,Astrantia major,Hylaeus confusus,1
+B,9,Astrantia major,Hylaeus hyalinatus,1
+B,9,Astrantia major,Hylaeus sinuatus,1
+B,9,Astrantia major,Lasioglossum calceatum,1
+B,9,Astrantia major,Syritta pipiens,1
+B,9,Astrantia major,Trichodes apiarius,1
+B,9,Campanula medium,Apis mellifera,5
+B,9,Campanula medium,Chelostoma rapunculi,1
+B,9,Dianthus barbatus,Apis mellifera,1
+B,9,Dianthus barbatus,Lasioglossum laticeps,1
+B,9,Dianthus gratianopolitanus,Matsumyia berberina,1
+B,9,Dianthus gratianopolitanus,Rhingia campestris,1
+B,9,Nigella damascena,Apis mellifera,11
+B,9,Nigella damascena,Bombus pascuorum,1
+B,9,Polemonium caeruleum,Apis mellifera,2
+B,9,Rosa chinensis,Anogcodes rufiventris,1
+B,9,Rosa gallica,Apis mellifera,4
+B,9,Rosa gallica,Eristalis tenax,1
+B,9,Rosa multiflora,Anogcodes rufiventris,3
+B,9,Rosa multiflora,Apis mellifera,10
+B,9,Stachys byzantina,Bombus hortorum,1
+B,9,Stachys byzantina,Hylaeus communis,1
+B,9,Tanacetum parthenium,Anthrax anthrax,1
+B,9,Tanacetum parthenium,Lasioglossum malachurum,1
+B,10,Borago officinalis,Apis mellifera,5
+B,10,Digitalis lutea,Bombus hortorum,1
+B,10,Digitalis lutea,Bombus terrestris aggr.,1
+B,10,Euphorbia lathyris,Apis mellifera,1
+B,10,Geum urbanum,diptera_T8,1
+B,10,Hesperis matronalis,Oxythyrea funesta,1
+B,10,Hesperis matronalis,Pieris rapae,1
+B,10,Lavandula stoechas,Hoplitis adunca,1
+B,10,Nigella damascena,Apis mellifera,25
+B,10,Nigella damascena,Bombus terrestris aggr.,1
+B,10,Paeonia lactiflora,Bombus terrestris aggr.,1
+B,10,Phedimus aizoon,Apis mellifera,1
+B,10,Symphytum officinale,Bombus pascuorum,1
+B,10,Symphytum officinale,Hoplitis adunca,1
+B,10,Tanacetum microphyllum,Apis mellifera,11
+B,10,Tanacetum microphyllum,Cetonia aurata,1
+B,10,Tanacetum microphyllum,Lasioglossum laticeps,1
+B,10,Tanacetum microphyllum,Phasia hemiptera,1
+B,10,Tanacetum microphyllum,lepidoptera,1
+B,10,Valeriana officinalis,Apis mellifera,4
+B,11,Borago officinalis,Apis mellifera,2
+B,11,Borago officinalis,Bombus pascuorum,1
+B,11,Borago officinalis,Bombus pratorum,1
+B,11,Galium mollugo aggr.,Episyrphus balteatus,1
+B,11,Hemerocallis lilioasphodelus,Episyrphus balteatus,1
+B,11,Hemerocallis lilioasphodelus,Oxythyrea funesta,1
+B,11,Iris _x germanica,Apis mellifera,1
+B,11,Iris _x germanica,Episyrphus balteatus,1
+B,11,Iris sibirica,Bombus pascuorum,1
+B,11,Rubus idaeus,Apis mellifera,10
+B,11,Rubus idaeus,Bombus hyponorum,1
+B,11,Rubus idaeus,Bombus pratorum,2
+B,11,Symphytum officinale,Bombus pascuorum,1
+B,11,Viola tricolor,Episyrphus balteatus,1
+B,11,Viola tricolor,Xanthogramma dives,1
+B,12,Allium schoenoprasum,Apis mellifera,3
+B,12,Allium schoenoprasum,Mononychus punctumalbum,1
+B,12,Aquilegia vulgaris,Apis mellifera,1
+B,12,Bellis perennis,Merodon equestris,1
+B,12,Centaurea montana,Apis mellifera,5
+B,12,Centaurea montana,Halictus scabiosae,2
+B,12,Geum urbanum,Lasioglossum glabriusculum,1
+B,12,Ranunculus acris,Melanostoma mellinum,1
+B,12,Ranunculus repens,Anthaxia nitidula,1
+B,12,Scabiosa columbaria,Apis mellifera,1
+B,12,Scabiosa columbaria,Halictus scabiosae,1
+B,12,Thymus vulgaris,Apis mellifera,1
+B,12,Tragopogon porrifolius,Lasioglossum villosulum,1
+B,12,Veronica prostrata,Andrena viridescens,1
+B,12,Vicia sepium,Apis mellifera,2
+B,12,Vicia sepium,Eucera nigrescens,1
+B,12,Wisteria floribunda,Apis mellifera,2
+B,13,Bellis perennis,Apis mellifera,1
+B,13,Bellis perennis,Eupeodes corollae,1
+B,13,Bellis perennis,diptera,1
+B,13,Centaurea jacea,Apis mellifera,9
+B,13,Centaurea jacea,Bombus humilis,1
+B,13,Centaurea jacea,Empis livida,1
+B,13,Centaurea jacea,Oxythyrea funesta,1
+B,13,Galium mollugo aggr.,Eupeodes luniger,1
+B,13,Galium mollugo aggr.,Sphaerophoria scripta,1
+B,13,Geranium pyrenaicum,Bombus pascuorum,1
+B,13,Geranium pyrenaicum,Oedemera lurida,1
+B,13,Geranium pyrenaicum,Sphaerophoria scripta,1
+B,13,Leucanthemum vulgare,Sphaerophoria scripta,1
+B,13,Lotus corniculatus,Megachile willughbiella,1
+B,13,Prunella vulgaris,Osmia caerulescens,1
+B,13,Taraxacum officinale,Sphaerophoria scripta,1
+B,13,Trifolium repens,Apis mellifera,10
+B,14,Bellis perennis,Eupeodes luniger,1
+B,14,Centaurea scabiosa,Apis mellifera,3
+B,14,Cornus sanguinea,wildbee,1
+B,14,Crepis biennis,Ancistrocerus gazella/longispinosus,1
+B,14,Crepis biennis,Halictus scabiosae,1
+B,14,Crepis biennis,Meligethes aeneus,1
+B,14,Crepis biennis,Merodon equestris,1
+B,14,Crepis biennis,wildbee,1
+B,14,Galium mollugo aggr.,Eupeodes luniger,1
+B,14,Knautia arvensis,Apis mellifera,11
+B,14,Knautia arvensis,Bombus humilis,1
+B,14,Knautia arvensis,Bombus pratorum,2
+B,14,Knautia arvensis,Cetonia aurata,1
+B,14,Knautia arvensis,Halictus scabiosae,1
+B,14,Knautia arvensis,Nowickia sp.,1
+B,14,Knautia arvensis,Osmia bicornis,1
+B,14,Knautia arvensis,Pieris mannii,1
+B,14,Leucanthemum vulgare,diptera,1
+B,14,Leucanthemum vulgare,diptera_A6,1
+B,14,Ranunculus acris,Episyrphus balteatus,1
+B,14,Ranunculus sardous,Osmia bicornis,3
+B,14,Rhinanthus alectorolophus,Bombus hortorum,2
+B,14,Rhinanthus alectorolophus,Bombus pascuorum,1
+B,14,Rhinanthus alectorolophus,Bombus pratorum,1
+B,14,Rhinanthus alectorolophus,Bombus sp.,1
+B,14,Rhinanthus alectorolophus,Bombus terrestris aggr.,1
+B,14,Rhinanthus alectorolophus,Lasioglossum morio,1
+B,14,Rhinanthus alectorolophus,Polyommatus icarus,1
+B,14,Salvia pratensis,Apis mellifera,7
+B,14,Salvia pratensis,Bombus pratorum,1
+B,14,Trifolium pratense,Andrena wilkella,1
+B,14,Trifolium pratense,Bombus pascuorum,1
+B,15,Centaurea jacea,Apis mellifera,1
+B,15,Centaurea scabiosa,Apis mellifera,9
+B,15,Geranium sanguineum,Apis mellifera,2
+B,15,Onobrychis viciifolia,Andrena afzeliella,1
+B,15,Onobrychis viciifolia,Anthophora quadrimaculata,1
+B,15,Onobrychis viciifolia,Apis mellifera,6
+B,15,Onobrychis viciifolia,Megachile circumcincta,1
+B,15,Salvia pratensis,Apis mellifera,6
+B,15,Salvia pratensis,Hoplitis adunca,1
+B,15,Stachys recta,Bombus pascuorum,1
+B,15,Thymus vulgaris,Apis mellifera,4
+B,15,Thymus vulgaris,Sphaerophoria scripta,1
+B,16,Bellis perennis,Andrena afzeliella,1
+B,16,Bellis perennis,Lasioglossum malachurum,3
+B,16,Crepis biennis,Apis mellifera,2
+B,16,Leontodon hispidus,Chelostoma florisomne,1
+B,16,Ligustrum obtusifolium,Apis mellifera,17
+B,16,Ligustrum obtusifolium,Bombus pratorum,1
+B,16,Ligustrum obtusifolium,Halictus tumulorum,1
+B,16,Ligustrum vulgare,Apis mellifera,3
+B,16,Ranunculus acris,Apis mellifera,1
+B,16,Rubus armeniacus,Apis mellifera,18
+B,16,Rubus armeniacus,Bombus pratorum,1
+B,16,Rubus armeniacus,Bombus sp.,1
+B,16,Rubus armeniacus,Hylaeus sp.,1
+B,16,Rubus armeniacus,Lasioglossum morio,1
+B,16,Vicia sepium,Apis mellifera,1
+B,17,Bellis perennis,Anthrenus verbasci,1
+B,17,Bellis perennis,Trichodes alvearius,1
+B,17,Bellis perennis,lepidoptera,1
+B,17,Centaurea jacea,Apis mellifera,4
+B,17,Crepis biennis,Apis mellifera,7
+B,17,Crepis biennis,Eristalis tenax,1
+B,17,Crepis biennis,Lasioglossum calceatum,1
+B,17,Crepis biennis,Oedemera nobilis,1
+B,17,Galium mollugo aggr.,Chloromyia formosa,1
+B,17,Linnaea amabilis,Apis mellifera,2
+B,17,Lotus corniculatus,Osmia caerulescens,1
+B,17,Onobrychis viciifolia,Bombus hyponorum,1
+B,17,Onobrychis viciifolia,Hoplitis adunca,1
+B,17,Onobrychis viciifolia,Megachile willughbiella,1
+B,17,Ranunculus repens,Trichodes alvearius,1
+B,17,Rhinanthus alectorolophus,Bombus pratorum,2
+B,17,Rhinanthus alectorolophus,Bombus terrestris aggr.,1
+B,17,Salvia pratensis,Apis mellifera,2
+B,17,Salvia pratensis,Bombus pascuorum,1
+B,17,Salvia pratensis,wildbee,1
+B,17,Scabiosa columbaria,Apis mellifera,8
+B,17,Trifolium repens,Apis mellifera,1
+B,17,Trifolium repens,Osmia caerulescens,1
+B,17,Vicia sepium,Bombus pascuorum,1
+B,18,Bellis perennis,Eupeodes corollae,1
+B,18,Bellis perennis,Eupeodes luniger,1
+B,18,Bellis perennis,Lasioglossum pauxillum,1
+B,18,Bellis perennis,Sphaerophoria scripta,1
+B,18,Hypochaeris radicata,Episyrphus balteatus,1
+B,18,Leucanthemum vulgare,Hylaeus hyalinatus,1
+B,18,Leucanthemum vulgare,Lucilia sp.,1
+B,18,Medicago lupulina,Apis mellifera,2
+B,18,Medicago lupulina,Sphaerophoria scripta,1
+B,18,Potentilla reptans,Lasioglossum pauxillum,1
+B,18,Taraxacum officinale,Episyrphus balteatus,1
+B,18,Taraxacum officinale,Eupeodes corollae,1
+B,18,Taraxacum officinale,Halictus scabiosae,2
+B,18,Taraxacum officinale,Lasioglossum pauxillum,1
+B,18,Trifolium incarnatum,Apis mellifera,1
+B,18,Trifolium pratense,Andrena wilkella,1
+B,18,Trifolium pratense,Apis mellifera,1
+B,18,Trifolium pratense,bombus queen (Fabian UK1),1
+B,18,Trifolium repens,Apis mellifera,11
+B,18,Trifolium repens,Bombus pascuorum,1
+B,19,Bellis perennis,Oedemera lurida,1
+B,19,Bellis perennis,Sphaerophoria scripta,1
+B,19,Bellis perennis,lepidoptera,1
+B,19,Cerastium fontanum,Episyrphus balteatus,1
+B,19,Cornus sanguinea,Apis mellifera,3
+B,19,Cornus sanguinea,Episyrphus balteatus,1
+B,19,Cornus sanguinea,Eristalis tenax,1
+B,19,Cornus sanguinea,Syritta pipiens,1
+B,19,Crepis biennis,Apis mellifera,1
+B,19,Crepis biennis,Cidnopus pilosus,1
+B,19,Crepis biennis,Cryptocephalus hypochaeridis,1
+B,19,Crepis biennis,Euclidia glyphica,1
+B,19,Crepis biennis,Lasioglossum leucozonium,1
+B,19,Crepis biennis,Merodon equestris,1
+B,19,Crepis biennis,Trichodes alvearius,1
+B,19,Deutzia scabra,Apis mellifera,5
+B,19,Deutzia scabra,Bombus pascuorum,1
+B,19,Knautia arvensis,Apis mellifera,20
+B,19,Knautia arvensis,Bombus pratorum,1
+B,19,Knautia arvensis,Bombus sylvestris,2
+B,19,Knautia arvensis,Bombus vestalis,2
+B,19,Knautia arvensis,Eristalis tenax,1
+B,19,Knautia arvensis,Morphospecies 10,1
+B,19,Knautia arvensis,Syrphus ribesii,1
+B,19,Knautia arvensis,lepidoptera,1
+B,19,Ranunculus acris,Chelostoma florisomne,1
+B,19,Rhinanthus alectorolophus,Apis mellifera,1
+B,19,Rhinanthus alectorolophus,Bombus hortorum,1
+B,19,Rhinanthus alectorolophus,Bombus pascuorum,1
+B,19,Rhinanthus alectorolophus,Oxythyrea funesta,1
+B,19,Salvia pratensis,Apis mellifera,3
+B,19,Salvia pratensis,Bombus pascuorum,1
+B,19,Syringa persica,Apis mellifera,8
+B,20,Centaurea scabiosa,Apis mellifera,13
+B,20,Centaurea scabiosa,Bombus pascuorum,1
+B,20,Geranium macrorrhizum,Apis mellifera,5
+B,20,Geranium macrorrhizum,Bombus pascuorum,1
+B,20,Geranium magnificum,Apis mellifera,1
+B,20,Geranium magnificum,Lasioglossum pauxillum,1
+B,20,Geum urbanum,Byturus tomentosus,1
+B,20,Geum urbanum,Lasioglossum calceatum,1
+B,20,Knautia arvensis,Apis mellifera,1
+B,20,Ligustrum vulgare,Apis mellifera,1
+B,20,Potentilla reptans,Sphaerophoria scripta,1
+B,20,Ranunculus repens,Apis mellifera,1
+B,20,Symphytum officinale,Bombus pratorum,1
+B,20,Trifolium pratense,Apis mellifera,2
+B,20,Trifolium pratense,Bombus hortorum,4
+B,20,Trifolium pratense,Bombus pascuorum,2
+B,20,Trifolium repens,Apis mellifera,4
+B,20,Vicia sepium,Eucera nigrescens,1
+B,21,Cornus sanguinea,Andrena cineraria,1
+B,21,Cornus sanguinea,Apis mellifera,3
+B,21,Cornus sanguinea,Bombus pratorum,1
+B,21,Cornus sanguinea,Cheilosia soror,1
+B,21,Cornus sanguinea,Eupeodes luniger,1
+B,21,Cornus sanguinea,Valgus hemipterus,1
+B,21,Cornus sanguinea,wildbee,1
+B,21,Crepis biennis,Apis mellifera,2
+B,21,Crepis biennis,Bombus norvegicus,1
+B,21,Crepis biennis,Cryptocephalus sericeus,1
+B,21,Crepis biennis,Cryptocephalus violaceus,2
+B,21,Crepis biennis,Halictus subauratus,2
+B,21,Crepis biennis,Megachile circumcincta,1
+B,21,Crepis biennis,Meligethes sp. (noir),1
+B,21,Galium mollugo aggr.,Chloromyia formosa,1
+B,21,Galium mollugo aggr.,Cidnopus pilosus,1
+B,21,Leucanthemum vulgare,Lasioglossum pauxillum,4
+B,21,Leucanthemum vulgare,Sphaerophoria scripta,1
+B,21,Linnaea amabilis,Apis mellifera,4
+B,21,Linnaea amabilis,Lasioglossum politum,1
+B,21,Lotus corniculatus,Paragus haemorrhous,1
+B,21,Medicago lupulina,Meligethes sp. (noir),1
+B,21,Ranunculus acris,Syrphus ribesii,1
+B,21,Salvia pratensis,Apis mellifera,1
+B,21,Scabiosa columbaria,Apis mellifera,1
+B,21,Scabiosa columbaria,wildbee,1
+B,21,Syringa persica,Lasioglossum lativentre,1
+B,21,Syringa persica,Papilio machaon,1
+B,21,Syringa persica,Valgus hemipterus,1
+B,21,Trifolium pratense,Andrena afzeliella,1
+B,21,Trifolium pratense,Bombus humilis,1
+B,21,Trifolium pratense,Eucera nigrescens,1
+B,21,Trifolium pratense,Halictus simplex aggr.,1
+B,21,Trifolium pratense,Halictus tumulorum,1
+B,22,Aegopodium podagraria,Andrena minutuloides,1
+B,22,Bellis perennis,Lasioglossum morio,1
+B,22,Deutzia scabra,Apis mellifera,13
+B,22,Deutzia scabra,Bombus pratorum,2
+B,22,Deutzia scabra,Lasioglossum nitidulum,1
+B,22,Geranium endressii,Apis mellifera,1
+B,22,Geranium sanguineum,Apis mellifera,2
+B,22,Geranium sylvaticum,Apis mellifera,1
+B,22,Symphytum officinale,Bombus pratorum,1
+B,22,Symphytum officinale,Bombus terrestris aggr.,1
+B,22,Trifolium pratense,Bombus humilis,1
+B,22,Trifolium repens,Apis mellifera,14
+B,23,Bellis perennis,Oedemera nobilis,1
+B,23,Cornus sanguinea,Apis mellifera,7
+B,23,Cornus sanguinea,Volucella zonaria,1
+B,23,Cornus sanguinea,pollen beetle,16
+B,23,Frangula alnus,Apis mellifera,6
+B,23,Frangula alnus,Bombus hyponorum,1
+B,23,Frangula alnus,Bombus pascuorum,1
+B,23,Frangula alnus,Bombus pratorum,1
+B,23,Frangula alnus,Bombus sp.,1
+B,23,Ranunculus repens,Episyrphus balteatus,4
+B,23,Rubus armeniacus,Apis mellifera,1
+B,23,Symphytum officinale,Bombus hortorum,1
+B,23,Symphytum officinale,Bombus pascuorum,2
+B,23,Trifolium repens,Apis mellifera,3
+B,24,Ceanothus americanus,Apis mellifera,20
+B,24,Ceanothus americanus,Cerceris rybyensis,1
+B,24,Ceanothus americanus,Closterotomus biclavatus,2
+B,24,Ceanothus americanus,Closterotomus flavomaculatus,1
+B,24,Ceanothus americanus,Hylaeus punctatus,1
+B,24,Ceanothus americanus,Lasioglossum laticeps,1
+B,24,Ceanothus americanus,Lasioglossum morio,1
+B,24,Ceanothus americanus,Maniola jurtina,1
+B,24,Ceanothus americanus,Meligethes aeneus,1
+B,24,Cichorium intybus,Halictus scabiosae,1
+B,24,Crepis setosa,Lasioglossum leucozonium,1
+B,24,Hypochaeris radicata,Lasioglossum villosulum,1
+B,24,Lapsana communis,Olibrus sp.,1
+B,24,Ligustrum obtusifolium,Apis mellifera,2
+B,24,Malva sylvestris,Lasioglossum pauxillum,1
+B,24,Trifolium repens,Apis mellifera,1
+B,26,Euphorbia peplus,Lasioglossum pauxillum,1
+B,26,Geranium rivulare,Apis mellifera,1
+B,26,Geranium rivulare,Halictus tumulorum,1
+B,26,Geranium rivulare,Hoplitis leucomelana,1
+B,26,Geranium rivulare,Lasioglossum pauxillum,1
+B,26,Geranium rivulare,Leptochilus regulus,1
+B,26,Geranium sanguineum,Ancistrocerus gazella,1
+B,26,Geranium sanguineum,Andrena bicolor,1
+B,26,Geranium sanguineum,Apis mellifera,14
+B,26,Geranium sanguineum,Hylaeus communis,2
+B,26,Geranium sanguineum,Hylaeus sp.,1
+B,26,Geranium sanguineum,Isodontia mexicana,1
+B,26,Geranium sanguineum,Lapposyrphus lapponicus,1
+B,26,Geranium sanguineum,Lasioglossum malachurum,1
+B,26,Geranium sanguineum,Lasioglossum pauxillum,1
+B,26,Geranium sanguineum,Megachile willughbiella,1
+B,26,Geranium sanguineum,Merodon equestris,1
+B,26,Geranium sanguineum,Oedemera nobilis,1
+B,26,Geranium sanguineum,Plagiognathus arbustorum,5
+B,26,Geranium sanguineum,Syritta pipiens,1
+B,26,Linaria purpurea,Anthidium manicatum,1
+B,26,Oenothera lindheimeri,Anthrenus verbasci,1
+B,26,Rosa gallica,Apis mellifera,2
+B,26,Rosa gallica,Eristalis tenax,1
+B,26,Rosa gallica,Eupeodes luniger,1
+B,26,Rosa spinosissima,Anthrenus verbasci,3
+B,26,Rosa spinosissima,Apis mellifera,4
+B,26,Rosa spinosissima,Lasioglossum pauxillum,1
+B,26,Rosa spinosissima,Syritta pipiens,1
+B,26,Spiraea japonica,Apis mellifera,4
+B,26,Spiraea japonica,Hylaeus communis,2
+B,26,Spiraea japonica,Lasioglossum politum,1
+B,26,Spiraea japonica,Lucilia sp.,1
+B,27,Aegopodium podagraria,Andrena combinata,3
+B,27,Aegopodium podagraria,Andrena haemorrhoa,1
+B,27,Aegopodium podagraria,Andrena minutuloides,3
+B,27,Aegopodium podagraria,Apis mellifera,13
+B,27,Aegopodium podagraria,Coryzus hyoscyami,1
+B,27,Aegopodium podagraria,Halictus tumulorum,1
+B,27,Aegopodium podagraria,Hylaeus communis,1
+B,27,Aegopodium podagraria,Hylaeus leptocephalus,1
+B,27,Aegopodium podagraria,Hylaeus sinuatus,2
+B,27,Aegopodium podagraria,Lasioglossum laticeps,1
+B,27,Aegopodium podagraria,Lasioglossum politum,2
+B,27,Aegopodium podagraria,Lucilia sp.,3
+B,27,Aegopodium podagraria,cf. Ectophasia sp.,1
+B,27,Aegopodium podagraria,pollen beetle,2
+B,27,Allium nigrum,Hylaeus communis,1
+B,27,Geranium sanguineum,Coelioxys rufescens cf.,1
+B,27,Helianthemum nummularium,Apis mellifera,1
+B,27,Helianthemum nummularium,Lasioglossum laticeps,1
+B,27,Nigella damascena,Apis mellifera,1
+B,27,Rubus idaeus,Apis mellifera,1
+B,27,Salvia officinalis,Apis mellifera,1
+B,27,Scabiosa columbaria,Apis mellifera,1
+B,27,Vicia sepium,Bombus pratorum,1
+B,28,Bellis perennis,Apis mellifera,1
+B,28,Bellis perennis,Episyrphus balteatus,1
+B,28,Bellis perennis,Halictus tumulorum,1
+B,28,Bellis perennis,Lasioglossum laticeps,1
+B,28,Bellis perennis,Lucilia sp.,1
+B,28,Bellis perennis,wildbee,2
+B,28,Ranunculus repens,Lasioglossum calceatum,1
+B,28,Rhododendron catawbiense,Bombus pratorum,1
+B,29,Centaurea montana,Bombus pascuorum,1
+B,29,Lapsana communis,Episyrphus balteatus,1
+B,29,Lapsana communis,Meliscaeva auricollis,1
+B,29,Tradescantia virginiana,Bombus hyponorum,1
+B,29,Tradescantia virginiana,Episyrphus balteatus,2
+B,29,Tradescantia virginiana,Eupeodes corollae,1
+B,30,Callicarpa americana,Bombus pascuorum,1
+B,30,Callicarpa americana,Bombus terrestris aggr.,1
+B,30,Erodium corsicum,Apis mellifera,1
+B,30,Geranium nodosum,Episyrphus balteatus,1
+B,30,Geranium sanguineum,Episyrphus balteatus,1
+B,30,Hypericum calycinum,Apis mellifera,6
+B,30,Hypericum calycinum,Bombus terrestris aggr.,2
+B,30,Hypericum calycinum,Episyrphus balteatus,1
+B,30,Hypericum calycinum,Lasioglossum laticeps,1
+B,30,Lavandula angustifolia,Anthophora quadrimaculata,1
+B,30,Lavandula angustifolia,Apis mellifera,10
+B,30,Rosa gallica,Apis mellifera,4
+B,30,Rosa gallica,Lasioglossum morio,1
+B,30,Rosa gallica,Lasioglossum pauxillum,1
+B,30,Spiraea japonica,Lasioglossum pauxillum,1
+B,30,Stachys byzantina,Anthidium manicatum,3
+B,30,Stachys byzantina,Megachile ericetorum,1
+B,31,Aquilegia vulgaris,Lasioglossum nitidulum,1
+B,31,Fragaria vesca,Andrena subopaca,1
+B,31,Geranium robertianum,Rhingia campestris,1
+B,31,Geum urbanum,Bombus pascuorum,1
+B,31,Geum urbanum,Byturus tomentosus,1
+B,31,Lysimachia nemorum,Apis mellifera,1
+B,31,Lysimachia nemorum,diptera,1
+B,31,Persicaria bistorta,Byturus tomentosus,1
+B,31,Persicaria bistorta,Meligethes viridescens,1
+B,31,Rubus idaeus,Apis mellifera,17
+B,31,Rubus idaeus,Bombus hyponorum,2
+B,31,Saxifraga umbrosa,Apis mellifera,1
+B,31,Saxifraga umbrosa,Cheilosia soror,1
+B,31,Saxifraga umbrosa,Halictus tumulorum,1
+B,31,Saxifraga umbrosa,Lasioglossum nitidulum,1
+B,31,Vicia sepium,Bombus pascuorum,1
+B,32,Alchemilla mollis,Lucilia sp.,2
+B,32,Alchemilla mollis,Paragus pecchiolii,1
+B,32,Arabis alpina,Apis mellifera,1
+B,32,Arabis alpina,Lasioglossum nitidulum,1
+B,32,Campanula carpatica,Chelostoma rapunculi,1
+B,32,Campanula poscharskyana,Apis mellifera,3
+B,32,Campanula poscharskyana,Lasioglossum nitidulum,1
+B,32,Centaurea montana,Apis mellifera,5
+B,32,Centaurea montana,Bombus pratorum,1
+B,32,Centaurea montana,Eupeodes corollae,1
+B,32,Cotoneaster dammeri,Apis mellifera,1
+B,32,Cotoneaster dammeri,Halictus subauratus,1
+B,32,Geranium platypetalum,Apis mellifera,4
+B,32,Geranium pyrenaicum,Apis mellifera,3
+B,32,Geranium pyrenaicum,Lasioglossum pauxillum,1
+B,32,Iris _x germanica,Apis mellifera,1
+B,32,Paeonia officinalis,Apis mellifera,6
+B,32,Phlox subulata,Halictus simplex aggr.,1
+B,32,Rosa chinensis,Anthrenus angustefasciatus,1
+B,32,Rosa multiflora,Bombus hyponorum,1
+B,33,Aegopodium podagraria,Cheilosia soror,1
+B,33,Bellis perennis,Episyrphus balteatus,1
+B,33,Geranium endressii,Apis mellifera,3
+B,33,Geranium endressii,Episyrphus balteatus,1
+B,33,Geranium macrorrhizum,Apis mellifera,1
+B,33,Geranium macrorrhizum,Bombus pratorum,1
+B,33,Geranium sanguineum,Episyrphus balteatus,2
+B,33,Lavandula angustifolia,Apis mellifera,3
+B,33,Lavandula angustifolia,Bombus pratorum,2
+B,33,Linaria purpurea,Apis mellifera,3
+B,33,Linaria purpurea,Bombus hortorum,1
+B,33,Phlomis russeliana,Bombus hortorum,1
+B,33,Potentilla reptans,Apis mellifera,1
+B,33,Potentilla reptans,Halictus subauratus,1
+B,33,Potentilla reptans,Halictus tumulorum,1
+B,33,Potentilla reptans,Lasioglossum pauxillum,1
+B,33,Trifolium repens,Apis mellifera,4
+B,34,Campanula portenschlagiana,Andrena sp.,1
+B,34,Campanula portenschlagiana,Apis mellifera,1
+B,34,Centaurea montana,Bombus pratorum,1
+B,34,Crepis biennis,Cryptocephalus hypochaeridis,1
+B,34,Crepis biennis,Halictus scabiosae,1
+B,34,Crepis biennis,Halictus tumulorum,1
+B,34,Galium mollugo aggr.,Sphaerophoria scripta,1
+B,34,Pilosella officinarum,Lasioglossum leucozonium,1
+B,34,Plantago lanceolata,Halictus tumulorum,1
+B,34,Rubus idaeus,Bombus pratorum,1
+B,34,Trifolium repens,Apis mellifera,1
+B,34,Vicia sepium,Bombus pascuorum,1
+B,34,Vicia sepium,Eucera nigrescens,1
+B,35,Achillea millefolium,Trichodes alvearius,1
+B,35,Aegopodium podagraria,Anthrenus verbasci,1
+B,35,Aegopodium podagraria,Apis mellifera,1
+B,35,Aegopodium podagraria,Eupeodes corollae,1
+B,35,Aegopodium podagraria,Syrphus vitripennis,1
+B,35,Alchemilla xanthochlora,NA,1
+B,35,Centaurea jacea,Apis mellifera,10
+B,35,Centaurea jacea,Bombus norvegicus,1
+B,35,Centaurea jacea,Bombus pascuorum,1
+B,35,Centaurea jacea,Bombus vestalis,1
+B,35,Centaurea jacea,Halictus scabiosae,2
+B,35,Centaurea jacea,Hylaeus nigritus,1
+B,35,Centaurea jacea,Oedemera nobilis,1
+B,35,Centaurea jacea,Oxythyrea funesta,1
+B,35,Clematis recta,Sphaerophoria sp.,1
+B,35,Galium verum,Pipizella viduata,1
+B,35,Geranium robertianum,Macropis fulvipes,2
+B,35,Leucanthemum vulgare,Cheilosia vernalis,1
+B,35,Pilosella aurantiaca,Macropis fulvipes,2
+B,35,Pilosella aurantiaca,Osmia leaiana,1
+B,35,Potentilla reptans,Sphaerophoria scripta,1
+B,35,Prunella vulgaris,Bombus pascuorum,2
+B,35,Ranunculus repens,Meligethes aeneus,1
+B,35,Trifolium pratense,Bombus pascuorum,1
+B,35,Trifolium repens,Apis mellifera,2
+B,35,Trifolium repens,Bombus pascuorum,1
+B,35,Vicia sepium,Bombus pascuorum,2
+B,35,Vicia sepium,Eucera nigrescens,1
+B,36,Geranium ibericum,Apis mellifera,2
+B,36,Geum urbanum,Byturus tomentosus,1
+B,36,Geum urbanum,Megachile centuncularis,1
+B,36,Vicia sepium,Bombus pascuorum,2
+B,37,Bellis perennis,Apis mellifera,1
+B,37,Geranium sylvaticum,Apis mellifera,1
+B,37,Geranium sylvaticum,Bombus pratorum,1
+B,37,Leucanthemum vulgare,Episyrphus balteatus,1
+B,37,Potentilla reptans,Apis mellifera,1
+B,37,Rhododendron ponticum,Bombus pratorum,1
+B,37,Rhododendron ponticum,pollen beetle,2
+B,37,Rosa omeiensis,Bombus hyponorum,2
+B,37,Rosa spinosissima,Apis mellifera,1
+B,37,Rosa tomentosa,Apis mellifera,1
+B,37,Salvia pratensis,Apis mellifera,2
+B,37,Salvia pratensis,Bombus hyponorum,1
+B,37,Salvia pratensis,wildbee,1
+B,37,Scutellaria altissima,Bombus hortorum,1
+B,37,Scutellaria altissima,Megachile willughbiella,1
+B,37,Trifolium pratense,Ancistrocerus gazella,1
+B,37,Trifolium pratense,Andrena afzeliella,1
+B,37,Trifolium pratense,Apis mellifera,1
+B,37,Trifolium pratense,Bombus hortorum,1
+B,38,Allium lusitanicum,Apis mellifera,1
+B,38,Onobrychis viciifolia,Apis mellifera,10
+B,38,Onobrychis viciifolia,Bombus lapidarius,1
+B,38,Salvia pratensis,Apis mellifera,4
+B,38,Salvia pratensis,Bombus hortorum,2
+B,38,Trifolium repens,Apis mellifera,2
+B,39,Bellis perennis,Lucilia sp.,1
+B,39,Buphthalmum salicifolium,Lasioglossum pauxillum,1
+B,39,Buphthalmum salicifolium,Lasioglossum zonulum,1
+B,39,Centaurea jacea,Apis mellifera,2
+B,39,Erigeron karvinskianus,Episyrphus balteatus,1
+B,39,Knautia arvensis,Apis mellifera,4
+B,39,Knautia macedonica,Apis mellifera,3
+B,39,Knautia macedonica,Coelioxys elongatus cf.,1
+B,39,Lapsana communis,Sphaerophoria scripta,1
+B,39,Papaver rhoeas,Apis mellifera,1
+B,39,Papaver rhoeas,Bombus terrestris aggr.,4
+B,39,Papaver rhoeas,Chelostoma campanularum,1
+B,39,Trifolium repens,Apis mellifera,10
+B,40,Bellis perennis,Apis mellifera,2
+B,40,Bellis perennis,Episyrphus balteatus,1
+B,40,Bellis perennis,Eupeodes luniger,1
+B,40,Bellis perennis,Lasioglossum pauxillum,1
+B,40,Bellis perennis,Lucilia sp.,2
+B,40,Bellis perennis,Propylaea quatuordecimpunctata,1
+B,40,Capsella bursa-pastoris,Apis mellifera,1
+B,40,Capsella bursa-pastoris,Episyrphus balteatus,2
+B,40,Trifolium repens,Apis mellifera,1
+B,41,Allium giganteum,Apis mellifera,3
+B,41,Geranium macrorrhizum,Apis mellifera,2
+B,42,Bellis perennis,Anthrenus angustefasciatus,1
+B,42,Bellis perennis,NA,3
+B,42,Bellis perennis,diptera,1
+B,42,Chaerophyllum temulum,Anaspis maculata,1
+B,43,Bellis perennis,Eupeodes corollae,1
+B,43,Crepis biennis,Episyrphus balteatus,1
+B,43,Crepis biennis,Lasioglossum villosulum,2
+B,43,Crepis biennis,Merodon equestris,1
+B,43,Crepis biennis,Oedemera lurida,1
+B,43,Crepis biennis,Osmia leaiana,1
+B,43,Galium mollugo aggr.,Episyrphus balteatus,1
+B,43,Leucanthemum vulgare,diptera,1
+B,43,Ranunculus acris,Scaeva selenitica,1
+B,43,Salvia pratensis,Apis mellifera,7
+B,43,Salvia pratensis,Bombus pascuorum,1
+B,43,Salvia pratensis,Bombus pratorum,2
+B,43,Salvia pratensis,Eupeodes luniger,1
+B,43,Scabiosa columbaria,Apis mellifera,1
+B,43,Scabiosa columbaria,Bombus pratorum,1
+B,43,Scabiosa columbaria,Bombus vestalis,1
+B,43,Scabiosa columbaria,Merodon equestris,2
+B,43,Trifolium pratense,Bombus pascuorum,2
+B,44,Centaurea jacea,Apis mellifera,3
+B,44,Centaurea jacea,Halictus scabiosae,1
+B,44,Centaurea jacea,Oxythyrea funesta,1
+B,44,Centaurea jacea,Sicus sp.,1
+B,44,Deutzia scabra,Apis mellifera,3
+B,44,Deutzia scabra,Bombus pratorum,1
+B,44,Galium mollugo aggr.,Episyrphus balteatus,1
+B,44,Galium mollugo aggr.,lepidoptera,1
+B,44,Geranium macrorrhizum,Apis mellifera,10
+B,44,Geranium macrorrhizum,Bombus pascuorum,1
+B,44,Geranium pyrenaicum,Chelostoma distinctum,1
+B,44,Geranium sanguineum,Merodon equestris,1
+B,44,Leucanthemum vulgare,Lygus pratensis,2
+B,44,Leucanthemum vulgare,diptera_Ca4,1
+B,44,Ligustrum vulgare,Andrena flavipes,1
+B,44,Ligustrum vulgare,Apis mellifera,10
+B,44,Ligustrum vulgare,Megachile centuncularis,1
+B,44,Medicago lupulina,Episyrphus balteatus,1
+B,44,Medicago lupulina,Lasioglossum morio,1
+B,44,Ranunculus acris,Hylaeus hyalinatus,1
+B,44,Ranunculus acris,Lasioglossum pauxillum,1
+B,44,Rhinanthus alectorolophus,Bombus hortorum,1
+B,44,Rhinanthus alectorolophus,Bombus pratorum,1
+B,44,Rhinanthus alectorolophus,Macroglossum stellatarum,1
+B,44,Rhinanthus alectorolophus,Sicus sp.,1
+B,44,Trifolium pratense,Bombus humilis,2
+B,45,Centaurea jacea,Apis mellifera,13
+B,45,Centaurea jacea,Bombus terrestris,1
+B,45,Centaurea jacea,Hylaeus nigritus,1
+B,45,Cerastium glomeratum,Episyrphus balteatus,1
+B,45,Chaerophyllum temulum,Cheilosia soror,1
+B,45,Galium mollugo aggr.,Lasioglossum laticeps,1
+B,45,Geum urbanum,Dasytes plumbeus,1
+B,45,Geum urbanum,Episyrphus balteatus,1
+B,45,Geum urbanum,Lasioglossum calceatum,1
+B,45,Geum urbanum,Lasioglossum laticeps,1
+B,45,Leucanthemum vulgare,Rutpela maculata,1
+B,45,Rhinanthus alectorolophus,Bombus hortorum,1
+B,45,Rhinanthus alectorolophus,Bombus terrestris aggr.,1
+B,45,Rubus fruticosus aggr.,Apis mellifera,24
+B,45,Rubus fruticosus aggr.,Bombus pratorum,5
+B,45,Rubus fruticosus aggr.,Byturus tomentosus,1
+B,45,Sonchus oleraceus,Episyrphus balteatus,1
+B,46,Aegopodium podagraria,Andrena minutuloides,1
+B,46,Aegopodium podagraria,Apis mellifera,26
+B,46,Aegopodium podagraria,Cheilosia soror,1
+B,46,Aegopodium podagraria,Graphosoma lineatum,1
+B,46,Aegopodium podagraria,Hylaeus hyalinatus,1
+B,46,Aegopodium podagraria,Lasioglossum malachurum,1
+B,46,Aegopodium podagraria,Lasioglossum pauxillum,1
+B,46,Aegopodium podagraria,Lasioglossum politum,1
+B,46,Aegopodium podagraria,NA,1
+B,46,Aegopodium podagraria,Osmia bicornis,1
+B,46,Aegopodium podagraria,Platycheirus scutatus aggr.,1
+B,46,Aegopodium podagraria,Sphaerophoria scripta,1
+B,46,Galium palustre,Sphaerophoria scripta,4
+B,46,Hypochaeris radicata,Halictus scabiosae,1
+B,46,Hypochaeris radicata,Lasioglossum villosulum,1
+B,46,Ligustrum vulgare,Apis mellifera,1
+B,46,Medicago lupulina,Episyrphus balteatus,1
+B,46,Medicago lupulina,Sphaerophoria sp.,1
+B,46,Pilosella officinarum,Sphaerophoria scripta,1
+B,46,Plantago lanceolata,Apis mellifera,2
+B,46,Rhinanthus alectorolophus,Episyrphus balteatus,1
+B,46,Rosa arvensis,Anthaxia nitidula,1
+B,46,Rosa arvensis,Apis mellifera,10
+B,46,Rubus fruticosus aggr.,Apis mellifera,9
+B,46,Trifolium pratense,Apis mellifera,1
+B,46,Trifolium pratense,Bombus humilis,2
+B,46,Trifolium repens,Apis mellifera,5
+B,46,Trifolium repens,Polyommatus icarus,1
+B,46,Vicia sepium,Bombus pascuorum,1
+B,47,Bellis perennis,Apis mellifera,1
+B,47,Crataegus laevigata,Grammoptera ruficornis,1
+B,47,Crepis biennis,Apis mellifera,2
+B,47,Crepis biennis,Oxythyrea funesta,2
+B,47,Crepis biennis,Sicus sp.,1
+B,47,Plantago lanceolata,Apis mellifera,2
+B,47,Ranunculus acris,Anthaxia nitidula,1
+B,47,Ranunculus acris,Lasioglossum glabriusculum,1
+B,47,Ranunculus acris,Nomada sexfasciata,1
+B,47,Ranunculus acris,Oxythyrea funesta,1
+B,47,Ranunculus repens,Lasioglossum glabriusculum,1
+B,47,Ranunculus repens,Osmia bicornis,1
+B,47,Rhinanthus alectorolophus,Bombus pascuorum,1
+B,47,Salvia pratensis,Apis mellifera,6
+B,47,Salvia pratensis,Osmia bicornis,1
+B,47,Salvia pratensis,Osmia caerulescens,1
+B,47,Trifolium pratense,Bombus humilis,1
+B,47,Trifolium pratense,Bombus pascuorum,2
+B,47,Trifolium repens,Andrena afzeliella,1
+B,47,Trifolium repens,Andrena wilkella,1
+B,47,Trifolium repens,Apis mellifera,4
+B,47,Trifolium repens,Nowickia sp.,1
+B,47,Trifolium repens,Osmia bicornis,1
+B,47,Vicia sepium,Eucera nigrescens,1
+B,48,Bellis perennis,Andrena sp.,1
+B,48,Bellis perennis,Anogcodes rufiventris,1
+B,48,Bellis perennis,Episyrphus balteatus,1
+B,48,Bellis perennis,Lasioglossum glabriusculum,1
+B,48,Bellis perennis,Lasioglossum pauxillum,2
+B,48,Bellis perennis,NA,1
+B,48,Bellis perennis,Sphaerophoria scripta,1
+B,48,Bellis perennis,diptera,1
+B,48,Bellis perennis,diptera_A13,1
+B,48,Centaurea jacea,Apis mellifera,4
+B,48,Centaurea jacea,Halictus scabiosae,1
+B,48,Galium mollugo aggr.,Sphaerophoria sp.,1
+B,48,Geum urbanum,Hoplitis leucomelana,1
+B,48,Lotus corniculatus,Halictus tumulorum,1
+B,48,Ranunculus repens,Apis mellifera,1
+B,48,Ranunculus repens,Episyrphus balteatus,1
+B,48,Ranunculus repens,Lasioglossum pauxillum,1
+B,48,Rhinanthus alectorolophus,Bombus hortorum,1
+B,48,Rhinanthus alectorolophus,Bombus pratorum,2
+B,48,Rubus fruticosus aggr.,Apis mellifera,1
+B,48,Rubus fruticosus aggr.,Bombus pratorum,2
+B,48,Sambucus nigra,Apis mellifera,2
+B,48,Sambucus nigra,Papilio machaon,1
+B,48,Taraxacum officinale,Episyrphus balteatus,1
+B,48,Taraxacum officinale,wildbee,1
+B,48,Trifolium repens,Apis mellifera,12
+B,49,Achillea millefolium,Colletes similis,2
+B,49,Achillea millefolium,Gymnosoma sp.,1
+B,49,Achillea millefolium,Lasioglossum pauxillum,1
+B,49,Achillea millefolium,neuroptera larva,1
+B,49,Anthyllis vulneraria,Bombus hortorum,1
+B,49,Buphthalmum salicifolium,Apis mellifera,1
+B,49,Buphthalmum salicifolium,Oedemera lurida,1
+B,49,Buphthalmum salicifolium,Sicus sp.,1
+B,49,Galium verum,Eupeodes corollae,1
+B,49,Galium verum,Oedemera lurida,1
+B,49,Galium verum,Sphaerophoria scripta,2
+B,49,Helianthemum nummularium,Oedemera lurida,1
+B,49,Medicago sativa,Apis mellifera,8
+B,49,Medicago sativa,Paragus tibialis/constrictus,1
+B,49,Medicago sativa,Sphaerophoria sp.,1
+B,49,Potentilla argentea,Lasioglossum malachurum,1
+B,49,Salvia pratensis,Apis mellifera,3
+B,49,Salvia pratensis,Bombus terrestris aggr.,1
+B,49,Thymus serpyllum,Apis mellifera,5
+B,50,Achillea millefolium,Cerceris rybyensis,1
+B,50,Achillea millefolium,Cryptocephalus sericeus,1
+B,50,Galium verum,Lasioglossum laticeps,1
+B,50,Galium verum,diptera_T11,1
+B,50,Lotus corniculatus,Apis mellifera,2
+B,50,Lotus corniculatus,Bombus lapidarius,1
+B,50,Lotus corniculatus,Cryptocephalus violaceus,2
+B,50,Potentilla reptans,Oedemera lurida,1
+B,50,Potentilla reptans,Sphaerophoria scripta,4
+B,50,Prunella vulgaris,Cryptocephalus sericeus,1
+B,50,Rhinanthus alectorolophus,Bombus terrestris aggr.,1
+B,50,Trifolium pratense,Bombus sp.,1
+B,51,Hypochaeris radicata,Lasioglossum villosulum,1
+B,51,Lotus corniculatus,Megachile circumcincta,1
+B,51,Onobrychis viciifolia,Andrena afzeliella,1
+B,51,Onobrychis viciifolia,Apis mellifera,3
+B,51,Onobrychis viciifolia,Bombus ruderatus,1
+B,51,Salvia pratensis,Apis mellifera,1
+B,51,Scabiosa columbaria,Apis mellifera,12
+B,51,Silene nutans,Bombus sp.,1
+B,51,Silene nutans,Morphospecies 16,1
+B,51,Taraxacum officinale,Cryptocephalus violaceus,1
+B,51,Trifolium campestre,Sphaerophoria scripta,1
+B,51,Trifolium repens,Apis mellifera,3
+B,51,Trifolium repens,Eucera nigrescens,1
+B,51,Trifolium repens,Oedemera nobilis,1
+B,51,Trifolium repens,syrphidae,1
+B,51,Vicia sepium,Apis mellifera,1
+B,51,Vicia sepium,Bombus terrestris aggr.,1
+B,52,Centaurea caerulescens,Apis mellifera,3
+B,52,Centaurea jacea,Apis mellifera,2
+B,52,Centaurea jacea,Bombus pascuorum,1
+B,52,Leucanthemum vulgare,Coccinella septempunctata,1
+B,52,Leucanthemum vulgare,Eristalis tenax,1
+B,52,Leucanthemum vulgare,Hylaeus pictipes,1
+B,52,Leucanthemum vulgare,Lasioglossum pauxillum,1
+B,52,Leucanthemum vulgare,Sphaerophoria scripta,1
+B,52,Leucanthemum vulgare,Trichius fasciatus,1
+B,52,Lotus corniculatus,Megachile willughbiella,1
+B,52,Medicago lupulina,Andrena afzeliella,2
+B,52,Medicago lupulina,Apis mellifera,3
+B,52,Medicago lupulina,Sphecodes sp.,1
+B,52,Melilotus officinalis,Andrena afzeliella,1
+B,52,Melilotus officinalis,Apis mellifera,6
+B,52,Onobrychis viciifolia,Anthophora quadrimaculata,2
+B,52,Onobrychis viciifolia,Apis mellifera,3
+B,52,Papaver rhoeas,Bombus terrestris aggr.,1
+B,52,Prunella vulgaris,Bombus pratorum,1
+B,52,Trifolium campestre,Apis mellifera,1
+B,52,Trifolium dubium,Andrena afzeliella,1
+B,52,Trifolium pratense,Andrena afzeliella,1
+B,52,Trifolium pratense,Andrena wilkella,3
+B,52,Trifolium pratense,Apis mellifera,4
+B,52,Trifolium pratense,Lasioglossum lativentre,1
+B,52,Trifolium pratense,Lasioglossum pauxillum,1
+B,52,Trifolium repens,Apis mellifera,20
+B,52,Trifolium repens,Bombus terrestris aggr.,1
+B,52,Trifolium repens,Hylaeus leptocephalus,1
+B,52,Vicia cracca,Apis mellifera,5
+B,52,Vicia cracca,Bombus hortorum,3
+B,52,Vicia cracca,Bombus pascuorum,1
+B,52,Vicia cracca,Eucera nigrescens,1
+B,52,Vicia cracca,Megachile willughbiella,1
+B,53,Centaurea jacea,Apis mellifera,3
+B,53,Centaurea jacea,Halictus subauratus,1
+B,53,Centaurea scabiosa,Apis mellifera,9
+B,53,Leucanthemum vulgare,Anthrenus angustefasciatus,1
+B,53,Leucanthemum vulgare,Halictus subauratus,6
+B,53,Leucanthemum vulgare,wildbee,1
+B,53,Lotus corniculatus,Osmia bicornis,1
+B,53,Onobrychis viciifolia,Andrena afzeliella,1
+B,53,Onobrychis viciifolia,Anthophora quadrimaculata,1
+B,53,Onobrychis viciifolia,Apis mellifera,20
+B,53,Onobrychis viciifolia,Bombus terrestris aggr.,2
+B,53,Onobrychis viciifolia,Halictus tumulorum,1
+B,53,Onobrychis viciifolia,Megachile willughbiella,2
+B,53,Rhinanthus alectorolophus,Apis mellifera,1
+B,53,Rhinanthus alectorolophus,Bombus terrestris aggr.,2
+B,53,Salvia pratensis,Apis mellifera,1
+B,53,Sanguisorba minor,Halictus subauratus,1
+B,53,Scabiosa columbaria,Apis mellifera,1
+B,53,Scabiosa columbaria,Halictus simplex aggr.,1
+B,54,Echium vulgare,Apis mellifera,9
+B,54,Echium vulgare,Bombus hortorum,1
+B,54,Echium vulgare,Bombus pascuorum,2
+B,54,Echium vulgare,Bombus pratorum,1
+B,54,Echium vulgare,Bombus terrestris aggr.,1
+B,54,Echium vulgare,Hoplitis adunca,1
+B,54,Hieracium bauhini,Apis mellifera,3
+B,54,Hieracium bauhini,Halictus simplex aggr.,1
+B,54,Hieracium bauhini,Oedemera lurida,1
+B,54,Hieracium bauhini,Sphaerophoria scripta,1
+B,54,Hieracium bauhini,wildbee,1
+B,54,Hypochaeris radicata,Apis mellifera,1
+B,54,Medicago lupulina,Sphaerophoria scripta,1
+B,54,Medicago sativa,Megachile circumcincta,1
+B,55,Achillea millefolium,Anthrenus verbasci,4
+B,55,Achillea millefolium,Apis mellifera,2
+B,55,Achillea millefolium,Lasioglossum malachurum,1
+B,55,Buphthalmum salicifolium,Apis mellifera,2
+B,55,Cirsium vulgare,Apis mellifera,2
+B,55,Echium vulgare,Apis mellifera,32
+B,55,Echium vulgare,Bombus terrestris aggr.,3
+B,55,Echium vulgare,Eupeodes luniger,1
+B,55,Echium vulgare,Hoplitis adunca,1
+B,55,Echium vulgare,Macroglossum stellatarum,1
+B,55,Echium vulgare,Osmia bicornis,1
+B,55,Galium mollugo aggr.,Episyrphus balteatus,1
+B,55,Galium mollugo aggr.,Mordellistena sp.,1
+B,55,Geranium robertianum,Apis mellifera,1
+B,55,Hippocrepis comosa,Apis mellifera,1
+B,55,Hippocrepis comosa,Episyrphus balteatus,1
+B,55,Hippocrepis comosa,Megachile circumcincta,1
+B,55,Lotus corniculatus,Apis mellifera,1
+B,55,Salvia pratensis,Apis mellifera,2
+B,55,Scabiosa columbaria,Apis mellifera,4
+B,55,Scabiosa columbaria,Oedemera nobilis,1
+B,55,Silene noctiflora,Apis mellifera,1
+B,55,Thymus serpyllum,Apis mellifera,5
+B,55,Trifolium pratense,Bombus terrestris aggr.,1
+B,55,Veronica austriaca,Apis mellifera,1
+B,56,Centaurea jacea,Apis mellifera,6
+B,56,Centaurea jacea,Halictus confusus,1
+B,56,Centaurea scabiosa,Apis mellifera,7
+B,56,Centaurea scabiosa,Vanessa cardui,1
+B,56,Echium vulgare,Apis mellifera,4
+B,56,Echium vulgare,Hoplitis adunca,4
+B,56,Knautia arvensis,Apis mellifera,2
+B,56,Knautia arvensis,Stelis punctulatissima,1
+B,56,Lotus corniculatus,Megachile willughbiella,1
+B,56,Medicago sativa,Andrena afzeliella,1
+B,56,Medicago sativa,Megachile centuncularis,1
+B,56,Medicago sativa,Polistes dominula,1
+B,56,Medicago sativa,Sphaerophoria scripta,1
+B,56,Onobrychis viciifolia,Apis mellifera,1
+B,56,Onobrychis viciifolia,Bombus pascuorum,2
+B,56,Papaver rhoeas,Bombus terrestris,1
+B,56,Reseda lutea,Bombus humilis,1
+B,56,Reseda lutea,Hylaeus gibbus aggr.,4
+B,56,Reseda lutea,Hylaeus nigritus,1
+B,56,Reseda lutea,Hylaeus sp.,1
+B,56,Rhinanthus alectorolophus,Bombus pratorum,1
+B,56,Rhinanthus alectorolophus,Bombus terrestris aggr.,1
+B,56,Salvia pratensis,Megachile ericetorum,2
+B,56,Scabiosa columbaria,Apis mellifera,3
+B,56,Scabiosa columbaria,Halictus simplex aggr.,1
+B,56,Silene vulgaris,Bombus lapidarius,1
+B,56,Vicia sepium,Bombus pascuorum,1
+B,57,Centaurea jacea,Apis mellifera,17
+B,57,Centaurea jacea,Halictus scabiosae,1
+B,57,Centaurea jacea,Halictus subauratus,1
+B,57,Centaurea scabiosa,Apis mellifera,1
+B,57,Cirsium arvense,Apis mellifera,2
+B,57,Cirsium arvense,Halictus scabiosae,3
+B,57,Crepis biennis,Apis mellifera,6
+B,57,Crepis biennis,Halictus scabiosae,2
+B,57,Crepis biennis,Lasioglossum limbellum,3
+B,57,Crepis biennis,Lasioglossum pauxillum,1
+B,57,Crepis biennis,Sicus sp.,1
+B,57,Crepis biennis,wildbee,1
+B,57,Echium vulgare,Hoplitis adunca,1
+B,57,Leucanthemum vulgare,Oxythyrea funesta,1
+B,57,Onobrychis viciifolia,Andrena wilkella,1
+B,57,Onobrychis viciifolia,Apis mellifera,5
+B,57,Onobrychis viciifolia,Bombus pascuorum,1
+B,57,Plantago lanceolata,Lasioglossum pauxillum,1
+B,57,Salvia pratensis,Apis mellifera,8
+B,57,Trifolium pratense,Bombus hortorum,1
+B,57,Trifolium pratense,Halictus subauratus,2
+B,57,Trifolium pratense,Oxythyrea funesta,1
+B,57,Trifolium pratense,hymenoptera,1
+B,57,Vicia sepium,Eucera nigrescens,1
+B,58,Aegopodium podagraria,Andrena minutula,1
+B,58,Aegopodium podagraria,Andrena minutuloides,4
+B,58,Aegopodium podagraria,Apis mellifera,33
+B,58,Aegopodium podagraria,Bombus pratorum,1
+B,58,Aegopodium podagraria,Episyrphus balteatus,2
+B,58,Aegopodium podagraria,Graphosoma lineatum,2
+B,58,Aegopodium podagraria,Hylaeus communis,1
+B,58,Aegopodium podagraria,Hylaeus sinuatus,2
+B,58,Aegopodium podagraria,Hylaeus sp.,1
+B,58,Aegopodium podagraria,Lucilia sp.,2
+B,58,Aegopodium podagraria,Myathropa florea,1
+B,58,Aegopodium podagraria,NA,1
+B,58,Aegopodium podagraria,Pipizella sp.,1
+B,58,Aegopodium podagraria,Sphaerophoria sp.,1
+B,58,Aegopodium podagraria,diptera as 15,8
+B,58,Aegopodium podagraria,lepidoptera,1
+B,58,Borago officinalis,Apis mellifera,3
+B,58,Centaurea montana,Bombus terrestris aggr.,1
+B,58,Erigeron annuus,NA,1
+B,58,Leucanthemum vulgare,Bruchidius sp.,1
+B,58,Leucanthemum vulgare,Halictus scabiosae,1
+B,58,Leucanthemum vulgare,Lucilia sp.,1
+B,58,Leucanthemum vulgare,Oedemera lurida,1
+B,58,Medicago lupulina,Apis mellifera,1
+B,58,Phacelia tanacetifolia,Anthrenus verbasci,1
+B,58,Phacelia tanacetifolia,Apis mellifera,1
+B,58,Phacelia tanacetifolia,Bombus hyponorum,1
+B,58,Phacelia tanacetifolia,Lasioglossum politum,1
+B,58,Ranunculus acris,Oedemera lurida,1
+B,58,Ranunculus repens,Lasioglossum pauxillum,1
+B,58,Trifolium pratense,Bombus hortorum,2
+B,58,Trifolium pratense,Bombus terrestris aggr.,1
+B,58,Trifolium pratense,Xylocopa violacea,1
+B,58,Trifolium repens,Ancistrocerus gazella,1
+B,58,Trifolium repens,Apis mellifera,11
+B,58,Vicia sepium,Apis mellifera,4
+B,58,Vicia sepium,Bombus terrestris aggr.,1
+B,58,Vicia sepium,Eucera nigrescens,1
+B,58,Vicia sepium,Xylocopa violacea,1
+B,58,Vicia sepium,syrphidae,1
+B,59,Crepis biennis,Apis mellifera,2
+B,59,Dianthus carthusianorum,Euclidia glyphica,1
+B,59,Dianthus carthusianorum,Lasioglossum morio,1
+B,59,Dianthus carthusianorum,Macroglossum stellatarum,1
+B,59,Dianthus carthusianorum,Megachile willughbiella,1
+B,59,Galium mollugo aggr.,Morphospecies 1,1
+B,59,Helianthemum nummularium,Apis mellifera,1
+B,59,Helianthemum nummularium,Lasioglossum laticeps,1
+B,59,Helianthemum nummularium,Lasioglossum pauxillum,1
+B,59,Helianthemum nummularium,Osmia bicornis,2
+B,59,Hippocrepis comosa,Apis mellifera,2
+B,59,Hippocrepis comosa,Halictus subauratus,1
+B,59,Hippocrepis comosa,Megachile willughbiella,1
+B,59,Hippocrepis comosa,Osmia bicornis,1
+B,59,Medicago lupulina,Apis mellifera,1
+B,59,Medicago lupulina,Polyommatus icarus,1
+B,59,Onobrychis viciifolia,Andrena intermedia/gelriae,1
+B,59,Onobrychis viciifolia,Anthophora quadrimaculata,4
+B,59,Onobrychis viciifolia,Apis mellifera,10
+B,59,Onobrychis viciifolia,Bombus lapidarius,1
+B,59,Onobrychis viciifolia,Bombus terrestris aggr.,3
+B,59,Onobrychis viciifolia,Osmia bicornis,2
+B,59,Onobrychis viciifolia,Polyommatus icarus,1
+B,59,Rosa rubiginosa,Apis mellifera,2
+B,59,Rosa rubiginosa,Bombus hypnorum,1
+B,59,Salvia pratensis,Apis mellifera,2
+B,59,Salvia pratensis,Megachile ericetorum,1
+B,59,Sanguisorba minor,NA,1
+B,59,Trifolium dubium,Andrena afzeliella,2
+B,59,Trifolium dubium,Apis mellifera,3
+B,60,Centaurea jacea,Lasioglossum morio,1
+B,60,Crepis biennis,Apis mellifera,1
+B,60,Crepis biennis,Oedemera lurida,1
+B,60,Galium mollugo aggr.,Oedemera nobilis,1
+B,60,Geranium pyrenaicum,Episyrphus balteatus,1
+B,60,Geranium pyrenaicum,Oedemera nobilis,2
+B,60,Geranium pyrenaicum,Sphaerophoria scripta,1
+B,60,Ligustrum vulgare,Apis mellifera,8
+B,60,Ligustrum vulgare,Protaetia cuprea s.l.,1
+B,60,Potentilla reptans,Episyrphus balteatus,1
+B,60,Rubus fruticosus aggr.,Apis mellifera,1
+B,60,Rubus fruticosus aggr.,Hylaeus communis,1
+B,60,Vicia sepium,Bombus pascuorum,1
+C,1,Borago officinalis,Apis mellifera,5
+C,1,Calystegia sepium,Apis mellifera,3
+C,1,Calystegia sepium,Bombus terrestris aggr.,1
+C,1,Calystegia sepium,Eristalis tenax,1
+C,1,Convolvulus arvensis,Lasioglossum calceatum,1
+C,1,Crepis capillaris,Lasioglossum calceatum,1
+C,1,Crepis capillaris,Sphaerophoria scripta,1
+C,1,Oenothera biennis,Apis mellifera,1
+C,1,Plantago lanceolata,Melanostoma mellinum,1
+C,1,Sonchus arvensis,Lasioglossum villosulum,1
+C,2,Allium carinatum,Apis mellifera,1
+C,2,Apium graveolens,Gymnosoma sp.,1
+C,2,Apium graveolens,Pipizella viduata,1
+C,2,Borago officinalis,Apis mellifera,4
+C,2,Buddleja davidii,Apis mellifera,3
+C,2,Buddleja davidii,Bombus sp.,1
+C,2,Buddleja davidii,Bombus terrestris,1
+C,2,Buddleja davidii,Bombus terrestris aggr.,1
+C,2,Buddleja davidii,Eristalis arbustorum,1
+C,2,Buddleja davidii,Eristalis pertinax,1
+C,2,Buddleja davidii,Eristalis tenax,1
+C,2,Buddleja davidii,Eupeodes corollae,1
+C,2,Buddleja davidii,Pieris rapae,1
+C,2,Daucus carota,Agriotes ustulatus,1
+C,2,Daucus carota,cf. Sarcophaga sp.,1
+C,2,Epilobium hirsutum,Apis mellifera,1
+C,2,Epilobium hirsutum,Bombus hypnorum,1
+C,2,Epilobium hirsutum,Episyrphus balteatus,1
+C,2,Epilobium hirsutum,Lasioglossum pauxillum,1
+C,2,Epilobium hirsutum,Sphaerophoria scripta,1
+C,2,Geranium robertianum,Lasioglossum morio,1
+C,2,Hypericum perforatum,Apis mellifera,1
+C,2,Melissa officinalis,Apis mellifera,1
+C,2,Melissa officinalis,Lasioglossum politum,1
+C,2,Potentilla reptans,Andrena minutula,1
+C,2,Potentilla reptans,Meligethes aeneus,4
+C,2,Verbena bonariensis,Apis mellifera,2
+C,3,Bellis perennis,Lasioglossum pauxillum,2
+C,3,Calendula officinalis,Apis mellifera,1
+C,3,Calendula officinalis,Lasioglossum albipes,1
+C,3,Calendula officinalis,Lasioglossum laticeps,1
+C,3,Campanula persicifolia,Chelostoma distinctum,1
+C,3,Dianthus armeria,Eupeodes luniger,1
+C,3,Dianthus armeria,Lasioglossum laticeps,1
+C,3,Hypericum perforatum,Lasioglossum laticeps,3
+C,3,Lavandula angustifolia,Apis mellifera,11
+C,3,Lavandula angustifolia,Hoplitis adunca,1
+C,3,Lavandula angustifolia,Osmia caerulescens,1
+C,3,Lysimachia punctata,Lasioglossum calceatum,1
+C,3,Lysimachia punctata,Lasioglossum laticeps,1
+C,3,Lythrum salicaria,Lasioglossum morio,1
+C,3,Lythrum salicaria,Lasioglossum nitidulum,1
+C,3,Malva sylvestris,Apis mellifera,3
+C,3,Nigella damascena,Apis mellifera,1
+C,3,Petrosedum rupestre,Halictus simplex aggr.,1
+C,3,Petrosedum rupestre,Lasioglossum laticeps,1
+C,3,Petrosedum rupestre,Lasioglossum sp.,1
+C,3,Phacelia tanacetifolia,Apis mellifera,18
+C,3,Phacelia tanacetifolia,Hylaeus communis,1
+C,3,Phacelia tanacetifolia,Lasioglossum laticeps,12
+C,3,Phacelia tanacetifolia,Lasioglossum politum,3
+C,3,Phacelia tanacetifolia,Oedemera lurida,1
+C,3,Phacelia tanacetifolia,Xylocopa sp.,1
+C,3,Pilosella aurantiaca,Halictus subauratus,1
+C,3,Pilosella aurantiaca,Lasioglossum calceatum,1
+C,3,Pilosella aurantiaca,Lasioglossum pauxillum,1
+C,3,Sinapis arvensis,Lasioglossum laticeps,2
+C,3,Valeriana rubra,Lasioglossum laticeps,3
+C,4,Erigeron annuus,Eristalis arbustorum,1
+C,4,Erigeron annuus,Lasioglossum politum,3
+C,4,Erigeron annuus,Lasioglossum sp.,1
+C,4,Erigeron annuus,Sphaerophoria scripta,1
+C,4,Gladiolus communis,Apis mellifera,1
+C,4,Gladiolus communis,Deraeocoris ruber,1
+C,5,Allium cepa,Hylaeus communis,1
+C,5,Borago officinalis,Apis mellifera,2
+C,5,Linaria purpurea,Apis mellifera,1
+C,5,Origanum vulgare,Apis mellifera,9
+C,5,Origanum vulgare,Lasioglossum calceatum,2
+C,5,Origanum vulgare,Lasioglossum malachurum,1
+C,5,Petroselinum crispum,Agriotes ustulatus,1
+C,5,Petroselinum crispum,Cheilosia soror,1
+C,5,Petroselinum crispum,Hylaeus clypearis,1
+C,5,Petroselinum crispum,Hylaeus gredleri,1
+C,5,Petroselinum crispum,Hylaeus sinuatus,1
+C,5,Phacelia tanacetifolia,Apis mellifera,3
+C,5,Valeriana rubra,Apis mellifera,1
+C,5,Valeriana rubra,Lasioglossum laticeps,3
+C,6,Capsicum frutescens,Apis mellifera,1
+C,6,Capsicum frutescens,Lasioglossum calceatum,1
+C,6,Cucumis sativus,Apis mellifera,3
+C,6,Helianthus annuus,Bombus terrestris aggr.,1
+C,6,Helianthus annuus,Halictus scabiosae,1
+C,7,Achillea millefolium,Lasioglossum glabriusculum,1
+C,7,Achillea millefolium,Lasioglossum malachurum,1
+C,7,Achillea millefolium,Lasioglossum politum,1
+C,7,Allium sphaerocephalon,Apis mellifera,10
+C,7,Allium sphaerocephalon,Hylaeus communis,1
+C,7,Allium sphaerocephalon,Hylaeus nigritus,2
+C,7,Allium sphaerocephalon,Lasioglossum malachurum,1
+C,7,Allium sphaerocephalon,Lasioglossum politum,1
+C,7,Althaea officinalis,Apis mellifera,4
+C,7,Apium graveolens,Agriotes ustulatus,1
+C,7,Apium graveolens,Anogcodes rufiventris,1
+C,7,Apium graveolens,Lasioglossum politum,1
+C,7,Apium graveolens,Morphospecies 5,1
+C,7,Borago officinalis,Apis mellifera,1
+C,7,Calendula stellata,Lasioglossum pauxillum,1
+C,7,Centaurea cyanus,Apis mellifera,1
+C,7,Coriandrum sativum,Lasioglossum morio,1
+C,7,Coriandrum sativum,Syritta pipiens,1
+C,7,Cota tinctoria,Heriades truncorum,1
+C,7,Cota tinctoria,Lasioglossum malachurum,2
+C,7,Cota tinctoria,Lasioglossum pauxillum,1
+C,7,Cynara cardunculus,Apis mellifera,11
+C,7,Daucus carota,Ectophasia sp.,1
+C,7,Daucus carota,Lasioglossum glabriusculum,1
+C,7,Daucus carota,Lasioglossum politum,1
+C,7,Daucus carota,Polistes dominula,1
+C,7,Daucus carota,Stictoleptura rubra,1
+C,7,Echinacea purpurea,Apis mellifera,1
+C,7,Echinacea purpurea,Bombus vestalis,1
+C,7,Echinacea purpurea,Maniola jurtina,1
+C,7,Echinacea purpurea,Oxythyrea funesta,1
+C,7,Hypericum perforatum,Lasioglossum politum,1
+C,7,Lavandula angustifolia,Apis mellifera,28
+C,7,Papaver rhoeas,Lasioglossum malachurum,1
+C,7,Scabiosa ochroleuca,Apis mellifera,1
+C,7,Scabiosa ochroleuca,Halictus scabiosae,1
+C,7,Tagetes erecta,Apis mellifera,2
+C,7,Tanacetum vulgare,Cerceris rybyensis,1
+C,7,Tanacetum vulgare,Colletes daviesanus,1
+C,7,Tanacetum vulgare,Halictus subauratus,1
+C,7,Tanacetum vulgare,Heriades truncorum,1
+C,7,Tanacetum vulgare,Hylaeus nigritus,2
+C,7,Tanacetum vulgare,Hylaeus sp.,1
+C,7,Tanacetum vulgare,Lasioglossum politum,1
+C,8,Bellis perennis,Lasioglossum pauxillum,1
+C,8,Circaea lutetiana,Lasioglossum morio,1
+C,8,Hylotelephium telephium,Apis mellifera,5
+C,8,Lavandula angustifolia,Apis mellifera,2
+C,8,Lavandula angustifolia,Sphaerophoria scripta,1
+C,8,Taraxacum officinale,Apis mellifera,1
+C,8,Trifolium repens,Apis mellifera,2
+C,8,Trifolium repens,Bombus humilis,1
+C,9,Calendula officinalis,Apis mellifera,3
+C,9,Calendula officinalis,Lasioglossum malachurum,4
+C,9,Calendula officinalis,Lasioglossum pauxillum,1
+C,9,Calendula stellata,Apis mellifera,2
+C,9,Calendula stellata,Lasioglossum leucozonium,1
+C,9,Campanula trachelium,Chelostoma campanularum,1
+C,9,Campanula trachelium,Chelostoma rapunculi,1
+C,9,Campanula trachelium,Lasioglossum morio,2
+C,9,Eriocapitella hupehensis,Apis mellifera,1
+C,9,Eriocapitella hupehensis,Eristalis pertinax,1
+C,9,"Geranium wallichianum """"""""Rozanne""""""""",Chelostoma campanularum,1
+C,9,Helenium autumnale,Apis mellifera,6
+C,9,Leucanthemum maximum,Agriotes ustulatus,1
+C,9,Leucanthemum maximum,Cheilosia caerulescens,1
+C,9,Leucanthemum maximum,Eristalis tenax,1
+C,9,Leucanthemum maximum,Lasioglossum calceatum,2
+C,9,Leucanthemum maximum,Lasioglossum malachurum,1
+C,9,Leucanthemum maximum,Maniola jurtina,1
+C,9,Leucanthemum maximum,Myathropa florea,1
+C,9,Leucanthemum maximum,Syritta pipiens,1
+C,9,Leucanthemum maximum,wildbee,1
+C,9,Lythrum salicaria,Apis mellifera,17
+C,9,Lythrum salicaria,Bombus pascuorum,1
+C,9,Lythrum salicaria,Celastrina argiolus,1
+C,9,Origanum vulgare,Apis mellifera,67
+C,9,Origanum vulgare,Cerceris rybyensis,1
+C,9,Origanum vulgare,Eristalis similis,1
+C,9,Origanum vulgare,Lasioglossum calceatum,4
+C,9,Origanum vulgare,Lasioglossum morio,2
+C,9,Origanum vulgare,Lasioglossum pauxillum,1
+C,9,Origanum vulgare,Lasioglossum politum,3
+C,9,Origanum vulgare,Sicus sp.,1
+C,9,Origanum vulgare,Syritta pipiens,1
+C,9,Origanum vulgare,wildbee,1
+C,9,Persicaria bistorta,Apis mellifera,6
+C,9,Persicaria bistorta,Lasioglossum calceatum,3
+C,9,Persicaria bistorta,Lasioglossum morio,1
+C,9,Scabiosa ochroleuca,Lasioglossum calceatum,1
+C,9,Scabiosa ochroleuca,Sicus sp.,1
+C,9,Verbena bonariensis,Apis mellifera,1
+C,10,Allium sativum,Cerceris rybyensis,1
+C,10,Allium sativum,Dolichovespula saxonica,2
+C,10,Allium schoenoprasum,Apis mellifera,2
+C,10,Borago officinalis,Apis mellifera,3
+C,10,Calendula officinalis,Apis mellifera,2
+C,10,Calendula officinalis,Eristalis sp.,1
+C,10,Calendula officinalis,Eristalis tenax,1
+C,10,Calendula officinalis,Halictus langobardicus,1
+C,10,Epilobium hirsutum,Lasioglossum morio,1
+C,10,Hydrangea macrophylla,Lasioglossum politum,1
+C,10,Lavandula angustifolia,Apis mellifera,18
+C,10,Leonurus cardiaca,Anthidium manicatum,3
+C,10,Leonurus cardiaca,Apis mellifera,1
+C,10,Linaria purpurea,Apis mellifera,1
+C,10,Lythrum salicaria,Apis mellifera,12
+C,10,Lythrum salicaria,Lasioglossum sp.,1
+C,10,Lythrum salicaria,Melitta nigricans,1
+C,10,Malva arborea,Apis mellifera,2
+C,10,Malva arborea,Lasioglossum politum,1
+C,10,Malva sylvestris,Apis mellifera,10
+C,10,Melissa officinalis,Lasioglossum laticeps,1
+C,10,Melissa officinalis,Lasioglossum politum,3
+C,10,Mentha spicata,Apis mellifera,5
+C,10,Mentha spicata,Eristalis arbustorum,2
+C,10,Mentha spicata,Lasioglossum morio,1
+C,10,Mentha spicata,Syritta pipiens,3
+C,10,Nigella damascena,Apis mellifera,1
+C,10,Nigella damascena,Lasioglossum politum,1
+C,10,Origanum vulgare,Apis mellifera,16
+C,10,Origanum vulgare,Eristalis tenax,2
+C,10,Origanum vulgare,Helophilus trivittatus,1
+C,10,Origanum vulgare,Hylaeus communis,2
+C,10,Origanum vulgare,Lasioglossum calceatum,1
+C,10,Origanum vulgare,Lasioglossum politum,1
+C,10,Phlox drummondii,Apis mellifera,1
+C,10,Phlox drummondii,wildbee,1
+C,10,Physostegia virginiana,Apis mellifera,2
+C,10,Rubus idaeus,Dolichovespula saxonica,1
+C,10,Symphytum officinale,Bombus humilis,1
+C,10,Symphytum officinale,Bombus pascuorum,1
+C,10,Symphytum officinale,Lasioglossum morio,1
+C,10,Syringa pubescens,Apis mellifera,2
+C,10,Tanacetum vulgare,Colletes daviesanus,1
+C,10,Tanacetum vulgare,Eristalis nemorum,1
+C,10,Tanacetum vulgare,Hylaeus nigritus,2
+C,10,Tanacetum vulgare,Syritta pipiens,1
+C,11,Borago officinalis,Apis mellifera,6
+C,11,Crocosmia _x crocosmiiflora,Apis mellifera,2
+C,11,Crocosmia _x crocosmiiflora,wildbee,1
+C,11,Crocosmia aurea,Apis mellifera,1
+C,11,Crocosmia aurea,Bombus pascuorum,1
+C,11,Erigeron canadensis,Lasioglossum morio,3
+C,11,Erigeron canadensis,Lasioglossum pauxillum,2
+C,11,Malva alcea,Lasioglossum malachurum,1
+C,11,Phaseolus vulgaris,Apis mellifera,1
+C,11,Symphyotrichum novae-angliae,Lasioglossum calceatum,1
+C,11,Symphyotrichum novae-angliae,Lasioglossum morio,1
+C,11,Symphytum officinale,Bombus pascuorum,1
+C,11,Viola tricolor,Bombus terrestris aggr.,1
+C,12,Allium schoenoprasum,Lasioglossum pauxillum,1
+C,12,Cota tinctoria,Lasioglossum pauxillum,1
+C,12,Crocosmia _x crocosmiiflora,Lasioglossum pauxillum,1
+C,12,Geranium robertianum,wildbee,1
+C,12,Knautia arvensis,Halictus scabiosae,2
+C,12,Linum usitatissimum,Apis mellifera,1
+C,12,Linum usitatissimum,Bombus pratorum,1
+C,12,Linum usitatissimum,Lasioglossum laticeps,1
+C,12,Lysimachia vulgaris,Lasioglossum calceatum,1
+C,12,Lysimachia vulgaris,Macropis fulvipes,3
+C,12,Petrorhagia saxifraga,Lasioglossum glabriusculum,1
+C,12,Scabiosa columbaria,Apis mellifera,2
+C,12,Sempervivum tectorum,Lasioglossum laticeps,1
+C,12,Silene coronaria,Lasioglossum morio,1
+C,12,Stachys byzantina,Anthidium manicatum,1
+C,12,Stachys byzantina,Apis mellifera,14
+C,12,Stachys byzantina,Coelioxys rufescens,1
+C,12,Stachys byzantina,Lasioglossum malachurum,1
+C,12,Stachys byzantina,Maniola jurtina,1
+C,12,Stachys byzantina,Xylocopa violacea,2
+C,12,Tragopogon porrifolius,Meligethes sp. (noir),1
+C,12,Trifolium incarnatum,Bombus ruderatus,1
+C,12,Veronica persica,Lasioglossum pauxillum,1
+C,13,Achillea millefolium,Heriades truncorum,2
+C,13,Achillea millefolium,Hylaeus nigritus,3
+C,13,Achillea millefolium,NA,2
+C,13,Achillea millefolium,Paragus tibialis,1
+C,13,Achillea millefolium,cf. Calliphora sp.,1
+C,13,Achillea millefolium,coleoptera,1
+C,13,Centaurea jacea,Apis mellifera,4
+C,13,Centaurea jacea,Hylaeus nigritus,5
+C,13,Cirsium arvense,Apis mellifera,13
+C,13,Cirsium arvense,Helophilus trivittatus,1
+C,13,Cirsium arvense,Heriades truncorum,1
+C,13,Cirsium arvense,Hylaeus communis,1
+C,13,Cirsium arvense,Hylaeus hyalinatus,2
+C,13,Cirsium arvense,Lasioglossum calceatum,1
+C,13,Erigeron annuus,Paragus tibialis,1
+C,13,Galium mollugo aggr.,Sphaerophoria scripta,1
+C,13,Hypericum perforatum,Apis mellifera,1
+C,13,Lotus corniculatus,Apis mellifera,1
+C,13,Lotus corniculatus,Megachile willughbiella,2
+C,13,Medicago sativa,Apis mellifera,1
+C,13,Medicago sativa,Helophilus trivittatus,1
+C,13,Medicago sativa,Lasioglossum pauxillum,1
+C,13,Medicago sativa,Osmia caerulescens,1
+C,13,Medicago sativa,Pieris rapae,1
+C,13,Trifolium pratense,Sphaerophoria sp.,1
+C,13,Trifolium repens,Apis mellifera,36
+C,13,Trifolium repens,Halictus tumulorum,1
+C,14,Anchusa officinalis,Apis mellifera,1
+C,14,Centaurea jacea,Apis mellifera,1
+C,14,Centaurea jacea,pollen beetle,5
+C,14,Cichorium intybus,Apis mellifera,2
+C,14,Cichorium intybus,wildbee,1
+C,14,Hypericum perforatum,Melanostoma scalare,1
+C,14,Knautia arvensis,Bombus pascuorum,1
+C,14,Lotus corniculatus,Bombus pascuorum,1
+C,14,Pimpinella major,Melanostoma scalare,1
+C,14,Prunella vulgaris,Apis mellifera,1
+C,14,Prunella vulgaris,Bombus pascuorum,2
+C,14,Trifolium pratense,Bombus pascuorum,1
+C,15,Campanula rotundifolia,Andrena afzeliella,1
+C,15,Campanula rotundifolia,Halictus tumulorum,1
+C,15,Centaurea scabiosa,Halictus scabiosae,1
+C,15,Cichorium intybus,Apis mellifera,1
+C,15,Echium vulgare,Hoplitis adunca,1
+C,15,Helianthemum nummularium,Apis mellifera,7
+C,15,Helianthemum nummularium,Lasioglossum morio,1
+C,15,Teucrium chamaedrys,Apis mellifera,13
+C,15,Teucrium chamaedrys,Bombus pascuorum,1
+C,15,Teucrium chamaedrys,Bombus terrestris,1
+C,15,Teucrium chamaedrys,Bombus terrestris aggr.,2
+C,15,Verbascum nigrum,Lasioglossum morio,1
+C,16,Cichorium intybus,Lasioglossum malachurum,2
+C,16,Daucus carota,diptera_A10,1
+C,16,Hypochaeris radicata,Lasioglossum malachurum,1
+C,16,Hypochaeris radicata,Meligethes aeneus,1
+C,16,Plantago lanceolata,Lasioglossum pauxillum,1
+C,16,Plantago lanceolata,Melanostoma mellinum,1
+C,16,Prunella vulgaris,Apis mellifera,9
+C,16,Prunella vulgaris,Bombus hypnorum,1
+C,16,Prunella vulgaris,Bombus lapidarius,1
+C,16,Prunella vulgaris,Bombus pascuorum,1
+C,16,Prunella vulgaris,Bombus terrestris aggr.,4
+C,16,Prunella vulgaris,Halictus tumulorum,2
+C,16,Trifolium pratense,Bombus pascuorum,1
+C,16,Trifolium repens,Andrena afzeliella,1
+C,16,Trifolium repens,Apis mellifera,18
+C,16,Trifolium repens,Halictus simplex aggr.,1
+C,16,Trifolium repens,Halictus tumulorum,2
+C,16,Trifolium repens,Lasioglossum malachurum,2
+C,17,Achillea millefolium,Halictus subauratus,2
+C,17,Achillea millefolium,Lasioglossum calceatum,1
+C,17,Centaurea jacea,Lasioglossum calceatum,1
+C,17,Daucus carota,Lucilia sp.,1
+C,17,Daucus carota,Sphaerophoria scripta,1
+C,17,Galium mollugo aggr.,Pipizella viduata,1
+C,17,Knautia arvensis,Apis mellifera,1
+C,17,Medicago lupulina,Lasioglossum calceatum,1
+C,17,Medicago sativa,Ancistrocerus nigricornis,1
+C,17,Medicago sativa,Andrena afzeliella,1
+C,17,Medicago sativa,Apis mellifera,6
+C,17,Medicago sativa,Polistes dominula,1
+C,17,Medicago sativa,Sphaerophoria scripta,2
+C,17,Picris hieracioides,Lasioglossum calceatum,1
+C,17,Picris hieracioides,Lasioglossum villosulum,1
+C,17,Plantago lanceolata,Sphaerophoria sp.,1
+C,17,Scabiosa columbaria,Apis mellifera,6
+C,17,Scabiosa columbaria,Bombus pascuorum,1
+C,17,Scabiosa columbaria,Bombus pratorum,1
+C,17,Scabiosa columbaria,Halictus scabiosae,1
+C,17,Scabiosa columbaria,Oedemera lurida,1
+C,17,Trifolium repens,Apis mellifera,13
+C,18,Crepis capillaris,Eristalis sp.,1
+C,18,Crepis capillaris,Eristalis tenax,1
+C,18,Crepis capillaris,Eupeodes corollae,3
+C,18,Crepis capillaris,Lasioglossum pauxillum,8
+C,18,Crepis capillaris,Olibrus sp.,3
+C,18,Crepis capillaris,Scaeva pyrastri,1
+C,18,Crepis capillaris,Sphaerophoria scripta,1
+C,18,Crepis capillaris,Sphaerophoria sp.,1
+C,18,Crepis capillaris,Sphaerophoria taeniata,1
+C,18,Crepis capillaris,Syritta pipiens,1
+C,18,Hydrangea macrophylla,Apis mellifera,3
+C,18,Hypochaeris radicata,Eupeodes corollae,2
+C,18,Medicago lupulina,Sphaerophoria scripta,1
+C,18,Potentilla reptans,Melanostoma mellinum,1
+C,18,Prunella vulgaris,Bombus pascuorum,1
+C,18,Prunella vulgaris,Bombus sp.,1
+C,18,Trifolium pratense,Bombus pascuorum,1
+C,18,Trifolium pratense,Melanostoma mellinum,1
+C,18,Trifolium repens,Apis mellifera,10
+C,18,Trifolium repens,Morphospecies 15,1
+C,19,Centaurea jacea,Oxythyrea funesta,1
+C,19,Centaurea scabiosa,Halictus scabiosae,1
+C,19,Cornus sericea,Lasioglossum nitidulum,1
+C,19,Cornus sericea,Lasioglossum pauxillum,1
+C,19,Crepis biennis,Lasioglossum calceatum,1
+C,19,Galium verum,Cheilosia mutabilis,1
+C,19,Galium verum,Episyrphus balteatus,1
+C,19,Hypericum calycinum,Apis mellifera,2
+C,19,Hypericum calycinum,Lasioglossum politum,2
+C,19,Hypochaeris radicata,NA,1
+C,19,Knautia arvensis,Lasioglossum pauxillum,1
+C,19,Knautia arvensis,Oedemera lurida,1
+C,19,Knautia arvensis,Oedemera nobilis,1
+C,19,Knautia arvensis,Pseudovadonia livida,1
+C,19,Malva sylvestris,Lasioglossum pauxillum,1
+C,19,Picris hieracioides,Halictus scabiosae,2
+C,19,Picris hieracioides,Lasioglossum pauxillum,2
+C,19,Picris hieracioides,Oedemera lurida,1
+C,19,Potentilla reptans,Pipizella sp.,1
+C,19,Sedum sexangulare,Lasioglossum pauxillum,1
+C,19,Trifolium repens,Apis mellifera,1
+C,20,Allium rotundum,Apis mellifera,4
+C,20,Allium rotundum,Lasioglossum morio,1
+C,20,Campanula trachelium,Apis mellifera,1
+C,20,Campanula trachelium,Chelostoma campanularum,2
+C,20,Campanula trachelium,Chelostoma rapunculi,3
+C,20,Campanula trachelium,Lasioglossum morio,1
+C,20,Campanula trachelium,Lasioglossum nitidulum,1
+C,20,Campanula trachelium,Megachile willughbiella,1
+C,20,Coreopsis verticillata,Apis mellifera,5
+C,20,Coreopsis verticillata,Lasioglossum leucozonium,1
+C,20,Echinacea pallida,Apis mellifera,5
+C,20,Epilobium hirsutum,Apis mellifera,1
+C,20,Filipendula ulmaria,Apis mellifera,24
+C,20,Filipendula ulmaria,Bombus terrestris aggr.,1
+C,20,Filipendula ulmaria,Eristalis arbustorum,1
+C,20,Filipendula ulmaria,Lasioglossum laticeps,4
+C,20,Filipendula ulmaria,Lasioglossum politum,2
+C,20,Filipendula ulmaria,Myathropa florea,1
+C,20,Filipendula ulmaria,Villa cingulata,1
+C,20,Hydrangea quercifolia,Apis mellifera,9
+C,20,Lythrum salicaria,Apis mellifera,2
+C,20,Malva alcea,Apis mellifera,6
+C,20,Plantago lanceolata,Apis mellifera,1
+C,20,Plantago lanceolata,Pemphredon mortifer,1
+C,20,Prunella vulgaris,Apis mellifera,1
+C,20,Salvia verticillata,Apis mellifera,9
+C,20,Trifolium repens,Apis mellifera,2
+C,20,Trifolium repens,lepidoptera,1
+C,20,Verbena bonariensis,Apis mellifera,1
+C,21,Centaurea jacea,Apis mellifera,13
+C,21,Centaurea jacea,Lasioglossum calceatum,2
+C,21,Centaurea jacea,Lasioglossum malachurum,2
+C,21,Centaurea scabiosa,Apis mellifera,1
+C,21,Centaurea scabiosa,Lasioglossum pauxillum,1
+C,21,Centaurea scabiosa,Oxythyrea funesta,1
+C,21,Convolvulus arvensis,Lasioglossum calceatum,1
+C,21,Convolvulus arvensis,Lasioglossum laticeps,1
+C,21,Convolvulus arvensis,Lasioglossum pauxillum,1
+C,21,Convolvulus arvensis,Sphaerophoria scripta,1
+C,21,Geranium sanguineum,Apis mellifera,3
+C,21,Geranium sanguineum,Eumerus ornatus,1
+C,21,Geranium sanguineum,Lasioglossum morio,1
+C,21,Geranium sanguineum,Lasioglossum pauxillum,1
+C,21,Geranium sanguineum,Plagiognathus arbustorum,1
+C,21,Hypochaeris radicata,Lasioglossum villosulum,1
+C,21,Lotus corniculatus,Apis mellifera,1
+C,21,Plantago lanceolata,Lasioglossum laticeps,1
+C,21,Potentilla fruticosa,Apis mellifera,8
+C,21,Potentilla reptans,Lasioglossum malachurum,1
+C,21,Rubus fruticosus aggr.,Apis mellifera,10
+C,21,Rubus fruticosus aggr.,Bombus terrestris aggr.,1
+C,21,Rubus fruticosus aggr.,Lasioglossum morio,1
+C,21,Rubus fruticosus aggr.,Trichius gallicus,1
+C,21,Rubus fruticosus aggr.,pollen beetle,4
+C,21,Trifolium pratense,Bombus pascuorum,1
+C,21,Vicia sepium,Closterotomus biclavatus,1
+C,22,Circaea lutetiana,diptera_A5,1
+C,22,Geranium sanguineum,Cerceris rybyensis,1
+C,22,Geranium sanguineum,Lasioglossum nitidulum,1
+C,22,Origanum vulgare,Apis mellifera,127
+C,22,Origanum vulgare,Bombus hyponorum,1
+C,22,Origanum vulgare,Bombus terrestris,1
+C,22,Origanum vulgare,Bombus terrestris aggr.,1
+C,22,Origanum vulgare,Cerceris rybyensis,1
+C,22,Origanum vulgare,Cryptocephalus pygmaeus,1
+C,22,Origanum vulgare,Eristalis pertinax,2
+C,22,Origanum vulgare,Eristalis similis,2
+C,22,Origanum vulgare,Lasioglossum albipes,1
+C,22,Origanum vulgare,Lasioglossum calceatum,3
+C,22,Origanum vulgare,Lasioglossum morio,2
+C,22,Origanum vulgare,Lasioglossum sp.,1
+C,22,Origanum vulgare,Pieris rapae,1
+C,22,Potentilla reptans,Helophilus pendulus,1
+C,22,Ranunculus acris,Lasioglossum pauxillum,1
+C,22,Trifolium repens,Apis mellifera,27
+C,22,Trifolium repens,wildbee,1
+C,23,Calystegia sepium,Lasioglossum zonulum,1
+C,23,Lotus corniculatus,Halictus confusus,1
+C,23,Potentilla reptans,Andrena minutula,1
+C,23,Potentilla reptans,Lasioglossum calceatum,1
+C,23,Potentilla reptans,Lasioglossum malachurum,2
+C,23,Potentilla reptans,Lasioglossum morio,2
+C,23,Potentilla reptans,Sphaerophoria taeniata,1
+C,23,Prunella vulgaris,Apis mellifera,6
+C,23,Prunella vulgaris,Bombus pascuorum,1
+C,23,Prunella vulgaris,Bombus terrestris aggr.,1
+C,23,Prunella vulgaris,Pipizella sp.,1
+C,23,Trifolium pratense,Bombus pascuorum,1
+C,23,Trifolium repens,Apis mellifera,15
+C,23,Trifolium repens,Halictus tumulorum,1
+C,23,Trifolium repens,Melanostoma mellinum,1
+C,23,Trifolium repens,Polyommatus icarus,1
+C,23,Valeriana officinalis,Lasioglossum calceatum,2
+C,24,Ceanothus americanus,Apis mellifera,13
+C,24,Ceanothus americanus,Hylaeus communis,1
+C,24,Ceanothus americanus,Isodontia mexicana,1
+C,24,Ceanothus americanus,Lasioglossum laticeps,1
+C,24,Ceanothus americanus,Lasioglossum pauxillum,1
+C,24,Ceanothus americanus,Lasioglossum politum,2
+C,24,Ceanothus americanus,Lucilia sp.,5
+C,24,Ceanothus americanus,Madiza sp.,1
+C,24,Ceanothus americanus,Sphaerophoria sp.,1
+C,24,Cichorium intybus,Lasioglossum calceatum,1
+C,24,Cichorium intybus,Lasioglossum morio,1
+C,24,Crepis capillaris,Halictus subauratus,1
+C,24,Crepis capillaris,Lasioglossum leucozonium,1
+C,24,Crepis capillaris,Lasioglossum malachurum,1
+C,24,Crepis capillaris,Lasioglossum politum,1
+C,24,Daucus carota,Cerceris rybyensis,2
+C,24,Daucus carota,Eristalis arbustorum,1
+C,24,Daucus carota,Hylaeus communis,1
+C,24,Daucus carota,Hylaeus punctatus,2
+C,24,Daucus carota,Melanostoma mellinum,1
+C,24,Hypericum perforatum,Apis mellifera,1
+C,24,Malva sylvestris,Apis mellifera,1
+C,24,Medicago lupulina,Lasioglossum malachurum,1
+C,24,Prunella vulgaris,Apis mellifera,4
+C,24,Prunella vulgaris,Bombus terrestris aggr.,1
+C,24,Syringa pubescens,Apis mellifera,1
+C,24,Syringa pubescens,Eristalis tenax,3
+C,24,Syringa pubescens,Lasioglossum politum,1
+C,24,Taraxacum officinale,NA,1
+C,24,Trifolium repens,Apis mellifera,2
+C,24,Trifolium repens,Polyommatus icarus,1
+C,26,Achillea filipendulina,Halictus simplex aggr.,1
+C,26,Achillea filipendulina,Heriades truncorum,1
+C,26,Achillea filipendulina,Hylaeus nigritus,3
+C,26,Achillea filipendulina,Lasioglossum pauxillum,3
+C,26,Achillea filipendulina,Lasioglossum politum,1
+C,26,Buddleja davidii,Apis mellifera,4
+C,26,Buddleja davidii,Pieris rapae,1
+C,26,Coreopsis verticillata,Apis mellifera,5
+C,26,Crocosmia _x crocosmiiflora,Apis mellifera,8
+C,26,Crocosmia _x crocosmiiflora,Lasioglossum albipes,1
+C,26,Crocosmia _x crocosmiiflora,Lasioglossum calceatum,2
+C,26,Crocosmia _x crocosmiiflora,Lasioglossum nitidulum,2
+C,26,Geranium sanguineum,Hylaeus confusus,1
+C,26,Geranium sanguineum,Lasioglossum pauxillum,2
+C,26,Geranium sanguineum,Oedemera lurida,1
+C,26,Geranium sanguineum,diptera_A13,1
+C,26,Hypochaeris radicata,Eupeodes corollae,1
+C,26,Hypochaeris radicata,Lasioglossum morio,1
+C,26,Lavandula angustifolia,Apis mellifera,13
+C,26,Lavandula angustifolia,Bombus hyponorum,1
+C,26,Lavandula angustifolia,Bombus pratorum,1
+C,26,Oenothera lindheimeri,Apis mellifera,15
+C,26,Potentilla fruticosa,Apis mellifera,4
+C,26,Potentilla fruticosa,Lucilia sp.,1
+C,26,Prunella vulgaris,Eumerus sogdianus,1
+C,26,Prunella vulgaris,Sphaerophoria scripta,1
+C,26,Rosa gallica,Apis mellifera,1
+C,26,Rosa gallica,Myathropa florea,1
+C,26,Salvia yangii,Apis mellifera,4
+C,26,Trifolium repens,Apis mellifera,6
+C,26,Trifolium repens,Halictus tumulorum,1
+C,26,Veronica longifolia,Apis mellifera,6
+C,26,Veronica longifolia,Lasioglossum calceatum,1
+C,26,Veronica longifolia,Lasioglossum morio,1
+C,26,Veronica longifolia,Lasioglossum pauxillum,1
+C,26,Veronica longifolia,Lasioglossum politum,1
+C,27,Eriocapitella hybrida,Apis mellifera,8
+C,27,Eriocapitella hybrida,Bombus terrestris aggr.,1
+C,27,Geum urbanum,Lasioglossum calceatum,1
+C,27,Hypericum hircinum,Apis mellifera,8
+C,27,Hypericum hircinum,Bombus pascuorum,1
+C,27,Hypericum hircinum,Lasioglossum calceatum,1
+C,27,Hypericum hircinum,Stomorhina lunata,1
+C,27,Lavandula angustifolia,Apis mellifera,19
+C,27,Lavandula angustifolia,Bombus pascuorum,3
+C,27,Lavandula angustifolia,Bombus terrestris aggr.,1
+C,27,Lavandula angustifolia,Bombus vestalis,1
+C,27,Melilotus officinalis,Halictus confusus,1
+C,27,Oenothera biennis,Apis mellifera,1
+C,27,Oenothera biennis,Lasioglossum laticeps,1
+C,28,Circaea lutetiana,Lasioglossum morio,1
+C,28,Circaea lutetiana,Platycheirus scutatus,1
+C,28,Circaea lutetiana,Sphaerophoria scripta,1
+C,29,Aster incisus,Lasioglossum albipes,1
+C,29,Bellis perennis,Thecophora sp.,1
+C,29,Pentas lanceolata,Lasioglossum morio,1
+C,29,Prunella vulgaris,Apis mellifera,4
+C,29,Prunella vulgaris,Bombus pascuorum,1
+C,29,Prunella vulgaris,Bombus terrestris aggr.,1
+C,29,Rudbeckia fulgida,Halictus simplex aggr.,1
+C,29,Rudbeckia fulgida,Lasioglossum nitidulum,1
+C,29,Saponaria officinalis,Apis mellifera,1
+C,29,Saponaria officinalis,Lasioglossum calceatum,1
+C,29,Saponaria officinalis,Lasioglossum nitidulum,1
+C,29,Trifolium repens,Andrena afzeliella,1
+C,29,Trifolium repens,Apis mellifera,2
+C,29,Trifolium repens,Chelostoma rapunculi,1
+C,30,Eriocapitella hybrida,Apis mellifera,1
+C,30,Eriocapitella hybrida,Bombus terrestris aggr.,1
+C,30,Eriocapitella hybrida,Eristalis tenax,1
+C,30,Heuchera micrantha,Lasioglossum pauxillum,1
+C,30,Hibiscus syriacus,Bombus terrestris aggr.,1
+C,30,Persicaria orientalis,Apis mellifera,6
+C,30,Persicaria orientalis,Dolichovespula saxonica,2
+C,30,Persicaria orientalis,Lasioglossum calceatum,2
+C,30,Persicaria orientalis,Lasioglossum laticeps,1
+C,30,Rosa _x damascena,Apis mellifera,1
+C,30,Salvia glutinosa,Lasioglossum morio,1
+C,30,Trifolium repens,Apis mellifera,3
+C,31,Circaea lutetiana,Andrena minutula,1
+C,31,Circaea lutetiana,Halictus tumulorum,1
+C,31,Circaea lutetiana,Lasioglossum calceatum,6
+C,31,Circaea lutetiana,Lasioglossum malachurum,1
+C,31,Circaea lutetiana,Lasioglossum morio,1
+C,31,Circaea lutetiana,Lasioglossum nitidulum,2
+C,31,Circaea lutetiana,Meliscaeva cinctella,1
+C,31,Circaea lutetiana,NA,1
+C,31,Circaea lutetiana,Platycheirus scutatus,2
+C,31,Circaea lutetiana,wildbee,1
+C,31,Geranium nodosum,Bombus pascuorum,1
+C,31,Geranium nodosum,Lasioglossum calceatum,3
+C,31,Geranium nodosum,Lasioglossum nitidulum,1
+C,31,Geranium nodosum,Meligethes viridescens,1
+C,31,Geranium nodosum,Pipiza noctiluca aggr.,1
+C,31,Origanum vulgare,Apis mellifera,3
+C,32,Alchemilla mollis,Lasioglossum pauxillum,1
+C,32,Alchemilla mollis,Lucilia sp.,1
+C,32,Astrantia major,Hylaeus sinuatus,1
+C,32,Astrantia major,Lasioglossum pauxillum,1
+C,32,Campanula poscharskyana,Apis mellifera,2
+C,32,Campanula poscharskyana,Chelostoma rapunculi,1
+C,32,Campanula poscharskyana,Lasioglossum pauxillum,1
+C,32,Centaurea montana,Lasioglossum pauxillum,1
+C,32,Coreopsis verticillata,Apis mellifera,1
+C,32,Coreopsis verticillata,Halictus scabiosae,2
+C,32,Coreopsis verticillata,Lasioglossum pauxillum,1
+C,32,Dianthus armeria,Lasioglossum morio,1
+C,32,Dianthus armeria,Lasioglossum pauxillum,1
+C,32,Geranium endressii,Anthidium manicatum,1
+C,32,Geranium endressii,Apis mellifera,1
+C,32,Geranium endressii,Chelostoma rapunculi,1
+C,32,Geranium endressii,Lasioglossum pauxillum,2
+C,32,Geranium sanguineum,Lasioglossum morio,1
+C,32,Hypericum calycinum,Apis mellifera,3
+C,32,Hypericum calycinum,Hylaeus punctatus,1
+C,32,Hypericum calycinum,Lasioglossum laticeps,3
+C,32,Hypericum calycinum,Lasioglossum morio,1
+C,32,Lavandula angustifolia,Apis mellifera,15
+C,32,Lavandula angustifolia,Bombus pascuorum,3
+C,32,Lavandula angustifolia,Bombus pratorum,1
+C,32,Lavandula angustifolia,Gymnosoma sp.,1
+C,32,Lavandula angustifolia,Hoplitis adunca,1
+C,32,Lavandula angustifolia,Megachile ericetorum,1
+C,32,Lavandula angustifolia,Pieris rapae,1
+C,32,Salvia nemorosa,Apis mellifera,4
+C,32,Salvia nemorosa,Lasioglossum pauxillum,1
+C,33,Acanthus spinosus,Lasioglossum morio,1
+C,33,Anthericum liliago,Hylaeus communis,2
+C,33,Anthericum liliago,Morphospecies 21,1
+C,33,Bellis perennis,Lasioglossum malachurum,1
+C,33,Geranium endressii,Apis mellifera,1
+C,33,Geranium endressii,Chelostoma campanularum,1
+C,33,Geranium endressii,Lasioglossum calceatum,2
+C,33,Geranium endressii,Lasioglossum morio,1
+C,33,Lavandula angustifolia,Lucilia sp.,1
+C,33,Linaria purpurea,Apis mellifera,1
+C,33,Melissa officinalis,Bombus pascuorum,1
+C,33,Melissa officinalis,wildbee,1
+C,33,Origanum vulgare,Apis mellifera,6
+C,33,Origanum vulgare,Hylaeus communis,1
+C,33,Origanum vulgare,Lasioglossum calceatum,1
+C,33,Origanum vulgare,Lasioglossum morio,1
+C,33,Prunella vulgaris,Apis mellifera,2
+C,33,Prunella vulgaris,Bombus pascuorum,1
+C,33,Salvia yangii,Apis mellifera,7
+C,34,Calystegia sepium,Melanostoma mellinum,1
+C,34,Campanula portenschlagiana,Chelostoma campanularum,1
+C,34,Crepis capillaris,Lasioglossum calceatum,3
+C,34,Crepis capillaris,Lasioglossum leucozonium,2
+C,34,Crepis capillaris,Lasioglossum malachurum,1
+C,34,Crepis capillaris,Lasioglossum pauxillum,1
+C,34,Crepis capillaris,Lasioglossum villosulum,1
+C,34,Crepis capillaris,wildbee,1
+C,34,Hydrangea macrophylla,Lasioglossum calceatum,1
+C,34,Hydrangea macrophylla,Lasioglossum sp.,1
+C,34,Plantago lanceolata,Apis mellifera,2
+C,34,Plantago lanceolata,Lasioglossum calceatum,1
+C,34,Plantago lanceolata,Sphaerophoria scripta,1
+C,34,Potentilla reptans,Sphaerophoria sp.,1
+C,34,Prunella vulgaris,Apis mellifera,4
+C,34,Prunella vulgaris,Bombus lapidarius,2
+C,34,Prunella vulgaris,Bombus pascuorum,1
+C,34,Prunella vulgaris,Bombus terrestris aggr.,1
+C,34,Prunella vulgaris,Lasioglossum morio,1
+C,34,Prunella vulgaris,Sphaerophoria sp.,1
+C,34,Rubus idaeus,Dolichovespula saxonica,2
+C,34,Trifolium repens,Apis mellifera,2
+C,34,Trifolium repens,Halictus tumulorum,2
+C,34,Trifolium repens,Lasioglossum morio,1
+C,35,Allium schoenoprasum,Lasioglossum glabriusculum,1
+C,35,Bellis perennis,Cheilosia vernalis,2
+C,35,Bellis perennis,Lasioglossum calceatum,1
+C,35,Bellis perennis,Sphaerophoria scripta,1
+C,35,Campanula trachelium,Apis mellifera,1
+C,35,Campanula trachelium,Chelostoma campanularum,2
+C,35,Campanula trachelium,Chelostoma rapunculi,1
+C,35,Cirsium arvense,Bombus vestalis,1
+C,35,Cirsium arvense,Cerceris rybyensis,1
+C,35,Cirsium arvense,Hylaeus taeniolatus,1
+C,35,Cirsium arvense,Lasioglossum laticeps,1
+C,35,Cirsium arvense,Lasioglossum pauxillum,5
+C,35,Crepis capillaris,Lasioglossum glabriusculum,1
+C,35,Epilobium hirsutum,Lasioglossum morio,1
+C,35,Epilobium hirsutum,Lasioglossum pauxillum,1
+C,35,Galium mollugo aggr.,Pipizella viduata,1
+C,35,Lythrum salicaria,Lasioglossum nitidulum,1
+C,35,Melissa officinalis,Anthidium manicatum,1
+C,35,Melissa officinalis,Lasioglossum morio,1
+C,35,Melissa officinalis,Sphaerophoria scripta,1
+C,35,Mentha spicata,Aphantopus hyperantus,1
+C,35,Mentha spicata,Apis mellifera,1
+C,35,Mentha spicata,Syritta pipiens,3
+C,35,Mentha spicata,cf. Phasia sp.,1
+C,35,Origanum vulgare,Apis mellifera,5
+C,35,Origanum vulgare,Bombus sp.,1
+C,35,Origanum vulgare,Conops sp.,1
+C,35,Origanum vulgare,Dolichovespula saxonica,1
+C,35,Origanum vulgare,Helophilus trivittatus,1
+C,35,Origanum vulgare,Physocephala sp.,1
+C,35,Prunella vulgaris,Apis mellifera,5
+C,35,Prunella vulgaris,Bombus pascuorum,3
+C,35,Prunella vulgaris,Pipizella sp.,1
+C,35,Prunella vulgaris,Platycheirus albimanus,1
+C,35,Rubus idaeus,Bombus hypnorum,1
+C,35,Trifolium pratense,Bombus humilis,1
+C,35,Trifolium pratense,Bombus pascuorum,1
+C,36,Circaea lutetiana,Episyrphus balteatus,1
+C,36,Circaea lutetiana,Lasioglossum calceatum,2
+C,36,Circaea lutetiana,Lasioglossum morio,1
+C,36,Circaea lutetiana,Platycheirus scutatus aggr.,1
+C,36,Eriocapitella hupehensis,Lasioglossum calceatum,1
+C,36,Hypericum perforatum,Lasioglossum morio,1
+C,36,Lathyrus latifolius,Megachile willughbiella,1
+C,36,Potentilla reptans,Lasioglossum morio,1
+C,36,Sorbaria sorbifolia,Apis mellifera,1
+C,36,Sorbaria sorbifolia,Bombus terrestris aggr.,1
+C,37,Bellis perennis,Lasioglossum pauxillum,2
+C,37,Crepis capillaris,Anthidium manicatum,1
+C,37,Crepis capillaris,Lasioglossum pauxillum,3
+C,37,Crepis capillaris,Sphaerophoria scripta,1
+C,37,Crepis capillaris,wildbee,1
+C,37,Galium mollugo aggr.,Megachile argentata,1
+C,37,Geranium nodosum,Apis mellifera,9
+C,37,Geranium nodosum,Bombus hortorum,1
+C,37,Geranium nodosum,Episyrphus balteatus,3
+C,37,Geranium nodosum,Lasioglossum pauxillum,6
+C,37,Geranium nodosum,Lasioglossum sp.,1
+C,37,Geranium nodosum,Melanostoma mellinum,1
+C,37,Geranium nodosum,Melanostoma scalare,2
+C,37,Geranium nodosum,Pieris rapae,1
+C,37,Geranium nodosum,diptera_Lo1,1
+C,37,Geranium nodosum,wildbee,1
+C,37,Lotus corniculatus,Anthidiellum strigatum,1
+C,37,Lotus corniculatus,Chelostoma rapunculi,1
+C,37,Medicago lupulina,Lasioglossum pauxillum,2
+C,37,Potentilla reptans,Sphaerophoria taeniata,1
+C,37,Trifolium pratense,Bombus pascuorum,1
+C,37,Trifolium repens,Apis mellifera,1
+C,38,Achillea millefolium,Anthidium manicatum,1
+C,38,Achillea millefolium,Apis mellifera,14
+C,38,Achillea millefolium,Coenosia dubiosa,1
+C,38,Achillea millefolium,Colletes similis,1
+C,38,Achillea millefolium,Eristalis tenax,2
+C,38,Achillea millefolium,Halictus subauratus,1
+C,38,Achillea millefolium,Halictus tumulorum,1
+C,38,Achillea millefolium,Lucilia sp.,2
+C,38,Achillea millefolium,NA,1
+C,38,Achillea millefolium,diptera_Sa1,1
+C,38,Aster amellus,Sphaerophoria scripta,1
+C,38,Centaurea stoebe,Apis mellifera,30
+C,38,Centaurea stoebe,Bombus lapidarius,2
+C,38,Centaurea stoebe,Eristalis tenax,1
+C,38,Cota tinctoria,wildbee,1
+C,38,Daucus carota,Apis mellifera,1
+C,38,Daucus carota,Eristalis tenax,1
+C,38,Daucus carota,Lasioglossum laticeps,1
+C,38,Daucus carota,Lucilia sp.,1
+C,38,Daucus carota,Morphospecies 9,1
+C,38,Hypericum perforatum,Eristalis tenax,1
+C,38,Ononis spinosa,Apis mellifera,3
+C,38,Ononis spinosa,Bombus terrestris aggr.,1
+C,38,Trifolium pratense,Bombus humilis,1
+C,38,Trifolium repens,Apis mellifera,1
+C,39,Allium sphaerocephalon,Apis mellifera,4
+C,39,Arctium lappa,Apis mellifera,8
+C,39,Bellis perennis,diptera_T6,1
+C,39,Campanula trachelium,Chelostoma campanularum,1
+C,39,Campanula trachelium,Lasioglossum morio,1
+C,39,Centaurea jacea,Hylaeus nigritus,1
+C,39,Coronilla varia,Apis mellifera,3
+C,39,Coronilla varia,Bombus pascuorum,3
+C,39,Daucus carota,Hylaeus leptocephalus,1
+C,39,Daucus carota,Lucilia sp.,2
+C,39,Daucus carota,Morphospecies 9,1
+C,39,Daucus carota,diptera_A6,1
+C,39,Erigeron karvinskianus,Lasioglossum laticeps,1
+C,39,Erigeron karvinskianus,wildbee,1
+C,39,Eupatorium cannabinum,Apis mellifera,2
+C,39,Eupatorium cannabinum,Bombus terrestris aggr.,1
+C,39,Hypericum perforatum,Bombus pascuorum,1
+C,39,Knautia arvensis,Apis mellifera,5
+C,39,Knautia macedonica,Apis mellifera,3
+C,39,Leonurus cardiaca,Apis mellifera,1
+C,39,Leonurus cardiaca,Bombus terrestris aggr.,3
+C,39,Malva sylvestris,Apis mellifera,1
+C,39,Melilotus albus,Apis mellifera,2
+C,39,Melilotus albus,Bombus terrestris aggr.,1
+C,39,Melissa officinalis,Bombus pascuorum,1
+C,39,Mentha spicata,Apis mellifera,18
+C,39,Mentha spicata,Sphaerophoria scripta,1
+C,39,Oenothera biennis,Bombus terrestris aggr.,1
+C,39,Origanum vulgare,Apis mellifera,9
+C,39,Origanum vulgare,Hylaeus leptocephalus,1
+C,39,Origanum vulgare,Stelis punctulatissima,1
+C,39,Seseli libanotis,Apis mellifera,1
+C,39,Seseli libanotis,Hylaeus punctatus,3
+C,39,Seseli libanotis,Lasioglossum malachurum,1
+C,39,Seseli libanotis,NA,1
+C,39,Stachys officinalis,Anthidium manicatum,2
+C,39,Verbascum minutiflorum,Apis mellifera,1
+C,39,Verbascum minutiflorum,Sphaerophoria scripta,1
+C,40,Achillea millefolium,NA,1
+C,40,Achillea millefolium,Sphaerophoria scripta,1
+C,40,Leontodon hispidus,Eupeodes luniger,1
+C,40,Leontodon hispidus,Lasioglossum laticeps,1
+C,40,Leontodon hispidus,Sphaerophoria scripta,1
+C,40,Rorippa sylvestris,Ancistrocerus gazella,1
+C,40,Rorippa sylvestris,Apis mellifera,3
+C,40,Rorippa sylvestris,Hylaeus gredleri,1
+C,40,Rorippa sylvestris,Hylaeus leptocephalus,1
+C,40,Rorippa sylvestris,Hylaeus pictipes,1
+C,40,Rorippa sylvestris,Hylaeus punctatus,1
+C,40,Rorippa sylvestris,Lasioglossum laticeps,1
+C,40,Rorippa sylvestris,Lasioglossum pauxillum,1
+C,40,Rorippa sylvestris,Lucilia sp.,1
+C,40,Rorippa sylvestris,Platycheirus scutatus,1
+C,40,Rorippa sylvestris,Sphaerophoria scripta,2
+C,40,Rorippa sylvestris,Syritta pipiens,1
+C,40,Taraxacum officinale,Apis mellifera,2
+C,40,Trifolium repens,Apis mellifera,5
+C,41,Salvia verticillata,Apis mellifera,3
+C,41,Verbascum chaixii,Bombus terrestris aggr.,1
+C,41,Verbascum nigrum,Apis mellifera,2
+C,42,Bellis perennis,Lucilia sp.,1
+C,42,Hypericum calycinum,Lasioglossum laticeps,1
+C,42,Spiraea japonica,Bombus hyponorum,1
+C,42,Spiraea japonica,Bombus pascuorum,1
+C,42,Spiraea japonica,Episyrphus balteatus,1
+C,43,Centaurea jacea,Apis mellifera,6
+C,43,Daucus carota,Hylaeus communis,1
+C,43,Daucus carota,Hylaeus hyalinatus,1
+C,43,Daucus carota,Hylaeus punctatus,2
+C,43,Daucus carota,Hylaeus sp.,2
+C,43,Daucus carota,Lasioglossum politum,2
+C,43,Daucus carota,Lucilia sp.,3
+C,43,Galium mollugo aggr.,Lasioglossum calceatum,1
+C,43,Galium mollugo aggr.,Lucilia sp.,1
+C,43,Lotus corniculatus,Halictus tumulorum,1
+C,43,Lotus corniculatus,Megachile rotundata,1
+C,43,Lotus corniculatus,Megachile willughbiella,1
+C,43,Salvia pratensis,Anthidium manicatum,1
+C,43,Scabiosa columbaria,Eristalis tenax,1
+C,43,Trifolium pratense,Bombus pascuorum,4
+C,43,Trifolium pratense,Halictus tumulorum,1
+C,44,Cirsium arvense,Anaspis varians,1
+C,44,Cirsium arvense,Apis mellifera,10
+C,44,Cirsium arvense,Hylaeus confusus,1
+C,44,Cirsium arvense,Hylaeus sinuatus,2
+C,44,Cirsium arvense,Lasioglossum pauxillum,1
+C,44,Crepis capillaris,Lasioglossum pauxillum,1
+C,44,Crepis capillaris,Lasioglossum villosulum,1
+C,44,Crepis capillaris,Oedemera lurida,1
+C,44,Daucus carota,Cerceris rybyensis,2
+C,44,Daucus carota,Hylaeus sinuatus,4
+C,44,Daucus carota,Hylaeus styriacus,1
+C,44,Daucus carota,Oedemera nobilis,1
+C,44,Daucus carota,diptera_T8,1
+C,44,Geranium sanguineum,Chelostoma rapunculi,1
+C,44,Hypericum calycinum,Bombus sp.,1
+C,44,Hypericum calycinum,Bombus terrestris aggr.,1
+C,44,Hypericum calycinum,Lasioglossum laticeps,1
+C,44,Hypericum calycinum,Lasioglossum morio,1
+C,44,Hypericum calycinum,Lasioglossum pauxillum,2
+C,44,Hypericum perforatum,Apis mellifera,1
+C,44,Hypericum perforatum,Bombus pascuorum,1
+C,44,Hypericum perforatum,Lasioglossum morio,1
+C,44,Hypericum perforatum,Lasioglossum sp.,1
+C,44,Ligustrum vulgare,Apis mellifera,17
+C,44,Ligustrum vulgare,Bombus pascuorum,1
+C,44,Ligustrum vulgare,Eristalis arbustorum,1
+C,44,Ligustrum vulgare,Eristalis pertinax,1
+C,44,Ligustrum vulgare,Eristalis tenax,4
+C,44,Ligustrum vulgare,Maniola jurtina,1
+C,44,Ligustrum vulgare,Meliscaeva auricollis,1
+C,44,Ligustrum vulgare,Sphaerophoria scripta,1
+C,44,Ligustrum vulgare,Volucella pellucens,1
+C,44,Origanum vulgare,Apis mellifera,13
+C,44,Origanum vulgare,Bombus humilis,1
+C,44,Origanum vulgare,Bombus terrestris,1
+C,44,Origanum vulgare,Lasioglossum morio,1
+C,44,Origanum vulgare,Sicus sp.,1
+C,44,Origanum vulgare,Stelis punctulatissima,1
+C,44,Plantago lanceolata,Apis mellifera,1
+C,44,Plantago lanceolata,Bombus terrestris aggr.,1
+C,44,Plantago lanceolata,Lasioglossum pauxillum,1
+C,44,Plantago lanceolata,Lasioglossum sp.,1
+C,44,Trifolium pratense,Bombus humilis,1
+C,44,Trifolium pratense,Bombus pascuorum,1
+C,45,Anthriscus sylvestris,Apis mellifera,14
+C,45,Anthriscus sylvestris,Bombus hyponorum,1
+C,45,Anthriscus sylvestris,Halictus tumulorum,1
+C,45,Anthriscus sylvestris,Hylaeus sinuatus,1
+C,45,Anthriscus sylvestris,Lasioglossum pauxillum,1
+C,45,Cirsium arvense,Lasioglossum calceatum,1
+C,45,Crepis capillaris,Chloromyia formosa,1
+C,45,Crepis capillaris,Lasioglossum malachurum,4
+C,45,Crepis capillaris,Lasioglossum pauxillum,3
+C,45,Crepis capillaris,Sphaerophoria sp.,1
+C,45,Crepis capillaris,wildbee,1
+C,45,Lotus corniculatus,Apis mellifera,7
+C,45,Lotus corniculatus,Bombus pascuorum,1
+C,45,Lotus corniculatus,Himacerus mirmicoides,1
+C,45,Lotus corniculatus,Megachile willughbiella,1
+C,45,Plantago lanceolata,Apis mellifera,1
+C,45,Prunella vulgaris,Apis mellifera,1
+C,45,Prunella vulgaris,Bombus pascuorum,1
+C,45,Prunella vulgaris,Bombus terrestris,2
+C,45,Prunella vulgaris,Bombus terrestris aggr.,3
+C,45,Prunella vulgaris,Lasioglossum glabriusculum,1
+C,45,Symphoricarpos albus,Bombus hyponorum,1
+C,45,Symphoricarpos albus,Halictus tumulorum,1
+C,45,Trifolium pratense,Bombus pascuorum,1
+C,45,Trifolium repens,Apis mellifera,10
+C,46,Achillea millefolium,Halictus subauratus,2
+C,46,Bellis perennis,Sphaerophoria scripta,1
+C,46,Daucus carota,Hylaeus sp.,1
+C,46,Daucus carota,Lucilia sp.,1
+C,46,Daucus carota,Maniola jurtina,1
+C,46,Daucus carota,Morphospecies 14,1
+C,46,Daucus carota,Morphospecies 18,1
+C,46,Daucus carota,Morphospecies 19,1
+C,46,Daucus carota,Myathropa florea,1
+C,46,Daucus carota,Tephritinae,1
+C,46,Daucus carota,diptera_R1,1
+C,46,Eupatorium cannabinum,Apis mellifera,20
+C,46,Eupatorium cannabinum,Halictus scabiosae,1
+C,46,Galium mollugo aggr.,Lasioglossum morio,1
+C,46,Geranium pratense,Apis mellifera,4
+C,46,Prunella vulgaris,Andrena minutuloides,1
+C,46,Prunella vulgaris,Apis mellifera,5
+C,46,Prunella vulgaris,Bombus pascuorum,2
+C,46,Prunella vulgaris,Bombus terrestris,1
+C,46,Prunella vulgaris,Bombus terrestris aggr.,1
+C,46,Prunella vulgaris,Sphaerophoria sp.,1
+C,46,Stellaria graminea,Apis mellifera,1
+C,46,Stellaria graminea,Halictus tumulorum,1
+C,46,Trifolium repens,Apis mellifera,8
+C,47,Bellis perennis,wildbee,1
+C,47,Trifolium repens,Apis mellifera,12
+C,47,Trifolium repens,Chelostoma rapunculi,1
+C,47,Trifolium repens,Halictus subauratus,2
+C,47,Trifolium repens,Osmia caerulescens,1
+C,48,Bellis perennis,Lasioglossum malachurum,1
+C,48,Campanula rotundifolia,Chelostoma campanularum,1
+C,48,Centaurea jacea,Halictus simplex aggr.,1
+C,48,Crepis capillaris,Lasioglossum nitidulum,1
+C,48,Heracleum sphondylium,Anogcodes rufiventris,1
+C,48,Heracleum sphondylium,Ectophasia sp.,1
+C,48,Heracleum sphondylium,Hylaeus gredleri,1
+C,48,Heracleum sphondylium,Trichodes apiarius,1
+C,48,Hypochaeris radicata,Chelostoma distinctum,1
+C,48,Hypochaeris radicata,Halictus scabiosae,2
+C,48,Hypochaeris radicata,Hylaeus communis,1
+C,48,Hypochaeris radicata,Hylaeus punctatus,1
+C,48,Hypochaeris radicata,Lasioglossum villosulum,1
+C,48,Hypochaeris radicata,Sicus sp.,1
+C,48,Lotus corniculatus,Anthidium punctatum,1
+C,48,Lotus corniculatus,Apis mellifera,1
+C,48,Lotus corniculatus,Bombus pascuorum,2
+C,48,Medicago lupulina,Lasioglossum malachurum,1
+C,48,Plantago lanceolata,Apis mellifera,1
+C,48,Prunella vulgaris,Apis mellifera,17
+C,48,Prunella vulgaris,Bombus pascuorum,1
+C,48,Prunella vulgaris,Bombus terrestris aggr.,2
+C,48,Prunella vulgaris,Halictus tumulorum,1
+C,48,Torilis japonica,Eristalis nemorum,1
+C,48,Torilis japonica,Eristalis pertinax,1
+C,48,Torilis japonica,Lasioglossum nitidulum,2
+C,48,Torilis japonica,Lucilia sp.,2
+C,48,Torilis japonica,Morphospecies 8,1
+C,48,Torilis japonica,NA,1
+C,48,Torilis japonica,Sphaerophoria scripta,1
+C,48,Torilis japonica,diptera_A12,1
+C,48,Torilis japonica,diptera_T4,1
+C,48,Trifolium pratense,Bombus humilis,1
+C,48,Trifolium repens,Andrena wilkella,1
+C,48,Trifolium repens,Apis mellifera,43
+C,48,Trifolium repens,Bombus terrestris aggr.,1
+C,49,Buphthalmum salicifolium,Lasioglossum albipes,1
+C,49,Buphthalmum salicifolium,Lasioglossum pauxillum,1
+C,49,Cirsium arvense,Apis mellifera,3
+C,49,Cirsium arvense,Cryptocephalus sericeus,1
+C,49,Cirsium arvense,Halictus langobardicus,1
+C,49,Galium verum,Apis mellifera,6
+C,49,Galium verum,Halictus confusus,1
+C,49,Galium verum,Lasioglossum laticeps,7
+C,49,Galium verum,Lasioglossum politum,1
+C,49,Galium verum,Sphaerophoria scripta,3
+C,49,Helianthemum nummularium,Apis mellifera,1
+C,49,Lotus corniculatus,Ancistrocerus gazella,1
+C,49,Lotus corniculatus,Apis mellifera,1
+C,49,Lotus corniculatus,Bombus lapidarius,1
+C,49,Lotus corniculatus,Bombus sp.,1
+C,49,Lotus corniculatus,Megachile willughbiella,1
+C,49,Lotus corniculatus,Sphaerophoria scripta,1
+C,49,Medicago sativa,Apis mellifera,1
+C,49,Melilotus albus,Apis mellifera,1
+C,49,Origanum vulgare,Apis mellifera,34
+C,49,Origanum vulgare,Bombus hyponorum,1
+C,49,Origanum vulgare,Bombus lapidarius,1
+C,49,Origanum vulgare,Bombus terrestris,1
+C,49,Origanum vulgare,Bombus terrestris aggr.,3
+C,49,Origanum vulgare,Bombus vestalis,2
+C,49,Origanum vulgare,Eristalis tenax,2
+C,49,Origanum vulgare,Helophilus trivittatus,1
+C,49,Origanum vulgare,Lasioglossum laticeps,1
+C,49,Origanum vulgare,Lasioglossum pauxillum,1
+C,49,Origanum vulgare,Lasioglossum politum,1
+C,49,Origanum vulgare,lepidoptera,1
+C,49,Petrorhagia saxifraga,Helophilus pendulus,1
+C,49,Petrorhagia saxifraga,Lasioglossum pauxillum,1
+C,49,Petrorhagia saxifraga,Sphaerophoria taeniata,1
+C,49,Thymus serpyllum,Apis mellifera,8
+C,49,Thymus serpyllum,Helophilus trivittatus,1
+C,49,Thymus serpyllum,Lasioglossum nitidulum,1
+C,50,Daucus carota,Eristalis arbustorum,1
+C,50,Daucus carota,Gymnosoma sp.,1
+C,50,Daucus carota,NA,2
+C,50,Daucus carota,Oedemera lurida,1
+C,50,Hypochaeris radicata,Lasioglossum pauxillum,1
+C,50,Leontodon hispidus,Halictus confusus,1
+C,50,Leontodon hispidus,Lasioglossum malachurum,1
+C,50,Leontodon hispidus,Sphaerophoria scripta,1
+C,50,Lotus corniculatus,Anthidium oblongatum,3
+C,50,Lotus corniculatus,Apis mellifera,14
+C,50,Lotus corniculatus,Bombus lapidarius,1
+C,50,Lotus corniculatus,Megachile rotundata,1
+C,50,Lotus corniculatus,Megachile willughbiella,1
+C,50,Medicago sativa,Apis mellifera,6
+C,50,Medicago sativa,Bombus lapidarius,1
+C,50,Medicago sativa,Bombus terrestris aggr.,1
+C,50,Plantago lanceolata,Apis mellifera,1
+C,50,Plantago lanceolata,Halictus tumulorum,1
+C,50,Plantago lanceolata,Lasioglossum calceatum,1
+C,50,Plantago lanceolata,Lasioglossum malachurum,2
+C,50,Plantago lanceolata,Sphaerophoria scripta,2
+C,50,Plantago media,Apis mellifera,1
+C,50,Plantago media,Bombus terrestris aggr.,2
+C,50,Plantago media,Lasioglossum pauxillum,1
+C,50,Trifolium pratense,Bombus terrestris aggr.,2
+C,50,Trifolium pratense,Lasioglossum politum,1
+C,50,Trifolium pratense,coleoptera,1
+C,51,Achillea millefolium,Colletes similis,1
+C,51,Achillea millefolium,Gymnosoma sp.,1
+C,51,Buphthalmum salicifolium,Sphaerophoria scripta,2
+C,51,Centaurea scabiosa,Apis mellifera,20
+C,51,Centaurea scabiosa,Bombus lapidarius,2
+C,51,Centaurea scabiosa,Bombus terrestris,1
+C,51,Centaurea scabiosa,Bombus terrestris aggr.,1
+C,51,Centaurea scabiosa,Halictus scabiosae,1
+C,51,Centaurea scabiosa,Lasioglossum pauxillum,1
+C,51,Cichorium intybus,Apis mellifera,4
+C,51,Cichorium intybus,Bombus lapidarius,2
+C,51,Cota tinctoria,Lasioglossum pauxillum,2
+C,51,Cota tinctoria,Sphaerophoria sp.,1
+C,51,Daucus carota,Eristalis arbustorum,1
+C,51,Daucus carota,Hylaeus punctatus,1
+C,51,Daucus carota,Mordellistena sp.,1
+C,51,Echium vulgare,Bombus terrestris aggr.,1
+C,51,Echium vulgare,Hoplitis adunca,2
+C,51,Erigeron annuus,Eristalis tenax,1
+C,51,Erigeron annuus,Lasioglossum morio,1
+C,51,Erigeron annuus,Sphaerophoria scripta,1
+C,51,Galega officinalis,Apis mellifera,1
+C,51,Lotus corniculatus,Anthidium oblongatum,1
+C,51,Lotus corniculatus,Anthidium punctatum,4
+C,51,Lotus corniculatus,Apis mellifera,3
+C,51,Lotus corniculatus,Halictus confusus,1
+C,51,Lotus corniculatus,Lasioglossum lativentre,1
+C,51,Lotus corniculatus,Thecophora sp.,1
+C,51,Malva alcea,Apis mellifera,7
+C,51,Medicago lupulina,Lasioglossum malachurum,1
+C,51,Melilotus albus,Apis mellifera,21
+C,51,Melilotus albus,Sphaerophoria scripta,1
+C,51,Picris hieracioides,Eupeodes luniger,1
+C,51,Picris hieracioides,Polistes dominula,1
+C,51,Potentilla reptans,Lasioglossum pauxillum,1
+C,51,Scabiosa columbaria,Apis mellifera,2
+C,51,Scabiosa columbaria,Bombus lapidarius,1
+C,51,Scabiosa columbaria,Halictus scabiosae,1
+C,51,Trifolium pratense,Ancistrocerus gazella,1
+C,51,Trifolium repens,Apis mellifera,3
+C,51,Verbascum blattaria,Lasioglossum nitidulum,1
+C,51,Vicia sepium,Bombus pascuorum,1
+C,52,Achillea millefolium,Andrena dorsata,1
+C,52,Achillea millefolium,Colletes daviesanus,1
+C,52,Achillea millefolium,Eristalis tenax,1
+C,52,Achillea millefolium,Halictus tumulorum,1
+C,52,Achillea millefolium,Heriades truncorum,1
+C,52,Achillea millefolium,Lasioglossum pauxillum,1
+C,52,Achillea millefolium,Lucilia sp.,1
+C,52,Centaurea scabiosa,Apis mellifera,1
+C,52,Daucus carota,Andrena afzeliella,1
+C,52,Daucus carota,Apis mellifera,2
+C,52,Daucus carota,Hylaeus communis,2
+C,52,Daucus carota,Lucilia sp.,1
+C,52,Daucus carota,hymenoptera,1
+C,52,Knautia arvensis,Halictus simplex aggr.,1
+C,52,Knautia arvensis,Sicus sp.,1
+C,52,Leucanthemum vulgare,Hylaeus nigritus,1
+C,52,Lotus corniculatus,Anthidium oblongatum,1
+C,52,Lotus corniculatus,Bombus lapidarius,1
+C,52,Origanum vulgare,Apis mellifera,12
+C,52,Trifolium pratense,Bombus pascuorum,2
+C,52,Trifolium repens,Andrena afzeliella,1
+C,52,Trifolium repens,Apis mellifera,98
+C,53,Achillea millefolium,Lasioglossum pauxillum,1
+C,53,Achillea millefolium,NA,1
+C,53,Centaurea jacea,Apis mellifera,2
+C,53,Centaurea jacea,Bombus humilis,1
+C,53,Centaurea jacea,Cryptocephalus sericeus,1
+C,53,Centaurea jacea,Hylaeus nigritus,1
+C,53,Centaurea jacea,Lasioglossum pauxillum,1
+C,53,Centaurea jacea,Megachile willughbiella,1
+C,53,Centaurea scabiosa,Bombus lapidarius,1
+C,53,Centaurea scabiosa,Lasioglossum pauxillum,1
+C,53,Daucus carota,Halictus subauratus,1
+C,53,Daucus carota,Lucilia sp.,1
+C,53,Daucus carota,NA,2
+C,53,Daucus carota,Pipizella viduata,1
+C,53,Daucus carota,Sphaerophoria scripta,1
+C,53,Daucus carota,diptera_T8,1
+C,53,Erigeron annuus,NA,1
+C,53,Galium verum,NA,1
+C,53,Lotus corniculatus,Anthidium oblongatum,4
+C,53,Lotus corniculatus,Apis mellifera,3
+C,53,Lotus corniculatus,Bombus lapidarius,2
+C,53,Lotus corniculatus,Bombus terrestris aggr.,2
+C,53,Lotus corniculatus,Halictus confusus,2
+C,53,Lotus corniculatus,Megachile ericetorum,1
+C,53,Lotus corniculatus,Megachile rotundata,2
+C,53,Lotus corniculatus,Megachile willughbiella,1
+C,53,Lotus corniculatus,Morphospecies 13,1
+C,53,Lotus corniculatus,Osmia caerulescens,1
+C,53,Malva alcea,Apis mellifera,1
+C,53,Medicago lupulina,cf. Ophiomyia sp.,1
+C,53,Medicago sativa,Apis mellifera,7
+C,53,Medicago sativa,Bombus pascuorum,1
+C,53,Medicago sativa,Bombus terrestris aggr.,1
+C,53,Medicago sativa,Lasioglossum morio,1
+C,53,Medicago sativa,Megachile argentata,1
+C,53,Medicago sativa,diptera_T16,1
+C,53,Melilotus albus,Apis mellifera,3
+C,53,Melilotus albus,Halictus subauratus,1
+C,53,Melilotus albus,Isodontia mexicana,1
+C,53,Origanum vulgare,Apis mellifera,4
+C,53,Plantago lanceolata,Lasioglossum pauxillum,1
+C,53,Prunella vulgaris,Bombus humilis,2
+C,53,Trifolium pratense,Bombus humilis,1
+C,53,Trifolium repens,Apis mellifera,2
+C,54,Campanula persicifolia,Apis mellifera,1
+C,54,Echium vulgare,Apis mellifera,59
+C,54,Echium vulgare,Bombus pascuorum,2
+C,54,Echium vulgare,Bombus terrestris aggr.,2
+C,54,Echium vulgare,Hoplitis adunca,3
+C,54,Echium vulgare,Lasioglossum laticeps,2
+C,54,Echium vulgare,Lasioglossum politum,2
+C,54,Lotus corniculatus,Lucilia sp.,1
+C,54,Medicago sativa,Apis mellifera,21
+C,54,Melilotus albus,Apis mellifera,8
+C,55,Cichorium intybus,Lasioglossum pauxillum,1
+C,55,Clematis vitalba,Apis mellifera,3
+C,55,Clematis vitalba,Eristalis tenax,1
+C,55,Crepis capillaris,Lasioglossum pauxillum,1
+C,55,Daucus carota,Lucilia sp.,2
+C,55,Eupatorium cannabinum,Apis mellifera,1
+C,55,Eupatorium cannabinum,Eristalis arbustorum,1
+C,55,Eupatorium cannabinum,Eristalis similis,2
+C,55,Eupatorium cannabinum,Lasioglossum calceatum,1
+C,55,Eupatorium cannabinum,Lucilia sp.,3
+C,55,Eupatorium cannabinum,Sphaerophoria taeniata,1
+C,55,Eupatorium cannabinum,Syritta pipiens,1
+C,55,Eupatorium cannabinum,diptera,1
+C,55,Galium verum,Deraeocoris ruber,1
+C,55,Galium verum,Lasioglossum laticeps,1
+C,55,Galium verum,Lucilia sp.,1
+C,55,Galium verum,diptera_Sa2,1
+C,55,Helianthemum nummularium,Apis mellifera,1
+C,55,Hypericum perforatum,Eristalis similis,1
+C,55,Hypochaeris radicata,Lasioglossum leucozonium,1
+C,55,Malva moschata,Apis mellifera,3
+C,55,Medicago sativa,Apis mellifera,1
+C,55,Origanum vulgare,Apis mellifera,1
+C,55,Origanum vulgare,Eristalis tenax,1
+C,55,Origanum vulgare,Helophilus pendulus,1
+C,55,Scabiosa columbaria,Apis mellifera,1
+C,55,Scabiosa columbaria,Bombus lucorum,1
+C,56,Campanula rapunculoides,Chelostoma rapunculi,1
+C,56,Centaurea jacea,Apis mellifera,7
+C,56,Centaurea jacea,Hylaeus nigritus,3
+C,56,Centaurea jacea,Megachile argentata,1
+C,56,Clinopodium vulgare,Bombus pascuorum,1
+C,56,Clinopodium vulgare,Lasioglossum morio,1
+C,56,Daucus carota,Cheilosia soror,1
+C,56,Daucus carota,Hylaeus pictipes,1
+C,56,Daucus carota,Hylaeus sp.,1
+C,56,Daucus carota,Morphospecies 9,2
+C,56,Daucus carota,NA,2
+C,56,Erigeron annuus,Lasioglossum pauxillum,3
+C,56,Galium mollugo aggr.,Lasioglossum laticeps,1
+C,56,Galium mollugo aggr.,Lasioglossum pauxillum,1
+C,56,Geranium pratense,Apis mellifera,1
+C,56,Knautia arvensis,Apis mellifera,5
+C,56,Knautia arvensis,Clanoptilus elegans,1
+C,56,Knautia dipsacifolia,Apis mellifera,2
+C,56,Knautia dipsacifolia,Megachile willughbiella,1
+C,56,Lotus corniculatus,Anthidium oblongatum,1
+C,56,Lotus corniculatus,Bombus humilis,1
+C,56,Lotus corniculatus,Megachile willughbiella,1
+C,56,Medicago sativa,Bombus terrestris aggr.,1
+C,56,Medicago sativa,Halictus confusus,1
+C,56,Medicago sativa,Lasioglossum pauxillum,1
+C,56,Onobrychis viciifolia,Bombus lapidarius,1
+C,56,Plantago lanceolata,Lasioglossum pauxillum,1
+C,56,Reseda lutea,Hylaeus gibbus aggr.,2
+C,56,Reseda lutea,Hylaeus sp.,2
+C,56,Salvia pratensis,Apis mellifera,1
+C,56,Salvia pratensis,Megachile ericetorum,1
+C,56,Tanacetum vulgare,Hylaeus nigritus,3
+C,56,Tanacetum vulgare,Lasioglossum pauxillum,1
+C,56,Tanacetum vulgare,NA,1
+C,56,Trifolium pratense,Oxythyrea funesta,1
+C,56,Trifolium repens,Bombus lapidarius,1
+C,56,Verbena officinalis,Apis mellifera,1
+C,56,Verbena officinalis,Sphaerophoria scripta,1
+C,56,Vicia sepium,Bombus humilis,1
+C,56,Vicia sepium,Bombus pascuorum,2
+C,57,Achillea millefolium,Lasioglossum pauxillum,1
+C,57,Centaurea jacea,Apis mellifera,1
+C,57,Centaurea jacea,Hylaeus nigritus,1
+C,57,Centaurea jacea,Larinus obtusus,1
+C,57,Centaurea stoebe,Apis mellifera,1
+C,57,Centaurea stoebe,Hylaeus nigritus,2
+C,57,Cirsium arvense,Apis mellifera,5
+C,57,Cirsium arvense,Hylaeus communis,1
+C,57,Cirsium vulgare,Apis mellifera,3
+C,57,Cirsium vulgare,Episyrphus balteatus,1
+C,57,Cirsium vulgare,Lasioglossum pauxillum,1
+C,57,Cota tinctoria,Apis mellifera,1
+C,57,Cota tinctoria,Halictus subauratus,1
+C,57,Cota tinctoria,Heriades truncorum,1
+C,57,Cota tinctoria,Lasioglossum pauxillum,4
+C,57,Cota tinctoria,Sphaerophoria scripta,1
+C,57,Echium vulgare,Apis mellifera,6
+C,57,Echium vulgare,Bombus pascuorum,1
+C,57,Echium vulgare,Lasioglossum morio,1
+C,57,Galium mollugo aggr.,Deraeocoris ruber,1
+C,57,Galium mollugo aggr.,Lasioglossum laticeps,1
+C,57,Galium mollugo aggr.,Lasioglossum pauxillum,2
+C,57,Galium mollugo aggr.,Lasioglossum politum,1
+C,57,Galium mollugo aggr.,NA,1
+C,57,Galium mollugo aggr.,wildbee,1
+C,57,Heracleum sphondylium,Hylaeus gredleri,1
+C,57,Lotus corniculatus,Apis mellifera,1
+C,57,Lotus corniculatus,Bombus lapidarius,1
+C,57,Lotus corniculatus,Lasioglossum pauxillum,2
+C,57,Lotus corniculatus,Megachile willughbiella,2
+C,57,Medicago sativa,Apis mellifera,1
+C,57,Medicago sativa,Megachile centuncularis,1
+C,57,Origanum vulgare,Apis mellifera,37
+C,57,Plantago lanceolata,Lasioglossum pauxillum,1
+C,57,Trifolium pratense,Apis mellifera,1
+C,57,Trifolium pratense,Bombus hortorum,1
+C,57,Trifolium repens,Apis mellifera,1
+C,57,Vicia sepium,Bombus humilis,1
+C,57,Vicia sepium,Bombus pascuorum,3
+C,58,Cirsium arvense,Apis mellifera,7
+C,58,Cirsium arvense,Hylaeus hyalinatus,1
+C,58,Cirsium arvense,Hylaeus punctatus,1
+C,58,Cirsium arvense,Lasioglossum pauxillum,1
+C,58,Cirsium arvense,Sicus sp.,1
+C,58,Cirsium vulgare,Apis mellifera,8
+C,58,Cota tinctoria,Lucilia sp.,1
+C,58,Cota tinctoria,diptera_A7,1
+C,58,Echium vulgare,Lasioglossum malachurum,1
+C,58,Erigeron annuus,Anogcodes rufiventris,1
+C,58,Erigeron annuus,Apis mellifera,2
+C,58,Erigeron annuus,Colletes similis,1
+C,58,Erigeron annuus,Halictus subauratus,1
+C,58,Erigeron annuus,Hylaeus hyalinatus,1
+C,58,Erigeron annuus,Lasioglossum laticeps,1
+C,58,Erigeron annuus,Lasioglossum malachurum,1
+C,58,Erigeron annuus,Lasioglossum pauxillum,2
+C,58,Erigeron annuus,Lucilia sp.,1
+C,58,Erigeron annuus,Melanostoma mellinum,1
+C,58,Erigeron annuus,Sphaerophoria scripta,1
+C,58,Erigeron annuus,Syrphus vitripennis,1
+C,58,Erigeron annuus,wildbee,1
+C,58,Malva sylvestris,Apis mellifera,6
+C,58,Medicago sativa,Polistes dominula,1
+C,58,Melilotus albus,Apis mellifera,23
+C,58,Melilotus officinalis,Apis mellifera,36
+C,58,Potentilla reptans,Andrena dorsata,1
+C,58,Tanacetum parthenium,Colletes similis,1
+C,58,Tanacetum parthenium,Lasioglossum laticeps,1
+C,58,Trifolium hybridum,Apis mellifera,5
+C,58,Trifolium hybridum,Oedemera lurida,1
+C,58,Trifolium pratense,Bombus humilis,2
+C,59,Achillea millefolium,Anthrenus verbasci,1
+C,59,Achillea millefolium,Apis mellifera,1
+C,59,Achillea millefolium,Lasioglossum laticeps,1
+C,59,Achillea millefolium,Lucilia sp.,1
+C,59,Achillea millefolium,Mordellistena sp.,1
+C,59,Achillea millefolium,Sphaerophoria scripta,1
+C,59,Echium vulgare,Apis mellifera,5
+C,59,Echium vulgare,Bombus pascuorum,1
+C,59,Echium vulgare,Hoplitis adunca,3
+C,59,Echium vulgare,Lasioglossum laticeps,2
+C,59,Echium vulgare,Lasioglossum malachurum,1
+C,59,Echium vulgare,Morphospecies 7,1
+C,59,Echium vulgare,Osmia bicornis,1
+C,59,Echium vulgare,Sphaerophoria scripta,1
+C,59,Helianthemum nummularium,Lasioglossum morio,1
+C,59,Onobrychis viciifolia,Apis mellifera,23
+C,59,Onobrychis viciifolia,Bombus pascuorum,1
+C,59,Onobrychis viciifolia,Bombus terrestris aggr.,5
+C,59,Onobrychis viciifolia,Chelostoma rapunculi,1
+C,60,Achillea millefolium,Hylaeus communis,1
+C,60,Achillea millefolium,Lasioglossum morio,1
+C,60,Centaurea jacea,Apis mellifera,25
+C,60,Geranium pratense,Apis mellifera,41
+C,60,Geranium pratense,Bombus humilis,1
+C,60,Geranium pratense,Bombus pascuorum,1
+C,60,Geranium pratense,Lasioglossum calceatum,1
+C,60,Geranium pratense,Lasioglossum pauxillum,1
+C,60,Medicago sativa,Apis mellifera,1
+C,60,Medicago sativa,Bombus pascuorum,1
+C,60,Ranunculus acris,Lasioglossum calceatum,1
+C,60,Trifolium pratense,Apis mellifera,3
+C,60,Trifolium pratense,Bombus pascuorum,1
