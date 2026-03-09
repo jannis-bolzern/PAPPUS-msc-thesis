@@ -1,0 +1,114 @@
+PAPPUS (bee-only) — overview_site_period_key_metrics.csv
+Column key + ranking recipe
+Network unit: one UGS site (100×100 m) × one sampling period (A/B/C)
+
+1) Data sources used
+- df_pollinator.xlsx (PAPPUS 2023 interactions):
+  Used to build bee-only interaction networks and all “bee network” metrics.
+  Duplicates are removed using the provided flags (is_duplicate, is_duplicate_across).
+- df_flowers.xlsx (PAPPUS 2023 vegetation survey / plant records):
+  Used to count plants recorded per site×period (community context).
+- UGS_list.xlsx:
+  Used to add site metadata (ugs_type, site_name).
+- WP4_final_trait_matrix_imputed.xlsx:
+  Used to determine whether each plant has trait data available (trait feasibility).
+- Bee_traits_all_CH.xlsx:
+  Used to determine whether each bee species has trait data available (trait feasibility).
+- botanical_garden_plant_list.csv (optional):
+  If provided, used to compute a weighted “Garden overlap” indicator (not used for ranking unless you decide to).
+
+2) Core definitions (important)
+- We use bees only:
+  Interaction records are filtered to bee families (Apidae, Andrenidae, Halictidae, Megachilidae, Colletidae, Melittidae)
+  plus common bee group keywords (wildbee/bombus/apis).
+- Link weight w:
+  For each plant–bee taxon pair within a site×period, w = sum(amount).
+  (amount comes from df_pollinator and represents the counted interaction abundance/events.)
+- “Interacting plants”:
+  Plants with ≥1 bee interaction in df_pollinator for that site×period.
+- “Bee taxa”:
+  A bee identifier built from the best available resolution:
+  - species name if available
+  - otherwise a morphospecies label
+  - otherwise a generic bee group label
+  (This keeps the bee-only dataset usable even when ID resolution varies.)
+
+3) Columns in overview_site_period_key_metrics.csv
+
+Identifiers / context
+- rank_overall
+  Rank (1 = best) by score_overall (descending).
+- network_id
+  Convenience ID “{period}_{ugs_id}” (e.g., B_33).
+- period
+  Sampling period (A, B, or C).
+- ugs_id
+  Site ID.
+- ugs_type, site_name
+  Site metadata from UGS_list.xlsx.
+
+Plant context (from df_flowers.xlsx)
+- plants_recorded
+  Number of plant taxa recorded in the vegetation survey for that site×period
+  (includes plants that were never visited by bees).
+- P_plants
+  Number of plant taxa that appear in bee interactions for that site×period.
+- plants_interaction_share
+  P_plants / plants_recorded.
+  (How much of the recorded flora appears in the bee interaction network.)
+
+Bee interaction network size (from df_pollinator.xlsx after bee-only filtering)
+- N_interactions
+  Total number of bee interaction counts in the network:
+  sum of all link weights w (i.e., sum(amount) across all plant–bee pairs).
+- A_bee_taxa
+  Number of distinct bee taxa in the network (species/morphospecies/group label).
+- L_links
+  Number of realized links = number of unique plant×bee_taxon pairs with w > 0.
+
+Reliability / identification quality (from df_pollinator.xlsx after bee-only filtering)
+- singleton_rate
+  Fraction of links with exactly one recorded interaction (w == 1).
+  Lower usually indicates a less “one-off” dominated network.
+- bee_species_id_share
+  Share of interaction counts contributed by bees identified to species level:
+  (sum(amount where tax_resolution == “species”)) / (sum(amount for all bee interactions)).
+  Higher = better taxonomic resolution for trait matching and comparability.
+
+Trait feasibility (can we use trait-based analyses?) 
+- plant_trait_weighted_cov  (from WP4_final_trait_matrix_imputed.xlsx + interaction weights)
+  Weighted plant trait coverage:
+  (sum of plant interaction weight where plant has trait data) / (sum of plant interaction weight).
+  “Weighted” means plants that account for many interactions matter more than rare plants.
+- bee_trait_weighted_cov  (from Bee_traits_all_CH.xlsx + interaction weights)
+  Weighted bee trait coverage:
+  (sum of bee interaction weight where bee species has trait data) / (sum of bee interaction weight).
+  Note: only species-level bee taxa can be matched directly to Bee_traits_all_CH.
+
+Optional feasibility indicator (not used in ranking by default)
+- botgarden_overlap_weighted
+  If a Botanical Garden list is provided, this is:
+  (sum of plant interaction weight for plants present in the Garden list) / (sum of plant interaction weight).
+  This can be used later as an explicit feasibility constraint or as an additional scoring component.
+
+4) How the ranking (scores) is computed
+
+Step A — rescale each metric to 0–1 (relative within dataset)
+To combine metrics with different units, each metric x is robustly rescaled:
+- compute the 5th and 95th percentiles of x across all networks
+- map values into [0,1] using that range and clamp outside values
+Interpretation: 1 = high relative to other networks, 0 = low relative to other networks.
+
+Step B — build three component scores
+- score_richness = mean( scaled N_interactions, scaled P_plants, scaled A_bee_taxa, scaled L_links )
+- score_reliability = mean( scaled (1 - singleton_rate), scaled bee_species_id_share )
+- score_trait_feasibility = mean( scaled plant_trait_weighted_cov, scaled bee_trait_weighted_cov )
+
+Step C — combine component scores into one overall score
+- score_overall = 0.50 * score_richness + 0.30 * score_reliability + 0.20 * score_trait_feasibility
+Then networks are ranked by score_overall (highest → lowest) to give rank_overall.
+
+Interpretation
+- High score_overall networks are (i) richer (more data), (ii) more reliable (less one-off dominated + better IDs),
+  and (iii) more feasible for trait-based analyses (traits available for the interaction “mass”).
+- This is a “data suitability” ranking (sampling/statistical + feasibility), not a claim about ecological “importance”.
