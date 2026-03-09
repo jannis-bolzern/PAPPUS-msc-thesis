@@ -1,5 +1,5 @@
-PAPPUS (bee-only) — overview_site_period_key_metrics.csv
-Column key + ranking recipe
+PAPPUS — overview_site_period_key_metrics.csv
+Column key + ranking method
 Network unit: one UGS site (100×100 m) × one sampling period (A/B/C)
 
 1) Data sources used
@@ -14,8 +14,8 @@ Network unit: one UGS site (100×100 m) × one sampling period (A/B/C)
   Used to determine whether each plant has trait data available (trait feasibility).
 - Bee_traits_all_CH.xlsx:
   Used to determine whether each bee species has trait data available (trait feasibility).
-- botanical_garden_plant_list.csv (optional):
-  If provided, used to compute a weighted “Garden overlap” indicator (not used for ranking unless you decide to).
+- botanical_garden_plant_list.csv (waiting on list):
+  If provided, used to compute a weighted “Garden overlap” indicator (not used for ranking so far).
 
 2) Core definitions (important)
 - We use bees only:
@@ -31,7 +31,6 @@ Network unit: one UGS site (100×100 m) × one sampling period (A/B/C)
   - species name if available
   - otherwise a morphospecies label
   - otherwise a generic bee group label
-  (This keeps the bee-only dataset usable even when ID resolution varies.)
 
 3) Columns in overview_site_period_key_metrics.csv
 
@@ -62,7 +61,7 @@ Bee interaction network size (from df_pollinator.xlsx after bee-only filtering)
   Total number of bee interaction counts in the network:
   sum of all link weights w (i.e., sum(amount) across all plant–bee pairs).
 - A_bee_taxa
-  Number of distinct bee taxa in the network (species/morphospecies/group label).
+  Number of distinct bee taxa in the network.
 - L_links
   Number of realized links = number of unique plant×bee_taxon pairs with w > 0.
 
@@ -75,7 +74,7 @@ Reliability / identification quality (from df_pollinator.xlsx after bee-only fil
   (sum(amount where tax_resolution == “species”)) / (sum(amount for all bee interactions)).
   Higher = better taxonomic resolution for trait matching and comparability.
 
-Trait feasibility (can we use trait-based analyses?) 
+Trait feasibility
 - plant_trait_weighted_cov  (from WP4_final_trait_matrix_imputed.xlsx + interaction weights)
   Weighted plant trait coverage:
   (sum of plant interaction weight where plant has trait data) / (sum of plant interaction weight).
@@ -85,11 +84,10 @@ Trait feasibility (can we use trait-based analyses?)
   (sum of bee interaction weight where bee species has trait data) / (sum of bee interaction weight).
   Note: only species-level bee taxa can be matched directly to Bee_traits_all_CH.
 
-Optional feasibility indicator (not used in ranking by default)
+Feasibility indicator (not used in ranking now)
 - botgarden_overlap_weighted
   If a Botanical Garden list is provided, this is:
   (sum of plant interaction weight for plants present in the Garden list) / (sum of plant interaction weight).
-  This can be used later as an explicit feasibility constraint or as an additional scoring component.
 
 4) How the ranking (scores) is computed
 
