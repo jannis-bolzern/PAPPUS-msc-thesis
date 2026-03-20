@@ -1,0 +1,3 @@
+primary_group,n_species_total,n_species_main,n_species_backup,n_preferred,n_good,n_reserve,n_period_a,n_period_b,n_period_c,n_main_period_a,n_main_period_b,n_main_period_c,families_present
+open_access,30,15,15,7,18,5,24,30,26,15,15,13,Amaryllidaceae; Apiaceae; Asteraceae; Caprifoliaceae; Cistaceae; Geraniaceae; Hydrangeaceae; Plantaginaceae; Ranunculaceae; Rosaceae; Rubiaceae
+restrictive_access,21,15,6,6,9,6,15,21,18,13,15,13,Boraginaceae; Caprifoliaceae; Fabaceae; Lamiaceae; Orobanchaceae; Plantaginaceae
